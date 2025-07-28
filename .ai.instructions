@@ -1,0 +1,132 @@
+# AI Development Instructions
+
+## Project Standards & Constraints
+
+### Code Quality Rules (STRICT - Build will fail if violated)
+- **Cyclomatic Complexity**: Maximum 5 per function
+- **File Length**: Maximum 280 lines per file  
+- **Function Length**: Maximum 52 lines per function
+- **Single Responsibility**: Each file/function has one clear purpose
+- **TypeScript**: Strict mode enabled, no `any` types allowed
+
+### Naming Conventions (ENFORCED)
+- **Files/Components**: PascalCase (e.g., `UserProfile.tsx`, `DataTable.tsx`)
+- **Functions/Variables**: camelCase (e.g., `getUserData`, `isLoading`)
+- **Constants**: UPPER_SNAKE_CASE (e.g., `API_BASE_URL`)
+- **Avoid**: "Simple", "Amazing", "Optimized", "Enhanced", "Updated", "Unified" in names
+
+### File Structure (REQUIRED)
+```
+src/
+├── components/
+│   ├── ui/           # Reusable UI components
+│   ├── forms/        # Form-specific components  
+│   └── layout/       # Layout components
+├── hooks/            # Custom React hooks
+├── lib/              # Utilities and configurations
+├── types/            # TypeScript type definitions
+├── locales/          # i18n translation files
+├── pages/            # Page components
+└── services/         # API and external services
+```
+
+### Technology Stack (MANDATORY)
+- **Framework**: React 18 + TypeScript + Vite
+- **Styling**: Tailwind CSS (lean, no unnecessary classes)
+- **UI Components**: Radix UI primitives only
+- **Validation**: Zod schemas for all data
+- **Internationalization**: react-i18next
+- **Special**: lovable-tagger integration required
+
+## AI Coding Guidelines
+
+### When Writing Code:
+1. **Start with types** - Define TypeScript interfaces first
+2. **Use Zod validation** - All external data must be validated
+3. **Leverage Radix UI** - Don't reinvent common UI patterns
+4. **Keep functions pure** - Minimize side effects
+5. **Extract custom hooks** - Reuse stateful logic
+6. **Implement error boundaries** - Handle failures gracefully
+
+### Tailwind Usage:
+- Use utility classes efficiently, avoid redundancy
+- Prefer responsive design patterns
+- Use CSS variables for theme consistency
+- Keep class lists readable (max 5-6 classes per element)
+
+### Component Patterns:
+```typescript
+// Good: Single responsibility, typed props, Zod validation
+interface UserCardProps {
+  user: User
+  onEdit: (id: string) => void
+}
+
+export const UserCard = ({ user, onEdit }: UserCardProps): JSX.Element => {
+  const validatedUser = UserSchema.parse(user)
+  
+  return (
+    <Card className="p-4">
+      <CardContent>
+        <h3 className="text-lg font-semibold">{validatedUser.name}</h3>
+        <Button onClick={() => onEdit(validatedUser.id)}>
+          Edit User
+        </Button>
+      </CardContent>
+    </Card>
+  )
+}
+```
+
+### Error Handling:
+- Use error boundaries for component-level errors
+- Implement proper loading states
+- Validate all props with Zod schemas
+- Provide meaningful error messages
+
+### Performance:
+- Use React.memo for expensive components
+- Implement proper dependency arrays in hooks
+- Lazy load routes and heavy components
+- Optimize bundle size with proper imports
+
+### Testing Approach:
+- Write tests for business logic functions
+- Test component behavior, not implementation
+- Mock external dependencies
+- Maintain >80% test coverage
+
+## Development Workflow
+
+### Before Starting:
+1. Understand the single responsibility of the component/function
+2. Define TypeScript types and Zod schemas
+3. Plan the component structure within complexity limits
+4. Consider reusability and maintainability
+
+### Code Review Checklist:
+- [ ] Passes ESLint with no warnings
+- [ ] Formatted with Prettier
+- [ ] TypeScript compiles without errors
+- [ ] All functions under 52 lines
+- [ ] Cyclomatic complexity under 5
+- [ ] Proper error handling implemented
+- [ ] Responsive design considerations
+- [ ] Accessible UI components used
+
+### Common Patterns to Follow:
+- Custom hooks for reusable logic
+- Error boundaries for graceful failures
+- Consistent prop validation with Zod
+- Proper TypeScript typing throughout
+- Efficient Tailwind class usage
+- i18n integration for all user-facing text
+
+## Commands Reference:
+- `npm run dev` - Start development server
+- `npm run build` - Production build (includes type-check + lint)
+- `npm run lint` - Check code quality
+- `npm run format` - Format code with Prettier
+- `npm run type-check` - TypeScript validation
+
+Remember: The build will fail if any of these standards are violated. Focus on clean, maintainable code that follows these constraints.
