@@ -8,3 +8,5 @@
 {"seq":7,"speaker":"remote","start_ms":14984,"end_ms":16384,"text":"Hur svårt kan det vara?","lang":"Swedish"}
 {"seq":8,"speaker":"me","start_ms":16384,"end_ms":18840,"text":"Hey hey, I just want to check if it works.","lang":"English"}
 {"seq":9,"speaker":"me","start_ms":18840,"end_ms":21104,"text":"Hej, hej. Funkar det här eller?","lang":"Swedish"}
+{"seq":10,"speaker":"me","start_ms":21104,"end_ms":22408,"text":"Hej hej!","lang":"Swedish"}
+{"seq":11,"speaker":"me","start_ms":22408,"end_ms":26144,"text":"Tjena, tjena. Vad händer, bror?","lang":"Swedish"}

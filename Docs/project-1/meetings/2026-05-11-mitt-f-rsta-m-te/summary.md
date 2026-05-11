@@ -1,9 +1,9 @@
 # Mötessammanfattning
 ## Beslut
 Inga beslut nämndes under mötet.
-## Åtgärder
-Inga åtgärder tilldelades specifika ansvariga under mötet.
+## Åtgärdspunkter
+Inga åtgärdspunkter nämndes under mötet.
 ## Öppna frågor
-Mötesdeltagare diskuterade möjligheten att samarbeta med RK, men inga specifika detaljer eller frågor besvarades.
+Mötet tycks ha saknat en tydlig agenda eller diskussion om specifika frågor.
 ## Övriga noterbara punkter
-Mötet tycktes fokusera på att testa en anslutning eller ett system, och deltagare uttryckte försiktighet och undrade om det fungerade som avsett.
+Mötet innehöll en del informellt småprat och testande av kommunikationskanalen, men saknade en tydlig struktur eller innehåll.
