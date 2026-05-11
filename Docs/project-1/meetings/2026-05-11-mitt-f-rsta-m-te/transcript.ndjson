@@ -7,3 +7,4 @@
 {"seq":6,"speaker":"remote","start_ms":14128,"end_ms":14984,"text":"Fint.","lang":"Swedish"}
 {"seq":7,"speaker":"remote","start_ms":14984,"end_ms":16384,"text":"Hur svårt kan det vara?","lang":"Swedish"}
 {"seq":8,"speaker":"me","start_ms":16384,"end_ms":18840,"text":"Hey hey, I just want to check if it works.","lang":"English"}
+{"seq":9,"speaker":"me","start_ms":18840,"end_ms":21104,"text":"Hej, hej. Funkar det här eller?","lang":"Swedish"}
