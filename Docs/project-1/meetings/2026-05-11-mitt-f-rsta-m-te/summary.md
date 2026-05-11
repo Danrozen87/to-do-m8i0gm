@@ -1,10 +1,13 @@
-## Action Items
-* Lära och minnas: enligt transkripten nämns att "Om ni är de enda med förrgångsförmån, så måste ni hjälpa mig med att lära och minnas"
-* Hjälp med anteckningar: remote nämner "What about notes?"
+# Mitt första möte
+## Åtgärder
+* Inga specifika åtgärder nämns i samtalet, men det diskuteras att samarbeta med RK för att förstå nästa del i projektet.
 
-## Decisions
-* Inga uttryckliga beslut nämns i transkriptet
+## Beslut
+* Inga beslut nämns specifikt i samtalet, men det finns en diskussion om att vara försiktig, som exemplifieras av uttalandet "-Var försiktig!".
 
-## Open Questions
-* Hur svårt kan det vara?: remote ställer frågan "Hur svårt kan det vara?" utan att få något svar i transkriptet
-* "Såg jag inte att planen inte skulle fungera?": remote uttrycker en undran om planen, men ingen lösning eller diskussion följer i transkriptet
+## Öppna frågor
+* En öppen fråga kan vara hur man ska gå vidare med projektet, särskilt med tanke på att det nämns att "Vi behöver jobba tillsammans med RK för att förstå nästa del i projektet."
+
+## Viktiga diskussionspunkter
+* Samarbetet med RK för att förstå nästa del i projektet, som nämns med orden "Vi behöver jobba tillsammans med RK för att förstå nästa del i projektet."
+* Varningen för att vara försiktig, exemplifierad med uttalanden som "-Var försiktig!" och "Be careful."
