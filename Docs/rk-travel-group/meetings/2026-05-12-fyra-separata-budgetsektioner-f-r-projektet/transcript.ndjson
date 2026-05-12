@@ -1,0 +1,856 @@
+{"seq":0,"speaker":"remote","speaker_label":"Speaker 1","start_ms":1580,"end_ms":4900,"text":"Vi lägger en sån här barnfot av Ida så bara-","lang":"swe"}
+{"seq":1,"speaker":"remote","speaker_label":"Speaker 2","start_ms":5700,"end_ms":6180,"text":"På plats.","lang":"swe"}
+{"seq":2,"speaker":"remote","speaker_label":"Speaker 2","start_ms":9080,"end_ms":9540,"text":"Nu kör vi.","lang":"swe"}
+{"seq":3,"speaker":"remote","speaker_label":"Speaker 1","start_ms":9580,"end_ms":11380,"text":"Mm. Kan vi ta bort den?","lang":"swe"}
+{"seq":4,"speaker":"remote","speaker_label":"Speaker 2","start_ms":11820,"end_ms":12040,"text":"Så.","lang":"swe"}
+{"seq":5,"speaker":"remote","speaker_label":"Speaker 2","start_ms":14840,"end_ms":20840,"text":"Så. Det vi ska göra nu är alltså gå igenom steg för steg vad vi har i utkastet nu.","lang":"swe"}
+{"seq":6,"speaker":"remote","speaker_label":"Speaker 1","start_ms":21140,"end_ms":21380,"text":"Ja.","lang":"swe"}
+{"seq":7,"speaker":"remote","speaker_label":"Speaker 2","start_ms":22120,"end_ms":28820,"text":"Och se om det funkar så som vi vill att det ska funka. Eh, och sen, eh,","lang":"swe"}
+{"seq":8,"speaker":"remote","speaker_label":"Speaker 2","start_ms":30960,"end_ms":34580,"text":"ja, se vart vi kan förbättra och hur vi kan göra om. Eh,","lang":"swe"}
+{"seq":9,"speaker":"remote","speaker_label":"Speaker 2","start_ms":36160,"end_ms":43340,"text":"och det vi repeterar det här då, det så som vi vill ha upplägget är att vi nu sa vi senast att vi vill ha fyra delar då.","lang":"swe"}
+{"seq":10,"speaker":"remote","speaker_label":"Speaker 3","start_ms":43620,"end_ms":43720,"text":"Mm.","lang":"swe"}
+{"seq":11,"speaker":"remote","speaker_label":"Speaker 2","start_ms":44080,"end_ms":64440,"text":"Att och det här som finns nu, det är liksom en av delarna som är kostnadsbudgeten. Sen har vi en del som är intäktsbudgeten. Den budgeteras på ett sätt. Sen har vi personalkostnader som är, eh, den andra delen och den budgeteras på, också på ett eget sätt. Sen har vi COGS","lang":"swe"}
+{"seq":12,"speaker":"remote","speaker_label":"Speaker 2","start_ms":66000,"end_ms":75000,"text":"som budgeteras på ett tredje sätt och sen har vi den här då, eh, som, eh, budgeteras på, på sitt sätt.","lang":"swe"}
+{"seq":13,"speaker":"remote","speaker_label":"Speaker 3","start_ms":75140,"end_ms":75260,"text":"Mm.","lang":"swe"}
+{"seq":14,"speaker":"remote","speaker_label":"Speaker 1","start_ms":76060,"end_ms":77330,"text":"Är det övriga kostnader eller?","lang":"swe"}
+{"seq":15,"speaker":"remote","speaker_label":"Speaker 2","start_ms":77420,"end_ms":79760,"text":"Ja, alla övriga kostnader. Ja.","lang":"swe"}
+{"seq":16,"speaker":"remote","speaker_label":"Speaker 1","start_ms":80060,"end_ms":85270,"text":"Och då är det väl lämpligt. Du börjar med allt som är övriga kostnader och kanske personal i dag då. Eller?","lang":"swe"}
+{"seq":17,"speaker":"remote","speaker_label":"Speaker 2","start_ms":85280,"end_ms":89010,"text":"Alltså personal har vi ingen... Personal finns det ju en flik för här.","lang":"swe"}
+{"seq":18,"speaker":"remote","speaker_label":"Speaker 1","start_ms":89280,"end_ms":89560,"text":"Ja.","lang":"swe"}
+{"seq":19,"speaker":"remote","speaker_label":"Speaker 2","start_ms":89880,"end_ms":111420,"text":"Men det som, som är just nu, det är att, att Finance ger bara en input. Såhär ser personalkostnaderna ut. Vi vill ju bygga en hel, liksom, egen sektion där vi, där den här appen faktiskt kan liksom, där vi kan budgetera personalkostnaderna utifrån vad vi diskuterade vid förra sittningen. För då pratade vi ganska mycket om personalkostnader och hur vi vill budgetera det.","lang":"swe"}
+{"seq":20,"speaker":"remote","speaker_label":"Speaker 1","start_ms":112620,"end_ms":116800,"text":"Så de här fyra olika sektionerna eller vad vill du kalla dem för?","lang":"swe"}
+{"seq":21,"speaker":"remote","speaker_label":"Speaker 1","start_ms":118420,"end_ms":127660,"text":"Intäktsbudget, COGS, personalkostnader och övriga kostnader. De fyra olika. De sätter vi ihop sen för ett total-","lang":"swe"}
+{"seq":22,"speaker":"remote","speaker_label":"Speaker 2","start_ms":128320,"end_ms":128538,"text":"Exakt.","lang":"swe"}
+{"seq":23,"speaker":"remote","speaker_label":"Speaker 1","start_ms":128758,"end_ms":140859,"text":"Budgetprocess alltså. Men, men som Dan sa, Abersnes, är det bra att ha dem separerat för att kanske vara lite tydligare i... Är det så vi ska se det?","lang":"swe"}
+{"seq":24,"speaker":"remote","speaker_label":"Speaker 2","start_ms":141000,"end_ms":149079,"text":"Ja, och anle-- en till anledning till att vi vill ha dem separerade är därför att det är olika personer som är involverade i de olika fyra processerna.","lang":"swe"}
+{"seq":25,"speaker":"remote","speaker_label":"Speaker 1","start_ms":149140,"end_ms":150380,"text":"Yes.","lang":"swe"}
+{"seq":26,"speaker":"remote","speaker_label":"Speaker 2","start_ms":150410,"end_ms":155340,"text":"Så det är inte samma personer nödvändigtvis som jobbar med intäktsbudgeten som också jobbar med-","lang":"swe"}
+{"seq":27,"speaker":"remote","speaker_label":"Speaker 1","start_ms":155540,"end_ms":156840,"text":"Nej. Precis så","lang":"swe"}
+{"seq":28,"speaker":"remote","speaker_label":"Speaker 2","start_ms":156960,"end_ms":162500,"text":"...COGS eller någon av de andra delarna. Det kan ju vara samma, men det behöver inte vara det.","lang":"swe"}
+{"seq":29,"speaker":"remote","speaker_label":"Speaker 1","start_ms":162600,"end_ms":169600,"text":"Men vill vi inte ha att all input görs i samma? Alltså fast olika avsnitt eller olika-","lang":"swe"}
+{"seq":30,"speaker":"remote","speaker_label":"Speaker 2","start_ms":169700,"end_ms":182540,"text":"Jo, precis, alla ska ju hanteras i den här appen, men det ska vara tydligt att det är olika avsnitt. Att det är intäkter på ett ställe, COGS på ett ställe, personalkostnader på ett och övriga kostnader på ett.","lang":"swe"}
+{"seq":31,"speaker":"remote","speaker_label":"Speaker 3","start_ms":182580,"end_ms":186960,"text":"Men sen att man kan se hela budgeten i ett utfall någonstans på en flik sen.","lang":"swe"}
+{"seq":32,"speaker":"remote","speaker_label":"Speaker 2","start_ms":187220,"end_ms":187320,"text":"Ja.","lang":"swe"}
+{"seq":33,"speaker":"remote","speaker_label":"Speaker 3","start_ms":187370,"end_ms":189060,"text":"Alltså summan av alltihopa.","lang":"swe"}
+{"seq":34,"speaker":"remote","speaker_label":"Speaker 2","start_ms":189560,"end_ms":190960,"text":"Summan av alla fyra.","lang":"swe"}
+{"seq":35,"speaker":"remote","speaker_label":"Speaker 3","start_ms":191320,"end_ms":192420,"text":"Det vill man ju väl också se.","lang":"swe"}
+{"seq":36,"speaker":"remote","speaker_label":"Speaker 2","start_ms":193020,"end_ms":203440,"text":"Exakt. Och det man också vill se är, eh, i när vi tar ett utfall så vill man ju kunna ta utfall avdelning för avdelning.","lang":"swe"}
+{"seq":37,"speaker":"remote","speaker_label":"Speaker 3","start_ms":204020,"end_ms":204140,"text":"Mm.","lang":"swe"}
+{"seq":38,"speaker":"remote","speaker_label":"Speaker 2","start_ms":204420,"end_ms":205920,"text":"Eller allting tillsammans.","lang":"swe"}
+{"seq":39,"speaker":"remote","speaker_label":"Speaker 3","start_ms":206060,"end_ms":206140,"text":"Ja.","lang":"swe"}
+{"seq":40,"speaker":"remote","speaker_label":"Speaker 2","start_ms":206820,"end_ms":215240,"text":"Eh, eller bara intäkterna eller bara personalkostnaderna. Eller alltså sektion för sektion ska gå att plocka ut var för sig.","lang":"swe"}
+{"seq":41,"speaker":"remote","speaker_label":"Speaker 3","start_ms":215320,"end_ms":218860,"text":"Är det även då typ produkt för produkt, typ intäkter eller?","lang":"swe"}
+{"seq":42,"speaker":"remote","speaker_label":"Speaker 2","start_ms":219480,"end_ms":225340,"text":"Ja, den ska ju vara uppdelad per produkt och sen hur man, alltså så det är i alla fall, liksom, uppdelat per produkt.","lang":"swe"}
+{"seq":43,"speaker":"remote","speaker_label":"Speaker 3","start_ms":227320,"end_ms":228080,"text":"Precis.","lang":"swe"}
+{"seq":44,"speaker":"remote","speaker_label":"Speaker 2","start_ms":228100,"end_ms":231299,"text":"Så det ska finnas olika varianter på outputs.","lang":"swe"}
+{"seq":45,"speaker":"remote","speaker_label":"Speaker 3","start_ms":231320,"end_ms":234290,"text":"Även COGS då ska väl kopplas ofta till en produkt.","lang":"swe"}
+{"seq":46,"speaker":"remote","speaker_label":"Speaker 2","start_ms":234340,"end_ms":237670,"text":"Till en produkt ja, precis. Exakt. Mm.","lang":"swe"}
+{"seq":47,"speaker":"remote","speaker_label":"Speaker 1","start_ms":238320,"end_ms":241120,"text":"Kombinerar det med fördelningsnycklar då eller?","lang":"swe"}
+{"seq":48,"speaker":"remote","speaker_label":"Speaker 3","start_ms":242190,"end_ms":250020,"text":"Vi-- Lite olika beroende på vilken COGS det är, men vissa COGS är ju specifikt för att sälja en viss produkt.","lang":"swe"}
+{"seq":49,"speaker":"remote","speaker_label":"Speaker 1","start_ms":250100,"end_ms":251000,"text":"Mm. Jo.","lang":"swe"}
+{"seq":50,"speaker":"remote","speaker_label":"Speaker 3","start_ms":251420,"end_ms":254460,"text":"Vissa är säkert väldigt generella också. Jag vet inte.","lang":"swe"}
+{"seq":51,"speaker":"remote","speaker_label":"Speaker 1","start_ms":254540,"end_ms":256409,"text":"Jag tänker vissa saker är ju-","lang":"swe"}
+{"seq":52,"speaker":"remote","speaker_label":"Speaker 3","start_ms":257839,"end_ms":258690,"text":"Då är det svårt.","lang":"swe"}
+{"seq":53,"speaker":"remote","speaker_label":"Speaker 1","start_ms":258690,"end_ms":262340,"text":"Svåra att fördela. Isf då måste man ha fördelningsnycklar. Vad är det för kostnad det är liksom?","lang":"swe"}
+{"seq":54,"speaker":"remote","speaker_label":"Speaker 3","start_ms":262710,"end_ms":263120,"text":"Ja, exakt.","lang":"swe"}
+{"seq":55,"speaker":"remote","speaker_label":"Speaker 1","start_ms":263740,"end_ms":276680,"text":"Är det så? Hur bra vet ni hur, alltså jag tänker COGS. För det känns ju som att det skulle man nästan behöva förhöra sig. I alla fall jag tänker att jag vet inte så mycket hur, vilka är beroende av vilka volymer och alltså-","lang":"swe"}
+{"seq":56,"speaker":"remote","speaker_label":"Speaker 2","start_ms":276800,"end_ms":276810,"text":"Mm.","lang":"swe"}
+{"seq":57,"speaker":"remote","speaker_label":"Speaker 1","start_ms":277180,"end_ms":303740,"text":"Lager, lagerinställda och så. Så jag har ingen bild av hur det skulle se ut här. Alltså om man skulle, utan då skulle man nästan behöva fråga Henry och liksom hur alla våra tänkbara COGS-kostnader. Det skulle kunna vara ett nästa steg det snarare att, att jag menar när vi budgeterar så budgeterar vi in alla kostnader som COGS då, att vi får med alla kostnader och sen fördelningen per produkt kanske är nästa steg givet att, eh,","lang":"swe"}
+{"seq":58,"speaker":"remote","speaker_label":"Speaker 1","start_ms":305760,"end_ms":305960,"text":"ja.","lang":"swe"}
+{"seq":59,"speaker":"remote","speaker_label":"Speaker 3","start_ms":306300,"end_ms":307980,"text":"Vi har ju inte riktigt än nån form.","lang":"swe"}
+{"seq":60,"speaker":"remote","speaker_label":"Speaker 1","start_ms":308060,"end_ms":309020,"text":"Nej, det är det jag menar.","lang":"swe"}
+{"seq":61,"speaker":"remote","speaker_label":"Speaker 3","start_ms":309040,"end_ms":313280,"text":"Men det är ju nånting kanske man skulle vilja ha. Så nånting vi kan ta sen då.","lang":"swe"}
+{"seq":62,"speaker":"remote","speaker_label":"Speaker 1","start_ms":313540,"end_ms":315480,"text":"För intäkterna kommer ju också per produkt.","lang":"swe"}
+{"seq":63,"speaker":"remote","speaker_label":"Speaker 3","start_ms":315540,"end_ms":319580,"text":"Ja, ja precis. Men vi behöver ju ha bättre koll på kost...","lang":"swe"}
+{"seq":64,"speaker":"remote","speaker_label":"Speaker 1","start_ms":319720,"end_ms":321200,"text":"Absolut, absolut.","lang":"swe"}
+{"seq":65,"speaker":"remote","speaker_label":"Speaker 3","start_ms":322040,"end_ms":322050,"text":"Mm.","lang":"swe"}
+{"seq":66,"speaker":"remote","speaker_label":"Speaker 1","start_ms":322050,"end_ms":324920,"text":"Men det var det jag tänkte ifall då kommer vi inte ens in på COGS i dag.","lang":"swe"}
+{"seq":67,"speaker":"remote","speaker_label":"Speaker 3","start_ms":325210,"end_ms":325210,"text":"Nej.","lang":"swe"}
+{"seq":68,"speaker":"remote","speaker_label":"Speaker 1","start_ms":325220,"end_ms":335240,"text":"Alltså för att för mig, jag vet inte om jag har så mycket input hur den ska se ut utan att veta om vi behöver fråga Henry och med flera.","lang":"swe"}
+{"seq":69,"speaker":"remote","speaker_label":"Speaker 3","start_ms":335480,"end_ms":335680,"text":"Mm.","lang":"swe"}
+{"seq":70,"speaker":"remote","speaker_label":"Speaker 3","start_ms":337220,"end_ms":337700,"text":"Precis.","lang":"swe"}
+{"seq":71,"speaker":"remote","speaker_label":"Speaker 2","start_ms":339360,"end_ms":343080,"text":"Eh, och jag tänker att det vi gör nu, vi går igenom och tittar vad vi har.","lang":"swe"}
+{"seq":72,"speaker":"remote","speaker_label":"Speaker 3","start_ms":343390,"end_ms":343390,"text":"Ja.","lang":"swe"}
+{"seq":73,"speaker":"remote","speaker_label":"Speaker 2","start_ms":343500,"end_ms":354390,"text":"Eh, och sen får vi se lite vad klockan är. Så hinner vi liksom titta på intäkterna, alltså intäktsbudgeten, eh, så kan vi väl börja med det om vi känner att vi hinner.","lang":"swe"}
+{"seq":74,"speaker":"remote","speaker_label":"Speaker 2","start_ms":356150,"end_ms":363020,"text":"Eh, för du och jag, Niklas, har ju ett utkast på en ny Excelmall för hur intäktsbudgeten skulle kunna se ut.","lang":"swe"}
+{"seq":75,"speaker":"remote","speaker_label":"Speaker 1","start_ms":363160,"end_ms":363300,"text":"Mm.","lang":"swe"}
+{"seq":76,"speaker":"remote","speaker_label":"Speaker 2","start_ms":364060,"end_ms":368060,"text":"Eh, som vi skulle kunna ha liksom som någon form av skelett till att börja.","lang":"swe"}
+{"seq":77,"speaker":"remote","speaker_label":"Speaker 1","start_ms":369000,"end_ms":369010,"text":"Mm.","lang":"swe"}
+{"seq":78,"speaker":"remote","speaker_label":"Speaker 2","start_ms":370690,"end_ms":376870,"text":"Mm. Men vi börjar väl uppifrån och ner då. Och nu går vi in i rollen som","lang":"swe"}
+{"seq":79,"speaker":"remote","speaker_label":"Speaker 2","start_ms":378650,"end_ms":380210,"text":"Fin-Finance admin.","lang":"swe"}
+{"seq":80,"speaker":"remote","speaker_label":"Speaker 4","start_ms":381070,"end_ms":381330,"text":"Ja.","lang":"swe"}
+{"seq":81,"speaker":"remote","speaker_label":"Speaker 2","start_ms":382130,"end_ms":393570,"text":"Eh, och då så, eh, har vi dashboard. Vi går dit. Ser hur den ser ut. Då kan vi se att vi har nitton aktiva cost centers.","lang":"swe"}
+{"seq":82,"speaker":"remote","speaker_label":"Speaker 4","start_ms":394950,"end_ms":396570,"text":"Och det är väl det vi har samtliga vi har.","lang":"swe"}
+{"seq":83,"speaker":"remote","speaker_label":"Speaker 3","start_ms":396610,"end_ms":398190,"text":"Kan man klicka där och se dem då?","lang":"swe"}
+{"seq":84,"speaker":"remote","speaker_label":"Speaker 2","start_ms":399650,"end_ms":400410,"text":"Nej, det kan vi inte.","lang":"swe"}
+{"seq":85,"speaker":"remote","speaker_label":"Speaker 3","start_ms":400450,"end_ms":400840,"text":"Det vill jag.","lang":"swe"}
+{"seq":86,"speaker":"remote","speaker_label":"Speaker 2","start_ms":401390,"end_ms":431430,"text":"Det vill du. Du vill kunna klicka på... Ja. Precis. Det kan vi göra sen när man går in på respektive budget här. Nu får vi ändra till, jag vet inte varför den hoppar till 2026, men det ska vara 2027 där. Och då ligger ju alla budgetar här. Så här har vi dem. En, två, tre, fyr, fem, sex, sju, åtta, nio, tio, elva, tolv, tretton, fjorton, femton, sexton, sjutton, arton, nitton.","lang":"swe"}
+{"seq":87,"speaker":"remote","speaker_label":"Speaker 3","start_ms":431490,"end_ms":432369,"text":"Mm, det är dem.","lang":"swe"}
+{"seq":88,"speaker":"remote","speaker_label":"Speaker 3","start_ms":434790,"end_ms":436790,"text":"Okej. Ja, det är bra.","lang":"swe"}
+{"seq":89,"speaker":"remote","speaker_label":"Speaker 2","start_ms":437030,"end_ms":437330,"text":"Mm.","lang":"swe"}
+{"seq":90,"speaker":"remote","speaker_label":"Speaker 3","start_ms":437380,"end_ms":438110,"text":"Det kanske räcker.","lang":"swe"}
+{"seq":91,"speaker":"remote","speaker_label":"Speaker 2","start_ms":439570,"end_ms":442390,"text":"Men det hade ju varit snyggt om de är klickbara redan från dashboarden.","lang":"swe"}
+{"seq":92,"speaker":"remote","speaker_label":"Speaker 3","start_ms":443030,"end_ms":445640,"text":"Ja, jag blev som bara nyfiken på att se det direkt kände jag.","lang":"swe"}
+{"seq":93,"speaker":"remote","speaker_label":"Speaker 2","start_ms":445650,"end_ms":451510,"text":"Men här är ju open reports. Vi klickar på den då och ser vad vi kommer till då. Då kommer vi till drafts.","lang":"swe"}
+{"seq":94,"speaker":"remote","speaker_label":"Speaker 3","start_ms":451590,"end_ms":452770,"text":"Ja, där har vi dem.","lang":"swe"}
+{"seq":95,"speaker":"remote","speaker_label":"Speaker 2","start_ms":454650,"end_ms":457340,"text":"Då har vi dem i en lista. Och kan jag-","lang":"swe"}
+{"seq":96,"speaker":"remote","speaker_label":"Speaker 4","start_ms":457770,"end_ms":460980,"text":"Irritera dig lite grann, att det står business development och det är på commercial development.","lang":"swe"}
+{"seq":97,"speaker":"remote","speaker_label":"Speaker 2","start_ms":461430,"end_ms":463610,"text":"Ja, commercial development.","lang":"swe"}
+{"seq":98,"speaker":"remote","speaker_label":"Speaker 4","start_ms":463630,"end_ms":465630,"text":"Istället för business development. Tack.","lang":"swe"}
+{"seq":99,"speaker":"remote","speaker_label":"Speaker 2","start_ms":466250,"end_ms":470380,"text":"Vi vill daka, döpa om business dev till commercial dev.","lang":"swe"}
+{"seq":100,"speaker":"remote","speaker_label":"Speaker 2","start_ms":472030,"end_ms":476170,"text":"Det är ju-- anledningen till att det är så, det är ju för att det är fel i inputen.","lang":"swe"}
+{"seq":101,"speaker":"remote","speaker_label":"Speaker 4","start_ms":476250,"end_ms":478690,"text":"Ja, förstår. Men vi rättar till det.","lang":"swe"}
+{"seq":102,"speaker":"remote","speaker_label":"Speaker 2","start_ms":478810,"end_ms":485750,"text":"Nu rättar vi till det. Men om vi klickar på den här då, då kommer vi till den då? Ja, då kommer vi till den budgeten.","lang":"swe"}
+{"seq":103,"speaker":"remote","speaker_label":"Speaker 4","start_ms":485830,"end_ms":486010,"text":"Ja.","lang":"swe"}
+{"seq":104,"speaker":"remote","speaker_label":"Speaker 2","start_ms":487230,"end_ms":491090,"text":"Men vi går tillbaka till dashboarden och kollar vad har vi mer där då. Här kan vi se","lang":"swe"}
+{"seq":105,"speaker":"remote","speaker_label":"Speaker 2","start_ms":492610,"end_ms":493290,"text":"status.","lang":"swe"}
+{"seq":106,"speaker":"remote","speaker_label":"Speaker 4","start_ms":493570,"end_ms":496350,"text":"Mm. Det är bra.","lang":"swe"}
+{"seq":107,"speaker":"remote","speaker_label":"Speaker 3","start_ms":496390,"end_ms":496970,"text":"Ja, det är jättebra.","lang":"swe"}
+{"seq":108,"speaker":"remote","speaker_label":"Speaker 2","start_ms":497250,"end_ms":500930,"text":"Här har vi ju någon sorts logg då över allt som är gjort.","lang":"swe"}
+{"seq":109,"speaker":"remote","speaker_label":"Speaker 4","start_ms":501250,"end_ms":501370,"text":"Ja.","lang":"swe"}
+{"seq":110,"speaker":"remote","speaker_label":"Speaker 3","start_ms":501630,"end_ms":502530,"text":"Och vem som har gjort.","lang":"swe"}
+{"seq":111,"speaker":"remote","speaker_label":"Speaker 2","start_ms":503130,"end_ms":507090,"text":"Ja, precis. Här ser vi test finance admin har gjort det.","lang":"swe"}
+{"seq":112,"speaker":"remote","speaker_label":"Speaker 3","start_ms":507130,"end_ms":507950,"text":"Då är det någon av oss då.","lang":"swe"}
+{"seq":113,"speaker":"remote","speaker_label":"Speaker 2","start_ms":508320,"end_ms":508550,"text":"Mm.","lang":"swe"}
+{"seq":114,"speaker":"remote","speaker_label":"Speaker 4","start_ms":509010,"end_ms":512270,"text":"Men vänta nu. Vad, vad, vad har gjorts? Ja, där.","lang":"swe"}
+{"seq":115,"speaker":"remote","speaker_label":"Speaker 2","start_ms":513330,"end_ms":519450,"text":"Life cycle. Jag har startat upp något. Den har ju... Här har jag lagt till line item.","lang":"swe"}
+{"seq":116,"speaker":"remote","speaker_label":"Speaker 4","start_ms":520190,"end_ms":524530,"text":"Vem och så, så där create. Okej, och sen.","lang":"swe"}
+{"seq":117,"speaker":"remote","speaker_label":"Speaker 2","start_ms":524890,"end_ms":528590,"text":"Ja, precis. Det kan bli tydligare i loggen vad det är som är gjort.","lang":"swe"}
+{"seq":118,"speaker":"remote","speaker_label":"Speaker 4","start_ms":528630,"end_ms":529870,"text":"Ja, okej.","lang":"swe"}
+{"seq":119,"speaker":"remote","speaker_label":"Speaker 3","start_ms":530670,"end_ms":531130,"text":"Precis.","lang":"swe"}
+{"seq":120,"speaker":"remote","speaker_label":"Speaker 2","start_ms":535110,"end_ms":541350,"text":"Det är bra att det finns ett klockslag, datum och klockslag. Det är bra att det syns vem som har gjort det, men det kan bli tydligare vad.","lang":"swe"}
+{"seq":121,"speaker":"remote","speaker_label":"Speaker 4","start_ms":541670,"end_ms":543030,"text":"Men nu ser vi ju vem.","lang":"swe"}
+{"seq":122,"speaker":"remote","speaker_label":"Speaker 3","start_ms":543050,"end_ms":544030,"text":"Det står inga namn där.","lang":"swe"}
+{"seq":123,"speaker":"remote","speaker_label":"Speaker 2","start_ms":544070,"end_ms":547270,"text":"Nej, men det här, det här är ju test finance. Det är ju en-","lang":"swe"}
+{"seq":124,"speaker":"remote","speaker_label":"Speaker 4","start_ms":547910,"end_ms":548220,"text":"Ja, precis.","lang":"swe"}
+{"seq":125,"speaker":"remote","speaker_label":"Speaker 3","start_ms":548230,"end_ms":552520,"text":"Tänk, tänk dig om det är sälj som är inne till exempel. Vill man inte se dem, det är Maria eller Anna.","lang":"swe"}
+{"seq":126,"speaker":"remote","speaker_label":"Speaker 4","start_ms":552520,"end_ms":553790,"text":"Jo person eller user.","lang":"swe"}
+{"seq":127,"speaker":"remote","speaker_label":"Speaker 2","start_ms":553810,"end_ms":554390,"text":"Precis.","lang":"swe"}
+{"seq":128,"speaker":"remote","speaker_label":"Speaker 3","start_ms":554550,"end_ms":556740,"text":"En individuell, liksom, user.","lang":"swe"}
+{"seq":129,"speaker":"remote","speaker_label":"Speaker 4","start_ms":556760,"end_ms":558070,"text":"Ja, och det vill vi ha.","lang":"swe"}
+{"seq":130,"speaker":"remote","speaker_label":"Speaker 2","start_ms":558530,"end_ms":559930,"text":"Exakt, det vill vi ha i loggen.","lang":"swe"}
+{"seq":131,"speaker":"remote","speaker_label":"Speaker 4","start_ms":562930,"end_ms":566959,"text":"Men ska det vara fel? Alltså, ja, det kanske på sälj.","lang":"swe"}
+{"seq":132,"speaker":"remote","speaker_label":"Speaker 3","start_ms":566959,"end_ms":572310,"text":"På vissa avdelningar kanske det är så. Jag tänker i våran avdelning är det så. Alltså-","lang":"swe"}
+{"seq":133,"speaker":"remote","speaker_label":"Speaker 4","start_ms":572590,"end_ms":575950,"text":"Men när du går in tänker jag här så, det känner väl av vilken.","lang":"swe"}
+{"seq":134,"speaker":"remote","speaker_label":"Speaker 2","start_ms":576570,"end_ms":591330,"text":"Exakt. Alla vi fyra kommer ju jobba som finance admin. Och då, ja men jag tänker det för att vi ska kunna göra det. Eller ja, och då måste man ju ändå kunna se det. Det här har Maria gjort och det här har Niklas gjort och det här har Jenny gjort. Ja, det måste vara tydligt.","lang":"swe"}
+{"seq":135,"speaker":"remote","speaker_label":"Speaker 3","start_ms":591350,"end_ms":597530,"text":"Det tycker jag med. Och sen de där status. Är det någonting man, hur, hur uppdateras det tänker jag?","lang":"swe"}
+{"seq":136,"speaker":"remote","speaker_label":"Speaker 2","start_ms":598130,"end_ms":606590,"text":"Det görs ju på respektive budget. Vi kan ju titta på det. Vi går in på en budget för det är ju näst på tur. För då kommer vi kunna se sen här på dashboarden.","lang":"swe"}
+{"seq":137,"speaker":"remote","speaker_label":"Speaker 4","start_ms":606690,"end_ms":610050,"text":"En fråga bara. För om vi tittar utan completion, då skulle det vara","lang":"swe"}
+{"seq":138,"speaker":"remote","speaker_label":"Speaker 4","start_ms":611590,"end_ms":622470,"text":"noll av nitton submitted or later. Så om det, bara så jag förstår, om det skulle vara fem stycken på submitted och nio stycken på approved, då står det typ fyrtionio procent då?","lang":"swe"}
+{"seq":139,"speaker":"remote","speaker_label":"Speaker 2","start_ms":623070,"end_ms":625730,"text":"Borde ju göra det. Vi testar.","lang":"swe"}
+{"seq":140,"speaker":"remote","speaker_label":"Speaker 2","start_ms":627650,"end_ms":637030,"text":"Eh, vad, det är det som finns här. Vad, här uppe har vi en liten klocka också. Vad är den för något? Den säger att no notifications. Fast det är en liten etta.","lang":"swe"}
+{"seq":141,"speaker":"remote","speaker_label":"Speaker 4","start_ms":639170,"end_ms":640650,"text":"Det var konstigt.","lang":"swe"}
+{"seq":142,"speaker":"remote","speaker_label":"Speaker 2","start_ms":642000,"end_ms":650030,"text":"Det var konstigt. Sen står det också här fiscal year som rubrik 2026. Fast sen här nere står det fiscal year 2027. Det är inte heller så. Det måste vara synkat.","lang":"swe"}
+{"seq":143,"speaker":"remote","speaker_label":"Speaker 3","start_ms":650050,"end_ms":651030,"text":"Det måste vara synkat.","lang":"swe"}
+{"seq":144,"speaker":"remote","speaker_label":"Speaker 2","start_ms":652890,"end_ms":656530,"text":"Vi går in på fliken som heter budget.","lang":"swe"}
+{"seq":145,"speaker":"remote","speaker_label":"Speaker 2","start_ms":658730,"end_ms":665710,"text":"Och nu bytte den år till 2026 och vi vill ha 27. Det är den vi ska jobba med nu. Och då finns det ju...","lang":"swe"}
+{"seq":146,"speaker":"remote","speaker_label":"Speaker 2","start_ms":671370,"end_ms":674470,"text":"Klicka på avdelning. Här står det ju. Det är ju bra.","lang":"swe"}
+{"seq":147,"speaker":"remote","speaker_label":"Speaker 3","start_ms":674550,"end_ms":677710,"text":"För att öppna den, använd plus för att lägga till.","lang":"swe"}
+{"seq":148,"speaker":"remote","speaker_label":"Speaker 2","start_ms":677890,"end_ms":678210,"text":"Rad.","lang":"swe"}
+{"seq":149,"speaker":"remote","speaker_label":"Speaker 3","start_ms":680350,"end_ms":680550,"text":"Jaha.","lang":"swe"}
+{"seq":150,"speaker":"remote","speaker_label":"Speaker 3","start_ms":685120,"end_ms":688880,"text":"Okej.","lang":"swe"}
+{"seq":151,"speaker":"remote","speaker_label":"Speaker 2","start_ms":690570,"end_ms":692130,"text":"Vi går in igen då. Vi går in i BCA.","lang":"swe"}
+{"seq":152,"speaker":"remote","speaker_label":"Speaker 4","start_ms":692580,"end_ms":694710,"text":"En fråga bara. Det står ett annat språk.","lang":"swe"}
+{"seq":153,"speaker":"remote","speaker_label":"Speaker 2","start_ms":695750,"end_ms":698150,"text":"Bra fråga. Vi vill ha allt på engelska.","lang":"swe"}
+{"seq":154,"speaker":"remote","speaker_label":"Speaker 4","start_ms":698890,"end_ms":700850,"text":"Vi vill ha allt på engelska.","lang":"swe"}
+{"seq":155,"speaker":"remote","speaker_label":"Speaker 2","start_ms":701090,"end_ms":701449,"text":"Eller?","lang":"swe"}
+{"seq":156,"speaker":"remote","speaker_label":"Speaker 4","start_ms":702070,"end_ms":702370,"text":"Ja.","lang":"swe"}
+{"seq":157,"speaker":"remote","speaker_label":"Speaker 3","start_ms":703450,"end_ms":704850,"text":"Det är väl rimligt då kanske.","lang":"swe"}
+{"seq":158,"speaker":"remote","speaker_label":"Speaker 4","start_ms":704910,"end_ms":707120,"text":"Vi är väl mogna nog för det nu va?","lang":"swe"}
+{"seq":159,"speaker":"remote","speaker_label":"Speaker 2","start_ms":707130,"end_ms":709170,"text":"Ja, det känner jag. Vi är mogna att göra det.","lang":"swe"}
+{"seq":160,"speaker":"remote","speaker_label":"Speaker 3","start_ms":709190,"end_ms":710590,"text":"Ja, men det är väl bra.","lang":"swe"}
+{"seq":161,"speaker":"remote","speaker_label":"Speaker 2","start_ms":710710,"end_ms":712010,"text":"Japp, då är det något vi...","lang":"swe"}
+{"seq":162,"speaker":"remote","speaker_label":"Speaker 4","start_ms":712930,"end_ms":715310,"text":"Hålla i den andra och få sitt på. Alltså, allting ska vara-","lang":"swe"}
+{"seq":163,"speaker":"remote","speaker_label":"Speaker 2","start_ms":715350,"end_ms":717030,"text":"Allt ska vara på engelska. Ja.","lang":"swe"}
+{"seq":164,"speaker":"remote","speaker_label":"Speaker 4","start_ms":717090,"end_ms":718329,"text":"Det klarar vi.","lang":"swe"}
+{"seq":165,"speaker":"remote","speaker_label":"Speaker 2","start_ms":718410,"end_ms":721310,"text":"Japp. Det klarar vi.","lang":"swe"}
+{"seq":166,"speaker":"remote","speaker_label":"Speaker 4","start_ms":721330,"end_ms":722350,"text":"Blå rutan.","lang":"swe"}
+{"seq":167,"speaker":"remote","speaker_label":"Speaker 2","start_ms":722810,"end_ms":729150,"text":"Så den här blå rutan här på, eh, budgetfliken, den behöver ju översättas till engelska.","lang":"swe"}
+{"seq":168,"speaker":"remote","speaker_label":"Speaker 4","start_ms":729800,"end_ms":734509,"text":"Ja, allting som inte är, helt enkelt, engelska ska vara översatt till engelska.","lang":"swe"}
+{"seq":169,"speaker":"remote","speaker_label":"Speaker 2","start_ms":734570,"end_ms":744510,"text":"Ja.Men då går vi in på BCA-budgeten.","lang":"swe"}
+{"seq":170,"speaker":"remote","speaker_label":"Speaker 2","start_ms":747070,"end_ms":750430,"text":"Och tittar. Nu stänger jag igen den här så vi får lite mer space.","lang":"swe"}
+{"seq":171,"speaker":"remote","speaker_label":"Speaker 3","start_ms":752530,"end_ms":756350,"text":"Mm. Vad är det för siffror som finns nu då liksom? Tre miljoner och-","lang":"swe"}
+{"seq":172,"speaker":"remote","speaker_label":"Speaker 2","start_ms":756650,"end_ms":768430,"text":"Precis de siffrorna som är inlästa nu, det är ju budgettransaktioner. Eh, och det här satt jag och, eh, Claude och brottades lite med innan här för att visst, den ser ut att ha...","lang":"swe"}
+{"seq":173,"speaker":"remote","speaker_label":"Speaker 2","start_ms":770910,"end_ms":771370,"text":"Ska vi se här.","lang":"swe"}
+{"seq":174,"speaker":"remote","speaker_label":"Speaker 2","start_ms":774210,"end_ms":775730,"text":"Titta på den där som heter full.","lang":"swe"}
+{"seq":175,"speaker":"remote","speaker_label":"Speaker 2","start_ms":782910,"end_ms":787430,"text":"Det är lite litet här nu eftersom skärmen är vad den är. Eh,","lang":"swe"}
+{"seq":176,"speaker":"remote","speaker_label":"Speaker 2","start_ms":789430,"end_ms":809490,"text":"men den ser ju ut att ha delat upp till exempel någon budgetpost liksom på två rader. Eh, den, den är inte helt konsekvent i att den här raden finns bara på en rad i input-siffrorna. Men i, i bryggan så finns den hära, eh,","lang":"swe"}
+{"seq":177,"speaker":"remote","speaker_label":"Speaker 2","start_ms":811410,"end_ms":848190,"text":"raden på liksom uppdelad. Alltså det finns flera konton kopplade till den raden. Därför har den skapat flera rader och delat, portionerat ut kostnaden på raderna. Och då har jag talat om för den. Verkar inte ha slagit igenom helt. Men finns, finns inte en, ett konto i input-siffrorna som vi säger bygger liksom utkastet på de här input-siffrorna som är LN, eh, då ska inte raden synas i, i den hära, eh, budgetvyn. Den ska bara, en rad ska ju bara finnas med om den finns med i input-siffrorna som vi säger att vi vill ha som utkast.","lang":"swe"}
+{"seq":178,"speaker":"remote","speaker_label":"Speaker 2","start_ms":851330,"end_ms":865660,"text":"Medans nu har den... Så att i det här fallet så har vi konto femtiofyra tjugo och femtiofyra sextio. I LE, alltså inputen så finns bara ett av de här kontona, men den har delat upp det på två. Så det är ju inte som-","lang":"swe"}
+{"seq":179,"speaker":"remote","speaker_label":"Speaker 3","start_ms":865660,"end_ms":870629,"text":"Så intressant. Femtiofyra sextio använder vi typ inte ens någonsin, men den har den.","lang":"swe"}
+{"seq":180,"speaker":"remote","speaker_label":"Speaker 2","start_ms":872990,"end_ms":876730,"text":"Precis. Och det är ju för att den finns med i bryggan antagligen.","lang":"swe"}
+{"seq":181,"speaker":"remote","speaker_label":"Speaker 3","start_ms":876850,"end_ms":879410,"text":"Ja, den finns där. Det är ju, den har säkert använts någon gång men.","lang":"swe"}
+{"seq":182,"speaker":"remote","speaker_label":"Speaker 2","start_ms":879450,"end_ms":880630,"text":"Mm.","lang":"swe"}
+{"seq":183,"speaker":"remote","speaker_label":"Speaker 2","start_ms":882790,"end_ms":886490,"text":"Eh, i den här vyn tycker jag också att,","lang":"swe"}
+{"seq":184,"speaker":"remote","speaker_label":"Speaker 2","start_ms":888390,"end_ms":892510,"text":"eh, in, här skulle inte jag vilja se personalkostnaderna överhuvudtaget.","lang":"swe"}
+{"seq":185,"speaker":"remote","speaker_label":"Speaker 3","start_ms":893190,"end_ms":894710,"text":"Nej, exakt.","lang":"swe"}
+{"seq":186,"speaker":"remote","speaker_label":"Speaker 2","start_ms":895960,"end_ms":898950,"text":"Personalkostnaderna, de får man titta på","lang":"swe"}
+{"seq":187,"speaker":"remote","speaker_label":"Speaker 2","start_ms":901370,"end_ms":908510,"text":"i, i liksom sektionen som är personalkostnader. De ska inte synas här i den här övriga kostnader.","lang":"swe"}
+{"seq":188,"speaker":"remote","speaker_label":"Speaker 3","start_ms":908590,"end_ms":916710,"text":"Men kan till exempel då de BCA budgetläggaren, kan den se hela sin budget någonstans?","lang":"swe"}
+{"seq":189,"speaker":"remote","speaker_label":"Speaker 2","start_ms":917110,"end_ms":936230,"text":"Ja, det är det jag tänker att vi, det är ju så vi vill ha det. I den här delen när vi ti, jobbar med kostnadsbudgeten, då vill vi bara titta på de kontona som vi jobbar med i kostnadsbudgeten. Alla övriga, alltså COGS och personalkostnader, alla konton som är kopplade till COGS eller personalkostnader, de ska inte synas i den här-","lang":"swe"}
+{"seq":190,"speaker":"remote","speaker_label":"Speaker 3","start_ms":936430,"end_ms":937290,"text":"Exakt.","lang":"swe"}
+{"seq":191,"speaker":"remote","speaker_label":"Speaker 2","start_ms":937390,"end_ms":945950,"text":"Eh, delen av budgetarbetet. Men sen ska ju BCA, alltså vi ska kunna få en output som innehåller allt.","lang":"swe"}
+{"seq":192,"speaker":"remote","speaker_label":"Speaker 3","start_ms":945990,"end_ms":949070,"text":"Mm. Ja, jag tycker så också.","lang":"swe"}
+{"seq":193,"speaker":"remote","speaker_label":"Speaker 2","start_ms":949390,"end_ms":949460,"text":"Mm.","lang":"swe"}
+{"seq":194,"speaker":"remote","speaker_label":"Speaker 1","start_ms":950590,"end_ms":958830,"text":"Och då med personalkostnader, är allt som är baserat på lön. Jag tänker då, jag tänker typ resor, alltså.","lang":"swe"}
+{"seq":195,"speaker":"remote","speaker_label":"Speaker 2","start_ms":959730,"end_ms":962810,"text":"Ja, det är ju en jättebra fråga. Vart vill vi hantera resor?","lang":"swe"}
+{"seq":196,"speaker":"remote","speaker_label":"Speaker 1","start_ms":963450,"end_ms":964790,"text":"Eller övriga personalkostnader.","lang":"swe"}
+{"seq":197,"speaker":"remote","speaker_label":"Speaker 2","start_ms":965050,"end_ms":965230,"text":"Mm.","lang":"swe"}
+{"seq":198,"speaker":"remote","speaker_label":"Speaker 3","start_ms":966810,"end_ms":968770,"text":"Mm. Det är frågan om-","lang":"swe"}
+{"seq":199,"speaker":"remote","speaker_label":"Speaker 1","start_ms":968790,"end_ms":975750,"text":"Jag bara tänker då är det gam, den gamla mallen. Då hade vi ju lite att det som var kopplat till lönen låg i ett eget dokument.","lang":"swe"}
+{"seq":200,"speaker":"remote","speaker_label":"Speaker 2","start_ms":975870,"end_ms":979570,"text":"Exakt, det är semester, sociala avgifter, alla de bitarna.","lang":"swe"}
+{"seq":201,"speaker":"remote","speaker_label":"Speaker 1","start_ms":979580,"end_ms":982450,"text":"Utifrån att man matade in det så följde andra ut.","lang":"swe"}
+{"seq":202,"speaker":"remote","speaker_label":"Speaker 2","start_ms":982670,"end_ms":983070,"text":"Exakt.","lang":"swe"}
+{"seq":203,"speaker":"remote","speaker_label":"Speaker 3","start_ms":983170,"end_ms":994230,"text":"Resor och det där budgeteras lite mer på det här sättet som övriga kostnader. Men det gör ju inte lön och dem för där är det ju massa såhär procent, alltså formler menar jag.","lang":"swe"}
+{"seq":204,"speaker":"remote","speaker_label":"Speaker 1","start_ms":994270,"end_ms":1004330,"text":"Sen är det ju det så det har varit. Det är inte säkert att det är rätt. Alltså det man kanske vill se på just resor kopplat till personer när man är inne och tänker lön. Jag vet inte.","lang":"swe"}
+{"seq":205,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1006130,"end_ms":1006430,"text":"Nej.","lang":"swe"}
+{"seq":206,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1009290,"end_ms":1012010,"text":"Det behöver vi fundera på hur vi vill ha det.","lang":"swe"}
+{"seq":207,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1012070,"end_ms":1013310,"text":"Om man ja.","lang":"swe"}
+{"seq":208,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1018030,"end_ms":1025690,"text":"Ja, det rent krasst är det ju en personalkostnad. Kanske den borde vara på personalsektionen.","lang":"swe"}
+{"seq":209,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1026170,"end_ms":1040210,"text":"Ja, och, och då om vi ska tänka ett steg till så är det ju övriga personalkostnader som kanske är konferens, utbildning. Va, i vilken sektion ska vi hantera dem? Ska vi hantera dem här i övriga kostnader eller ska de vara i sektionen för personalkostnader?","lang":"swe"}
+{"seq":210,"speaker":"remote","speaker_label":"Speaker 1","start_ms":1040910,"end_ms":1078990,"text":"Jag tror det guidande det, alltså den P&L vi har för mig efter på förhand är ju där. Vart de kommer ut i den. Jag bara tänker, jag bara kommer ihåg vår första budget. Då var det bra här. Hur, eh, jag minns just resekostnaderna var ju liksom på fel ställe på så sätt. Jag fick sitta och ja, då tar jag mig in där. Men jag tänker liksom ska, är det inte, är det inte så vi ska tänka tänker jag? Eh, eller är det feltänkt det? Eller tar vi, är det liksom bara det fixar vi sen. Är det mer logiskt? Om vi tycker att det är mer logiskt att de är,","lang":"swe"}
+{"seq":211,"speaker":"remote","speaker_label":"Speaker 1","start_ms":1080550,"end_ms":1101570,"text":"de här kostar under personalkostnader. Men det, men det, men då kommer det inte upp i ett. För skapar vi personalkostnader på P&L så är inte det samma som vi budgeterar personalkostnader. Och då blir det, haltar det lite grann. Det finns alltid risk för att det blir missförstånd då om vi har två olika definitioner av personalkostnader, vilket vi börjar bygga in nu som det låter. Jag ser bara risken i det.","lang":"swe"}
+{"seq":212,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1101690,"end_ms":1120774,"text":"Exakt. Och det är ju så vi har haft det historiskt. Alltså, vi har ju budgeterat personalkostnader på två olika ställen. Allt som är lönerelaterat på ett ställe och allt som ärÖvriga resor, hotell, sånt kopplat till resor, eh, utbildning, ehm.","lang":"swe"}
+{"seq":213,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1121094,"end_ms":1129854,"text":"Ja men representant för arméersättning. Men även såhär healthcare. Vad heter det? Friskvård och allting.","lang":"swe"}
+{"seq":214,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1130374,"end_ms":1133214,"text":"Det har hanterats här i övriga kostnader.","lang":"swe"}
+{"seq":215,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1134014,"end_ms":1138134,"text":"För att det redovisas som övriga kostnader i hela resultatrapportering.","lang":"swe"}
+{"seq":216,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1139534,"end_ms":1147494,"text":"Nej, nej, alltså det har ju redovisats som, alltså i rapporteringen så klart som övriga personalkostnader.","lang":"swe"}
+{"seq":217,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1148754,"end_ms":1150263,"text":"Så det mappas ju till personalkostnader.","lang":"swe"}
+{"seq":218,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1150454,"end_ms":1157514,"text":"Det gör det ändå, även fast vi har lagt... Alltså, det är bara i budgetarbetet så ligger det. Har legat historiskt på den.","lang":"swe"}
+{"seq":219,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1157554,"end_ms":1159714,"text":"Ja, ja, precis. Och det, och det som är frågan om vi ska-","lang":"swe"}
+{"seq":220,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1159744,"end_ms":1160614,"text":"Men det har ju ändå.","lang":"swe"}
+{"seq":221,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1160974,"end_ms":1164334,"text":"Jag tror det ham-hamnar inte så bara för att det var sättet att samla in. Alltså-","lang":"swe"}
+{"seq":222,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1164594,"end_ms":1165614,"text":"Ja, precis.","lang":"swe"}
+{"seq":223,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1166214,"end_ms":1179394,"text":"Eller sättet att budgetera på. Man budgeterade typ, man planerade ut när, på samma sätt som Jenny planerade när de skulle annonsera eller marknadsföra någonting. Så, så la hon också in när, när kommer vi åka på konferens?","lang":"swe"}
+{"seq":224,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1179474,"end_ms":1180894,"text":"Mm, exakt.","lang":"swe"}
+{"seq":225,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1180934,"end_ms":1198054,"text":"Bara för att det var liksom bara att placera ut de månaderna. Medan allt som var lönerelaterat, det vart väldigt kopplat till l-månadslönen. Och sen gjorde vi beräkningarna för att få ut alla sociala kostnader. Allt som är liksom varierar beroende på lön.","lang":"swe"}
+{"seq":226,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1198594,"end_ms":1210954,"text":"Men för att göra det mest logiskt så ska det nog ligga i personalfliken då. Även fast man fort, man kan ju fortfarande budgetera det på det sättet att per månad liksom.","lang":"swe"}
+{"seq":227,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1211554,"end_ms":1211874,"text":"Exakt.","lang":"swe"}
+{"seq":228,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1212334,"end_ms":1213194,"text":"Men ja.","lang":"swe"}
+{"seq":229,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1213654,"end_ms":1223634,"text":"Så det s, vi, det vi landar i nu det är att alla personalkostnader, oavsett om det är lön och sociala avgifter eller om det är övriga personalkostnader, ska hanteras i personalsektionen.","lang":"swe"}
+{"seq":230,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1223714,"end_ms":1224934,"text":"Ja.","lang":"swe"}
+{"seq":231,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1224994,"end_ms":1225254,"text":"Ja.","lang":"swe"}
+{"seq":232,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1228834,"end_ms":1234674,"text":"Behöver vi, ja jag vet inte, berätta vilka de är eller, eller kan tas sen? Eller?","lang":"swe"}
+{"seq":233,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1236074,"end_ms":1242134,"text":"Ja, alltså enligt bryggan, allt som är kopplat till personalkostnader enligt Main Capital-bryggan.","lang":"swe"}
+{"seq":234,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1242214,"end_ms":1243094,"text":"Ja, bra.","lang":"swe"}
+{"seq":235,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1245094,"end_ms":1250954,"text":"Och då med det sagt, då vill vi inte ens att de visas i den här sektionen, övriga kostnader.","lang":"swe"}
+{"seq":236,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1250994,"end_ms":1251974,"text":"Nej, vi har ju delat upp.","lang":"swe"}
+{"seq":237,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1252114,"end_ms":1256094,"text":"Den är ju ganska tom, typ på BCA kommer det inte vara mycket kvar.","lang":"swe"}
+{"seq":238,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1256174,"end_ms":1256514,"text":"Nej.","lang":"swe"}
+{"seq":239,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1256614,"end_ms":1258393,"text":"Men det gör ju inget.","lang":"swe"}
+{"seq":240,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1258514,"end_ms":1258874,"text":"Nej.","lang":"swe"}
+{"seq":241,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1262734,"end_ms":1263414,"text":"Det är bra.","lang":"swe"}
+{"seq":242,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1264594,"end_ms":1273294,"text":"En, en annan fundering är baseline och draft. Liksom, vad, vad får vi ut av det? Det finns rummar, det finns, vad betyder det?","lang":"swe"}
+{"seq":243,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1273814,"end_ms":1280214,"text":"Baseline, det är ju vad vi puttar in och säger att det här är, liksom, utgångsvärdet. Och sen om, om","lang":"swe"}
+{"seq":244,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1281754,"end_ms":1291214,"text":"avdelningschefen gör några förändringar i sin budget, då kan du se skillnaden mot vad fick du liksom i baseline av finance. Alltså, var LEN.","lang":"swe"}
+{"seq":245,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1291314,"end_ms":1292454,"text":"Förbudgeterat.","lang":"swe"}
+{"seq":246,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1292534,"end_ms":1298774,"text":"Ja, det som är förbudgeterat. Ja, och sen vad deras, vad skillnaden är mot vad de har puttat in då.","lang":"swe"}
+{"seq":247,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1299034,"end_ms":1299354,"text":"Okej.","lang":"swe"}
+{"seq":248,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1302014,"end_ms":1302294,"text":"Okej.","lang":"swe"}
+{"seq":249,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1302464,"end_ms":1305234,"text":"Ja, men det är bra för då vet man vad som har förändrats eller hur mycket.","lang":"swe"}
+{"seq":250,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1306014,"end_ms":1308954,"text":"Absolut. Alltså, jag förstod bara inte, precis. Det, det är bra.","lang":"swe"}
+{"seq":251,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1309984,"end_ms":1317474,"text":"Men vi kanske vill ha andra ord. Alltså, jag vet inte. Det kanske för oss kanske det inte heter baseline och draft är väl bra att det heter det men.","lang":"swe"}
+{"seq":252,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1317634,"end_ms":1321614,"text":"Finance draft och BCA draft.","lang":"swe"}
+{"seq":253,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1324074,"end_ms":1326674,"text":"Baseline kanske ska heta, eh,","lang":"swe"}
+{"seq":254,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1328254,"end_ms":1330194,"text":"jag vet inte, finance input eller","lang":"swe"}
+{"seq":255,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1332314,"end_ms":1332583,"text":"jag vet inte.","lang":"swe"}
+{"seq":256,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1332734,"end_ms":1335274,"text":"Jag har också ett förslag. Kanske proposal.","lang":"swe"}
+{"seq":257,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1335914,"end_ms":1336114,"text":"Ja.","lang":"swe"}
+{"seq":258,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1341614,"end_ms":1342214,"text":"Det är väldigt...","lang":"swe"}
+{"seq":259,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1344554,"end_ms":1345914,"text":"Budget proposal.","lang":"swe"}
+{"seq":260,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1346754,"end_ms":1347014,"text":"Mm.","lang":"swe"}
+{"seq":261,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1348774,"end_ms":1352214,"text":"Att det heter budget proposal istället för baseline.","lang":"swe"}
+{"seq":262,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1353734,"end_ms":1361404,"text":"Och det är liksom vad finance lev-rev, levererar. Att de har att utgå ifrån när de börjar bu-budgetprocessen, respektive avdelningschef.","lang":"swe"}
+{"seq":263,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1361454,"end_ms":1363014,"text":"Och den andra kan heta budget draft då.","lang":"swe"}
+{"seq":264,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1363834,"end_ms":1366004,"text":"Budget draft istället för bara draft.","lang":"swe"}
+{"seq":265,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1366134,"end_ms":1369954,"text":"Ja, jag tänker det. Så blir det liksom kanske lite tydligare då.","lang":"swe"}
+{"seq":266,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1370014,"end_ms":1371774,"text":"Jo.","lang":"swe"}
+{"seq":267,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1373674,"end_ms":1374134,"text":"Det låter bra.","lang":"swe"}
+{"seq":268,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1374273,"end_ms":1379294,"text":"Och budget proposal skulle kunna vara","lang":"swe"}
+{"seq":269,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1381094,"end_ms":1384954,"text":"typ LE plus fem procent.","lang":"swe"}
+{"seq":270,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1385594,"end_ms":1386214,"text":"Skulle kunna vara.","lang":"swe"}
+{"seq":271,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1386534,"end_ms":1401014,"text":"På flera rader. På vissa rader kanske vi till och med har gått in och ändrat. För att, för att LE plus fem procent på, eh, den här gruppens resekostnader blir inte rimligt nästa år. Av någon anledning. Ja, men då har man tryckt ner.","lang":"swe"}
+{"seq":272,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1402654,"end_ms":1411234,"text":"Jag bara tänker vi ska ju inte behöva göra ett utkast och gå igenom varje rad på saker och ting som vi inte riktigt vet. Alltså, där vi inte vet. Då kanske vi tar det som har varit.","lang":"swe"}
+{"seq":273,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1411324,"end_ms":1411734,"text":"LEN.","lang":"swe"}
+{"seq":274,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1411834,"end_ms":1413934,"text":"Uppräknat med noll procent inflations.","lang":"swe"}
+{"seq":275,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1416634,"end_ms":1422374,"text":"Så egentligen, det vi säger nu är att vi, vi ger, vi puttar in LEN.","lang":"swe"}
+{"seq":276,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1423494,"end_ms":1425434,"text":"Vi vet ju vad LE är.","lang":"swe"}
+{"seq":277,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1425754,"end_ms":1436214,"text":"Ja, just nu så är det. Ja, precis. Just nu så har jag inte gett den någon input på LE, men den inputen den har fått nu är ju budget 2026.","lang":"swe"}
+{"seq":278,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1436654,"end_ms":1437074,"text":"Just det.","lang":"swe"}
+{"seq":279,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1437154,"end_ms":1488474,"text":"Men när vi kommer så långt så kommer den ju få en LE för 2026. Och då innan vi skickar ut liksom ett första utkast eller första budget draft till respektive avdelningschef, då kommer vi, det är ju liksom första steget på något sätt att finance säger okej att liksom nu kan de börja jobba med budgeten. Så det är ju på något sätt steg ett. Eller steg ett är att, att appen får en input. Sen steg två är att finance bearbetar den inputen innan, eh, den skickas ut till respektive avdelningschef.Och efter det börjar ju själva liksom den faktiska processen med budgetarbetet.","lang":"swe"}
+{"seq":280,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1488954,"end_ms":1506694,"text":"Så det som står som inte baseline där kommer att heta budget proposal. Om inte vi gör någon ändring alltså, då kommer det vara en le kan man säga. Alltså för det är där vi kommer att läsa in en le och sen kommer vi att ha möjlighet om vi vill skruva någonting. Vill vi inte eller hinner vi inte, så kan vi alltid trycka ut den som proposal.","lang":"swe"}
+{"seq":281,"speaker":"remote","speaker_label":"Speaker 1","start_ms":1506954,"end_ms":1513054,"text":"Och med det sagt så gör inte, görs det ingen förändring alltså blir det samma sak som budget wrap då.","lang":"swe"}
+{"seq":282,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1513614,"end_ms":1513894,"text":"Exakt.","lang":"swe"}
+{"seq":283,"speaker":"remote","speaker_label":"Speaker 1","start_ms":1513934,"end_ms":1524574,"text":"Om inte, om inte som ansvariga känner att ja, men det här är fine. Vi behöver göra någonting med det här. Och då är det, då blir budget proposal likom budget wrap och så är det den som gäller helt enkelt.","lang":"swe"}
+{"seq":284,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1525554,"end_ms":1526133,"text":"Precis.","lang":"swe"}
+{"seq":285,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1532114,"end_ms":1535254,"text":"Här nere på, i själva den här eh...","lang":"swe"}
+{"seq":286,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1537314,"end_ms":1555614,"text":"Här tycker jag man kan börja. Den som har rubrik main som bara heter cost på alla kostnader, den behöver vi inte se för den är helt, den är inte relevant. Den här, att det är, alltså vad den har för subkategori, den vill man ju se för man vill ju se vilken rad i, i rapportfilen som den kopplas till.","lang":"swe"}
+{"seq":287,"speaker":"remote","speaker_label":"Speaker 1","start_ms":1555654,"end_ms":1557074,"text":"Just det.","lang":"swe"}
+{"seq":288,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1558134,"end_ms":1560154,"text":"Sub scripts. Eller vad betyder sub?","lang":"swe"}
+{"seq":289,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1561094,"end_ms":1567354,"text":"Ja, det, det är nog bara den. Nej, utan det här är nog bara vad rubriken heter i, i","lang":"swe"}
+{"seq":290,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1568934,"end_ms":1576114,"text":"bryggan som är inskickad. Så att det här kanske vi behöver jobba om rubrikerna. Ja, absolut.","lang":"swe"}
+{"seq":291,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1578414,"end_ms":1583814,"text":"Eh, men om vi testar att skriva test. Oj, test.","lang":"swe"}
+{"seq":292,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1587974,"end_ms":1590214,"text":"Det står ingenting om att det finns en kommentar här nu.","lang":"swe"}
+{"seq":293,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1592554,"end_ms":1598214,"text":"Line comments, finance comment. Hur hanteras de olika kommentarerna undrar man ju.","lang":"swe"}
+{"seq":294,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1600594,"end_ms":1601814,"text":"Cost center note.","lang":"swe"}
+{"seq":295,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1603554,"end_ms":1609074,"text":"Men vänta här nu. Cost center note. Det här kanske vi kan säga att, ja men hotell, det här är, jag vet inte.","lang":"swe"}
+{"seq":296,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1610674,"end_ms":1613194,"text":"Det här är kanske ett hotell till någon speciell resa.","lang":"swe"}
+{"seq":297,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1615814,"end_ms":1618473,"text":"Ser att det står att den raden är liksom...","lang":"swe"}
+{"seq":298,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1622274,"end_ms":1625654,"text":"Men frågan är, behöver vi nog hjälp att förstå.","lang":"swe"}
+{"seq":299,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1626314,"end_ms":1627134,"text":"Hur kommentaren är.","lang":"swe"}
+{"seq":300,"speaker":"remote","speaker_label":"Speaker 1","start_ms":1627414,"end_ms":1629594,"text":"Vi pratade lite om det förra men jag minns inte riktigt.","lang":"swe"}
+{"seq":301,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1629894,"end_ms":1631854,"text":"Men vi, det vi sa då var ju också att...","lang":"swe"}
+{"seq":302,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1638834,"end_ms":1639114,"text":"Ja.","lang":"swe"}
+{"seq":303,"speaker":"remote","speaker_label":"Speaker 1","start_ms":1640794,"end_ms":1652214,"text":"Men jag tänker det är möjligtvis att, att liksom i det här fallet då om man ska budgetera för hotellkostnader under ett år. Då bör det möjligtvis vara liksom, ja, det här är liksom baserat på fyra resor. Eller liksom-","lang":"swe"}
+{"seq":304,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1652334,"end_ms":1654234,"text":"Exakt, det är ju sådana kommentarer man vill ha.","lang":"swe"}
+{"seq":305,"speaker":"remote","speaker_label":"Speaker 1","start_ms":1654834,"end_ms":1656154,"text":"Så, så, ja.","lang":"swe"}
+{"seq":306,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1656214,"end_ms":1667364,"text":"Men just nu verkar det ju som att de inte blir en kommentar. Alltså de där två gör ju ingenting om de inte plingar till där uppe heller. Vi sa ju någonting om att när vi har gjort någonting så ska de få en notis. Eller?","lang":"swe"}
+{"seq":307,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1667494,"end_ms":1668394,"text":"Här finns det ju.","lang":"swe"}
+{"seq":308,"speaker":"remote","speaker_label":"Speaker 1","start_ms":1668474,"end_ms":1669194,"text":"Får du samlade.","lang":"swe"}
+{"seq":309,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1669374,"end_ms":1670014,"text":"Ja, där också.","lang":"swe"}
+{"seq":310,"speaker":"remote","speaker_label":"Speaker 1","start_ms":1670554,"end_ms":1671794,"text":"Många kommentarer.","lang":"swe"}
+{"seq":311,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1671804,"end_ms":1671814,"text":"Precis.","lang":"swe"}
+{"seq":312,"speaker":"remote","speaker_label":"Speaker 1","start_ms":1671954,"end_ms":1673914,"text":"Det får inte vara för mycket kommentarer.","lang":"swe"}
+{"seq":313,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1673994,"end_ms":1676474,"text":"Nej, då måste vi. Hur vill vi ha kommentarerna?","lang":"swe"}
+{"seq":314,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1676534,"end_ms":1688814,"text":"Är det inte bättre då att ute där till höger att vi bara har den pratbubblan? Vi behöver inte ha de där finance note och eh, cost center note.","lang":"swe"}
+{"seq":315,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1689034,"end_ms":1708394,"text":"De här, alltså cost center note. Det här är ju mer för att det ska vara tydligt. Vad är den här raden? Jag, jag vill minnas att på till exempel marknadsbudgeten så vill de säga att den här raden är Google, den här raden är LinkedIn, den här raden är... För att veta vilken, vilken, vad är den här raden?","lang":"swe"}
+{"seq":316,"speaker":"remote","speaker_label":"Speaker 1","start_ms":1708834,"end_ms":1710454,"text":"Description också.","lang":"swe"}
+{"seq":317,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1712054,"end_ms":1713814,"text":"Ja, description vet jag inte.","lang":"swe"}
+{"seq":318,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1714354,"end_ms":1715114,"text":"Ja, precis.","lang":"swe"}
+{"seq":319,"speaker":"remote","speaker_label":"Speaker 1","start_ms":1715334,"end_ms":1717494,"text":"Den kanske också skulle kunna vara liknande. Alltså.","lang":"swe"}
+{"seq":320,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1717654,"end_ms":1720334,"text":"Egentligen skulle det kunna räcka med hen, eller?","lang":"swe"}
+{"seq":321,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1720434,"end_ms":1720834,"text":"Här?","lang":"swe"}
+{"seq":322,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1720874,"end_ms":1721554,"text":"Ja.","lang":"swe"}
+{"seq":323,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1721574,"end_ms":1721834,"text":"Precis.","lang":"swe"}
+{"seq":324,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1721844,"end_ms":1724244,"text":"Där både vi och de kan skriva i sådana fall.","lang":"swe"}
+{"seq":325,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1724354,"end_ms":1735694,"text":"Vad raden avser. Sen om man vill kommentera hur man har kommit fram till olika belopp och varför det är mer i augusti än i september, så kan man skriva det i kommentaren i pratbubblan.","lang":"swe"}
+{"seq":326,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1735734,"end_ms":1736914,"text":"Och den kan väl bli som en chatt eller?","lang":"swe"}
+{"seq":327,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1737094,"end_ms":1737194,"text":"Ja.","lang":"swe"}
+{"seq":328,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1737414,"end_ms":1738994,"text":"Mellan oss och dem, eller?","lang":"swe"}
+{"seq":329,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1739214,"end_ms":1752274,"text":"Exakt. Men då, då har vi liksom de här, där det står cost center note, finance note, description. Där vill vi bara ha en kolumn som talar om vad raden, liksom var det är.","lang":"swe"}
+{"seq":330,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1752414,"end_ms":1753054,"text":"Vad den innehåller typ.","lang":"swe"}
+{"seq":331,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1753174,"end_ms":1753974,"text":"Ja, vad den innehåller.","lang":"swe"}
+{"seq":332,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1754014,"end_ms":1756774,"text":"Programvaror, då kan det vara de här, de här, de här.","lang":"swe"}
+{"seq":333,"speaker":"remote","speaker_label":"Speaker 1","start_ms":1757114,"end_ms":1758694,"text":"Ska den heta description då då?","lang":"swe"}
+{"seq":334,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1759354,"end_ms":1768894,"text":"Ja, den borde heta description. Ja. Men sen kan vi kommentera raden i den här kommentarskolumnen längst till höger på radnivå.","lang":"swe"}
+{"seq":335,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1770754,"end_ms":1777134,"text":"Och då är frågan, sen finns den här comments som är liksom på budgetnivå. Alltså för hela den här cost center budgeten.","lang":"swe"}
+{"seq":336,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1777214,"end_ms":1780334,"text":"Det var ju där man ställde lite mer frågor om helheten, typ såhär.","lang":"swe"}
+{"seq":337,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1780454,"end_ms":1781754,"text":"Mm, helhetsfrågor.","lang":"swe"}
+{"seq":338,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1781784,"end_ms":1782274,"text":"Hur många har ni här på mig?","lang":"swe"}
+{"seq":339,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1783154,"end_ms":1783493,"text":"Ja, du får ta det.","lang":"swe"}
+{"seq":340,"speaker":"remote","speaker_label":"Speaker 1","start_ms":1783574,"end_ms":1786384,"text":"Är det kommunikationen till finance där eller?","lang":"swe"}
+{"seq":341,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1787574,"end_ms":1788594,"text":"Eller vad sa vi för?","lang":"swe"}
+{"seq":342,"speaker":"remote","speaker_label":"Speaker 1","start_ms":1789714,"end_ms":1793574,"text":"För vi får inte, det får inte bli för många känner jag. Det är alltid risk.","lang":"swe"}
+{"seq":343,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1793874,"end_ms":1796154,"text":"Mm, vart har man skrivit kommentarerna?","lang":"swe"}
+{"seq":344,"speaker":"remote","speaker_label":"Speaker 1","start_ms":1796194,"end_ms":1797874,"text":"Vem skrev det? Vart då?","lang":"swe"}
+{"seq":345,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1797914,"end_ms":1811053,"text":"Vart då? Vi, vi måste, vi måste, det finn, måste finnas en, det måste finnas en liksom att du kan, ska kunna ta ut alla kommentarer på en respektive budget. Eller alla kommentarer till alla budgetar.","lang":"swe"}
+{"seq":346,"speaker":"remote","speaker_label":"Speaker 1","start_ms":1811064,"end_ms":1813814,"text":"Att man har en samlad liksom bild över det nånstans.","lang":"swe"}
+{"seq":347,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1814034,"end_ms":1815134,"text":"Annars tappar man något.","lang":"swe"}
+{"seq":348,"speaker":"remote","speaker_label":"Speaker 1","start_ms":1815214,"end_ms":1821613,"text":"Ja, och just det här trådet att man ser en kärt historik också i den.","lang":"swe"}
+{"seq":349,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1822214,"end_ms":1845730,"text":"Precis. Såhär, vi vill ha någon form av hierarki i kommentarerna och att de, att man ska kunna följa dem. Att man ska kunna liksom få en övergripande bild över alla kommentarer som finns. Eh...Och där kan vi ju faktiskt be, eh, våran agent att hjälpa oss. Ställa frågor tills den har fått en bra struktur för hur kommentarerna ska byggas upp.","lang":"swe"}
+{"seq":350,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1847000,"end_ms":1847000,"text":"Mm.","lang":"swe"}
+{"seq":351,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1847010,"end_ms":1852130,"text":"Och var ska man kunna skriva då kommentarer? Är det där den samlas också eller, eller?","lang":"swe"}
+{"seq":352,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1852210,"end_ms":1852790,"text":"Ja, precis.","lang":"swe"}
+{"seq":353,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1853050,"end_ms":1854190,"text":"Man ska skriva på ett enda ställe.","lang":"swe"}
+{"seq":354,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1854230,"end_ms":1860170,"text":"Vi måste kunna skriva kommentarerna. De måste vara samlade i alla fall på ett ställe så att man får helheten av alla kommentarer.","lang":"swe"}
+{"seq":355,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1860190,"end_ms":1862990,"text":"Och då är description någonting annat egentligen. Det bara beskriver ju.","lang":"swe"}
+{"seq":356,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1863050,"end_ms":1864470,"text":"Jadå, det är bara beskrivning.","lang":"swe"}
+{"seq":357,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1864970,"end_ms":1868430,"text":"Det kan vara svårt att veta för alla vad på det här kontot, vad är det för någonting det här?","lang":"swe"}
+{"seq":358,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1868510,"end_ms":1869170,"text":"Ja.","lang":"swe"}
+{"seq":359,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1869210,"end_ms":1871950,"text":"Då kan man förtydliga det.","lang":"swe"}
+{"seq":360,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1872790,"end_ms":1878010,"text":"Precis. Mm. Det är bra. Mycket bra.","lang":"swe"}
+{"seq":361,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1878190,"end_ms":1880330,"text":"Så vi skrotar finance note.","lang":"swe"}
+{"seq":362,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1881370,"end_ms":1884650,"text":"Ja, det gör vi ju. Eh, för att de här-","lang":"swe"}
+{"seq":363,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1885410,"end_ms":1886170,"text":"Cost center note.","lang":"swe"}
+{"seq":364,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1886590,"end_ms":1899590,"text":"Ja, vi tar bort både cost center note och finance note, de kolumnerna. Och så behåller vi bara description och description är bara beskrivning av vad raden, vad som ligger på den raden.","lang":"swe"}
+{"seq":365,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1900170,"end_ms":1905670,"text":"Jag tänker om vi vill göra en kommentar så använder vi den dära, där uppe. Kommentaren, comment.","lang":"swe"}
+{"seq":366,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1906330,"end_ms":1908750,"text":"Den övergripande eller på rad.","lang":"swe"}
+{"seq":367,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1908870,"end_ms":1912450,"text":"Om det är en fråga för en specifik rad så kan vi ju ta den.","lang":"swe"}
+{"seq":368,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1912570,"end_ms":1933550,"text":"Mm. Men det måste också gå. Har vi den här liksom comments som är uppe på, som är liksom övergripande för hela den här, eh, kostnadsbudgeten. Vi måste ändå kunna liksom sammanställa så att vi ser både de kommentarerna och radkommentarerna i en samlad vy. För att annars kommer vi tappa någon kommentar någonstans.","lang":"swe"}
+{"seq":369,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1933810,"end_ms":1969050,"text":"Ja, jag tror det skulle vara snyggt om man kunde få ut den där man ser... För ibland kan det vara så att man, vilken rad ska jag koppla den här kommentaren till då? Alltså att man är lite mera övergripande. Att vi vill liksom skriva, vi, eh, tycker att det ser lite tunt ut på de här kostnaderna, men... Alltså att man har en, att man gör någon liten notering eller resonemang eller någonting, då kanske man vill ha det på den. Liksom om det nu så overall eller någonting. Och sen om, som du säger, om man trycker ut alla kommentarer gällande BCAs budget, då ser man först en rubrik såhär overall comments.","lang":"swe"}
+{"seq":370,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1969410,"end_ms":1972930,"text":"Det är ju bra. Den kanske till och med ska ha rubriken overall comments.","lang":"swe"}
+{"seq":371,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1972970,"end_ms":1975280,"text":"Ja, och då är det den där. Och sen så finns det-","lang":"swe"}
+{"seq":372,"speaker":"remote","speaker_label":"Speaker 2","start_ms":1975570,"end_ms":1976410,"text":"Line comments.","lang":"swe"}
+{"seq":373,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1976430,"end_ms":1978510,"text":"Specifika per rad. Då kommer kanske konto-","lang":"swe"}
+{"seq":374,"speaker":"remote","speaker_label":"Speaker 3","start_ms":1978590,"end_ms":1983270,"text":"Då ser man kontonumret eller description och kommentar.","lang":"swe"}
+{"seq":375,"speaker":"remote","speaker_label":"Speaker 5","start_ms":1983330,"end_ms":2009130,"text":"För då kan man se. Även om det blir, ja det blir några ställen där det kommer ligga kommentaren. Men jag tror ibland, jag vet inte. Tänk att man, ibland vill man skriva mer och så ska man, måste jag koppla den till någon rad. Och så lägger man det på en rad och sen rör det fler rader och sen så blir det, eh... Medans om det är en specifik kopplat till en rad då är det jättebra att kunna lägga den på märkt på den raden.","lang":"swe"}
+{"seq":376,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2009250,"end_ms":2009930,"text":"Precis, bra.","lang":"swe"}
+{"seq":377,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2013870,"end_ms":2014150,"text":"Mm.","lang":"swe"}
+{"seq":378,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2016650,"end_ms":2018110,"text":"Ska vi prova att lägga till något?","lang":"swe"}
+{"seq":379,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2021600,"end_ms":2026310,"text":"Men det är bra det också för då försvinner det några kolumner. För det blir ganska många kolumner när man kommer till beloppskolumner också.","lang":"swe"}
+{"seq":380,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2026570,"end_ms":2026870,"text":"Exakt.","lang":"swe"}
+{"seq":381,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2026890,"end_ms":2029230,"text":"Och det blir ju, eh...","lang":"swe"}
+{"seq":382,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2030830,"end_ms":2037110,"text":"Om jag markerar den här raden säger vi här. Nu vet jag att inte de har den här. Sen så vill jag fill.","lang":"swe"}
+{"seq":383,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2039800,"end_ms":2044450,"text":"Och det här tänker jag då att det är totala för hela året. Så vi säger att vi ska ha tolv.","lang":"swe"}
+{"seq":384,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2048610,"end_ms":2050570,"text":"Nej, du vart det per månad. Okej, mm.","lang":"swe"}
+{"seq":385,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2052230,"end_ms":2054550,"text":"Jaha, just det, det är kanske den där man använder då.","lang":"swe"}
+{"seq":386,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2061370,"end_ms":2062090,"text":"Ja, så.","lang":"swe"}
+{"seq":387,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2064050,"end_ms":2068550,"text":"Om vi vill ha en uplift på tio procent på alla månader.","lang":"swe"}
+{"seq":388,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2073570,"end_ms":2076010,"text":"Copy row. Pick a line.","lang":"swe"}
+{"seq":389,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2077790,"end_ms":2088409,"text":"Ska man, ska man inte heller där då att när man väljer copy row så vill man att den kopierar den raden man har markerat? Är inte det smidigare än att jag ska behöva välja en...","lang":"swe"}
+{"seq":390,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2090489,"end_ms":2093850,"text":"Jo, så får du en till identisk rad, så kan du gå in och ändra.","lang":"swe"}
+{"seq":391,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2093929,"end_ms":2099210,"text":"Exakt. Jag vill att när jag klickar på copy row, då vill jag att den ska kopiera den raden som jag står på och har markerat.","lang":"swe"}
+{"seq":392,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2099310,"end_ms":2100950,"text":"Ja, så är det. Det är logiskt.","lang":"swe"}
+{"seq":393,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2101230,"end_ms":2103430,"text":"Ja. Så det vill vi ändra.","lang":"swe"}
+{"seq":394,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2105670,"end_ms":2109490,"text":"För du kan också, är det där uppe add a line, add line.","lang":"swe"}
+{"seq":395,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2109960,"end_ms":2111870,"text":"Mm. Då kan jag adda en ny.","lang":"swe"}
+{"seq":396,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2111910,"end_ms":2114450,"text":"Då lägger du till en rad. Då får du tryckfärga allt.","lang":"swe"}
+{"seq":397,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2116310,"end_ms":2117990,"text":"Hela kontoplanen är där nere?","lang":"swe"}
+{"seq":398,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2119170,"end_ms":2124930,"text":"Ja, den är utifrån bryggan som jag har lagt in. Det ska vara hela kontoplanen för den är tagen från rapportmallen.","lang":"swe"}
+{"seq":399,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2126930,"end_ms":2127170,"text":"Så det","lang":"swe"}
+{"seq":400,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2129450,"end_ms":2132350,"text":"ska det vara.","lang":"swe"}
+{"seq":401,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2134610,"end_ms":2135890,"text":"Work wear. Okej.","lang":"swe"}
+{"seq":402,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2136470,"end_ms":2137990,"text":"Ja, gissar jag det.","lang":"swe"}
+{"seq":403,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2139810,"end_ms":2140890,"text":"Men jag kan inte klicka på den.","lang":"swe"}
+{"seq":404,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2146460,"end_ms":2147970,"text":"Jo, den kanske är markerad förresten.","lang":"swe"}
+{"seq":405,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2149970,"end_ms":2150610,"text":"Men hur?","lang":"swe"}
+{"seq":406,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2152570,"end_ms":2154830,"text":"Jag kommer inte vidare. Skärmen för liten.","lang":"swe"}
+{"seq":407,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2158090,"end_ms":2159490,"text":"Jag kan inte klicka vidare här.","lang":"swe"}
+{"seq":408,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2161450,"end_ms":2162600,"text":"Kan inte upp och klicka på den där.","lang":"swe"}
+{"seq":409,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2168940,"end_ms":2169650,"text":"Where are you?","lang":"swe"}
+{"seq":410,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2169770,"end_ms":2171710,"text":"Det verkar som att den inte kommer hela vägen ner där.","lang":"swe"}
+{"seq":411,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2172490,"end_ms":2173710,"text":"Account, search.","lang":"swe"}
+{"seq":412,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2176270,"end_ms":2179290,"text":"Sluta dela då. Så hoppar vi då.","lang":"swe"}
+{"seq":413,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2180230,"end_ms":2180990,"text":"Service fee.","lang":"swe"}
+{"seq":414,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2192470,"end_ms":2202234,"text":"Ja, ja, men jag klickar den där då.Nu fick den.","lang":"swe"}
+{"seq":415,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2203874,"end_ms":2203974,"text":"Mm.","lang":"swe"}
+{"seq":416,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2204014,"end_ms":2204114,"text":"Mm.","lang":"swe"}
+{"seq":417,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2204174,"end_ms":2205164,"text":"Varför fick du inte med beloppet?","lang":"swe"}
+{"seq":418,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2206574,"end_ms":2207634,"text":"Nej, men jag tog add line.","lang":"swe"}
+{"seq":419,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2208314,"end_ms":2208714,"text":"Ja, det var det.","lang":"swe"}
+{"seq":420,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2208734,"end_ms":2210154,"text":"Så det var en tom, det var en tom rad.","lang":"swe"}
+{"seq":421,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2210224,"end_ms":2210724,"text":"Sorry.","lang":"swe"}
+{"seq":422,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2210724,"end_ms":2216214,"text":"Mm. Och här kan jag ju också skriva in vad jag vill, eh, valfritt. Om jag vill det.","lang":"swe"}
+{"seq":423,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2216294,"end_ms":2216394,"text":"Mm.","lang":"swe"}
+{"seq":424,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2222094,"end_ms":2230314,"text":"Det, det är ju, det är ju bra. Tänker jag, hur är det med, hur tänker vi med att låsa och så vidare, rader och, eh...","lang":"swe"}
+{"seq":425,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2232304,"end_ms":2232354,"text":"Ja.","lang":"swe"}
+{"seq":426,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2233274,"end_ms":2233284,"text":"Mm.","lang":"swe"}
+{"seq":427,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2233293,"end_ms":2239134,"text":"Det är som, som vanligt Excel, liksom. Men är, är det någonting vi vill logga? För det blir enkelt där och så i så är det nån-","lang":"swe"}
+{"seq":428,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2239634,"end_ms":2240694,"text":"Som slir slinter.","lang":"swe"}
+{"seq":429,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2240774,"end_ms":2246894,"text":"Ja, men lite så. Jag vet, jag tänker. Eller och liksom, eller behövs inte det här? Ska vi inte-","lang":"swe"}
+{"seq":430,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2247294,"end_ms":2252494,"text":"Men man satte ju en status på dem. Alltså när man kommer till nästa status, vad det nu var första.","lang":"swe"}
+{"seq":431,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2252894,"end_ms":2253514,"text":"Mm, vi kan testa.","lang":"swe"}
+{"seq":432,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2253954,"end_ms":2258394,"text":"Att när det är den, då kanske det skulle vara såhär låst för den användaren.","lang":"swe"}
+{"seq":433,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2258594,"end_ms":2260074,"text":"Submit for review.","lang":"swe"}
+{"seq":434,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2260514,"end_ms":2262044,"text":"Men då blir hela budgeten låst.","lang":"swe"}
+{"seq":435,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2262054,"end_ms":2265814,"text":"Ja, då blir hela budgeten låst. Men du är mer ute efter att man ska kunna låsa rader.","lang":"swe"}
+{"seq":436,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2266074,"end_ms":2276094,"text":"Jag gillar det. Jag men brainstormar lite grann här nu bara. Tänka på att nu har vi användare inne som är liksom, ja, det finns varierande-","lang":"swe"}
+{"seq":437,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2276494,"end_ms":2277514,"text":"Nu om vi liksom-","lang":"swe"}
+{"seq":438,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2277594,"end_ms":2278094,"text":"Värdighet.","lang":"swe"}
+{"seq":439,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2278114,"end_ms":2293294,"text":"Precis, vi testar det här nu då. Nu är vi på BCA, men vi inloggade som finance och finance ska ju gå in och, liksom, reviewa här. Så då kan ju vi, när vi är redo att börja reviewa, då tar vi begin review. Men i det här fallet då så går vi in som BCA owner.","lang":"swe"}
+{"seq":440,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2295574,"end_ms":2302874,"text":"Och då är den await finance review. You can recall your submit någonting. Mm.","lang":"swe"}
+{"seq":441,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2303214,"end_ms":2305714,"text":"Mm. Så jag kan ta tillbaka den då?","lang":"swe"}
+{"seq":442,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2305874,"end_ms":2309414,"text":"Nu kan jag ta tillbaka den då. Vi testar väl om jag... Undrar hur jag gör då?","lang":"swe"}
+{"seq":443,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2311914,"end_ms":2313444,"text":"Kanske gör det nu då. Prova det.","lang":"swe"}
+{"seq":444,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2313444,"end_ms":2313794,"text":"Vi testar.","lang":"swe"}
+{"seq":445,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2316894,"end_ms":2319394,"text":"Eller om vi hade pickat upp den.","lang":"swe"}
+{"seq":446,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2319434,"end_ms":2323314,"text":"Vi testar. Okej, nu har vi ju ändrat någonting här i alla fall.","lang":"swe"}
+{"seq":447,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2325074,"end_ms":2326694,"text":"Men den är submitted fortfarande.","lang":"swe"}
+{"seq":448,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2327754,"end_ms":2331464,"text":"Ja, vad hände då? Eller har det slagit igenom om vi går in och-","lang":"swe"}
+{"seq":449,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2331474,"end_ms":2332444,"text":"Om vi pickar upp han eller?","lang":"swe"}
+{"seq":450,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2332574,"end_ms":2333534,"text":"Om vi pickar upp han.","lang":"swe"}
+{"seq":451,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2334734,"end_ms":2335354,"text":"Och var det mer-","lang":"swe"}
+{"seq":452,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2335474,"end_ms":2338254,"text":"Exakt, jag ändrade den, den här raden ändrade jag nu.","lang":"swe"}
+{"seq":453,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2338334,"end_ms":2339393,"text":"Ja, det var någonting innan.","lang":"swe"}
+{"seq":454,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2339874,"end_ms":2342394,"text":"65 och ett, två, tre. Är det två, tre? Två, tre.","lang":"swe"}
+{"seq":455,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2343514,"end_ms":2346034,"text":"Ja, vad gör jag? Om jag går hit då.","lang":"swe"}
+{"seq":456,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2350294,"end_ms":2352984,"text":"Ja, nu ska det bli spännande. Känn till.","lang":"swe"}
+{"seq":457,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2352994,"end_ms":2354124,"text":"Jo, det är det.","lang":"swe"}
+{"seq":458,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2354154,"end_ms":2355454,"text":"One month ago. Nej en.","lang":"swe"}
+{"seq":459,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2355494,"end_ms":2356374,"text":"Men kan jag få","lang":"swe"}
+{"seq":460,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2358074,"end_ms":2359194,"text":"uppdatera den här då?","lang":"swe"}
+{"seq":461,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2361954,"end_ms":2363054,"text":"Finance admin.","lang":"swe"}
+{"seq":462,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2363214,"end_ms":2366194,"text":"Jag är inne där nu.","lang":"swe"}
+{"seq":463,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2367934,"end_ms":2369154,"text":"Det är samma text där uppe.","lang":"swe"}
+{"seq":464,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2371614,"end_ms":2372274,"text":"Alltså...","lang":"swe"}
+{"seq":465,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2374774,"end_ms":2375404,"text":"Varför har jag bort det?","lang":"swe"}
+{"seq":466,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2375674,"end_ms":2377174,"text":"Det ser ut som att det är ändrat i alla fall.","lang":"swe"}
+{"seq":467,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2378234,"end_ms":2383674,"text":"Ja, det är det. Men okej, då testar vi begin review. Om jag börjar med den då.","lang":"swe"}
+{"seq":468,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2384554,"end_ms":2384894,"text":"Oj.","lang":"swe"}
+{"seq":469,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2385154,"end_ms":2385254,"text":"Mm.","lang":"swe"}
+{"seq":470,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2389714,"end_ms":2390394,"text":"Vad händer nu?","lang":"swe"}
+{"seq":471,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2393854,"end_ms":2393863,"text":"Mm.","lang":"swe"}
+{"seq":472,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2393894,"end_ms":2401254,"text":"Genast blir man lite såhär varningstext typ. Ta bort det där.","lang":"swe"}
+{"seq":473,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2402534,"end_ms":2406714,"text":"Det är det jag menar. Vi måste, innan vi kommer kunna göra något med det här så måste vi ha testat alla steg.","lang":"swe"}
+{"seq":474,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2406814,"end_ms":2407054,"text":"Ja.","lang":"swe"}
+{"seq":475,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2407794,"end_ms":2412424,"text":"Det är ju där också, jag tänker den där texten, prova texten. Den är ju som riktad fortfarande till BCA.","lang":"swe"}
+{"seq":476,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2414034,"end_ms":2414554,"text":"Exakt.","lang":"swe"}
+{"seq":477,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2414594,"end_ms":2416054,"text":"Await finance review.","lang":"swe"}
+{"seq":478,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2416794,"end_ms":2421014,"text":"Nu vet jag inte, men jag tänker om, som nu när vi växlar till oss, då skulle man ju vilja se-","lang":"swe"}
+{"seq":479,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2421474,"end_ms":2422534,"text":"En annan text.","lang":"swe"}
+{"seq":480,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2422634,"end_ms":2425574,"text":"Draft submitted från BCA.","lang":"swe"}
+{"seq":481,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2425854,"end_ms":2426054,"text":"Mm.","lang":"swe"}
+{"seq":482,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2427034,"end_ms":2428594,"text":"Begin review eller någonting.","lang":"swe"}
+{"seq":483,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2429174,"end_ms":2432594,"text":"Exakt, så att den visar olika text beroende på vilken roll du är inloggad som.","lang":"swe"}
+{"seq":484,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2432614,"end_ms":2433874,"text":"Alltså det är inte riktigt vi.","lang":"swe"}
+{"seq":485,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2433974,"end_ms":2434294,"text":"Nej.","lang":"swe"}
+{"seq":486,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2434494,"end_ms":2436374,"text":"Men det blir mycket tydligare.","lang":"swe"}
+{"seq":487,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2436384,"end_ms":2440694,"text":"I det här fallet så var jag fundersam om, är vi verkligen inne som finance admin?","lang":"swe"}
+{"seq":488,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2441514,"end_ms":2441524,"text":"Mm.","lang":"swe"}
+{"seq":489,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2441574,"end_ms":2443154,"text":"När det står så, när det står den där texten.","lang":"swe"}
+{"seq":490,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2448134,"end_ms":2449534,"text":"Mm. Eh, hur gör man det här då?","lang":"swe"}
+{"seq":491,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2451114,"end_ms":2452894,"text":"Jag tänker att jag tar väl en skärmdump på det här.","lang":"swe"}
+{"seq":492,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2454994,"end_ms":2462994,"text":"Vi lyckades i alla fall inte begin review nu. Det var, vi fick något felmeddelande. Så det måste ju undersökas varför inte det gick.","lang":"swe"}
+{"seq":493,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2465314,"end_ms":2470794,"text":"Mm. Men, eh, för nu försökte vi ju begin review och sen så småningom låsa hela budgeten.","lang":"swe"}
+{"seq":494,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2471254,"end_ms":2471264,"text":"Mm.","lang":"swe"}
+{"seq":495,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2471264,"end_ms":2471554,"text":"Men att få","lang":"swe"}
+{"seq":496,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2473294,"end_ms":2479234,"text":"din idé. Alltså jag gillar ju, det skulle ju vara bra tror jag om man kunde låsa specifika rader.","lang":"swe"}
+{"seq":497,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2479414,"end_ms":2482174,"text":"Typ en nyckel såhär på den raden.","lang":"swe"}
+{"seq":498,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2482254,"end_ms":2499194,"text":"Som vi kan låsa. Det kanske till och med så, vi vill inte att nån ska kunna ta på nåt på resekostnader till exempel. Då kan, när vi har läst in budget proposal och skickar ut när de ska börja. Då är några låsta redan. Sen får de ju höra av sig.","lang":"swe"}
+{"seq":499,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2499314,"end_ms":2499754,"text":"Mycket bra.","lang":"swe"}
+{"seq":500,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2499954,"end_ms":2532414,"text":"Om det är så att de känner att: \"Nej, men det kommer, det här kommer inte att gå. Du måste låsa upp mot mig så jag får lägga in.\" Ja, men då krävs det ju lite övertalning i alla fall. Alltså, eh, på samma sätt så har man jobbat igenom fem rader. Vi alla känner sig nöjda. Då är det ju, känns det ju säkert bra att kunna låsa raderna. Att de fortsätter att jobba med resten så att man inte som sagt slinter på, man råkar ligga på fel rad och ändrar nåt belopp och sen så kommer inte ihåg. Vad stod den där raden då? Nej, den där hade vi redan. Var vi överens om? Alltså.","lang":"swe"}
+{"seq":501,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2532674,"end_ms":2533454,"text":"Den är låst.","lang":"swe"}
+{"seq":502,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2533834,"end_ms":2535254,"text":"Jag vet inte.","lang":"swe"}
+{"seq":503,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2535334,"end_ms":2542614,"text":"För det är också, när du råkar säga sådär. Tänk om man råkar ta bort den och så kommer man inte ihåg. Finns det ingen såhär backa till hur det var alldeles nyss?","lang":"swe"}
+{"seq":504,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2542694,"end_ms":2544454,"text":"Mycket bra poäng. Det måste man kunna.","lang":"swe"}
+{"seq":505,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2544484,"end_ms":2545154,"text":"Om man råkar radera.","lang":"swe"}
+{"seq":506,"speaker":"remote","speaker_label":"Speaker 5","start_ms":2545434,"end_ms":2546154,"text":"Undo.","lang":"swe"}
+{"seq":507,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2546234,"end_ms":2548334,"text":"Undo måste man kunna göra. Mm.","lang":"swe"}
+{"seq":508,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2548994,"end_ms":2549693,"text":"Kontroll Z.","lang":"swe"}
+{"seq":509,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2549754,"end_ms":2563634,"text":"Men nu måste jag få, liksom, summera vad, vad vi sa. Att när vi gör, eh, budget proposal så ska det gå för finance att låsa rader som respektive avdelningschef inte kan ändra.","lang":"swe"}
+{"seq":510,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2564290,"end_ms":2564370,"text":"Ja.","lang":"swe"}
+{"seq":511,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2566470,"end_ms":2576929,"text":"Och sen under när i processen ska vi kunna låsa rader? Alltså, är det som att vi såhär delgodkänner eller såhär del?","lang":"swe"}
+{"seq":512,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2576990,"end_ms":2580509,"text":"Det vet jag inte, men jag tänker att vi alltid ska kunna låsa.","lang":"swe"}
+{"seq":513,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2581730,"end_ms":2605150,"text":"Men, men kan man tänka sig såhär då kanske? Att varje rad ska liksom gå att låsa både ifrån, från avdelningschefen och ifrån Finance håll. Så att man som avdelningschef kan liksom gå igenom och såhär låsa rad för rad och säga att nu, den här är jag klar med, check. Klarmarkera raderna liksom. Och det är tydligt. Då blir den raden grön eller liksom såhär, den här raden är klar. Eh...","lang":"swe"}
+{"seq":514,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2606190,"end_ms":2612850,"text":"Men då kommer vi till frågan: ska man kunna, kunna låsa upp den sen? Eller är det bara Finance som har nyckeln att låsa upp?","lang":"swe"}
+{"seq":515,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2612910,"end_ms":2628729,"text":"Det är nog skillnad på klarmarkera och låsa egentligen. Alltså, det är nog bara vi som ska låsa. De kan klarmarkera och då, då kan de heller inte liksom råka ändra någonting. Men när vi väl har låst, då kan de varken öppna eller alltså...","lang":"swe"}
+{"seq":516,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2629590,"end_ms":2631970,"text":"Okej, så klarmarkera betyder-","lang":"swe"}
+{"seq":517,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2632190,"end_ms":2634169,"text":"Det är för dem att visa såhär, nu är jag klar.","lang":"swe"}
+{"seq":518,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2634190,"end_ms":2635250,"text":"Ja, men inte, alltså...","lang":"swe"}
+{"seq":519,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2638370,"end_ms":2651970,"text":"Men i den här, i den här liksom, om vi går tillbaka till dashboarden så har vi draft. Då jobbar de fortfarande i den. Där ska de ju kunna liksom klarmarkera rader för sin egen skull och veta att de är i draftläget. Sen-","lang":"swe"}
+{"seq":520,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2652090,"end_ms":2656270,"text":"Och, och sen såhär som jag tror Maria säger, alltså lå- alltså, säg något annat än låsa.","lang":"swe"}
+{"seq":521,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2656310,"end_ms":2656790,"text":"Klarmarkera.","lang":"swe"}
+{"seq":522,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2656870,"end_ms":2661970,"text":"Klarmarkera. Men, men det innebär, eller och det innebär att de inte kan göra någonting.","lang":"swe"}
+{"seq":523,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2661980,"end_ms":2663740,"text":"Då kan de inte råka liksom skriva om.","lang":"swe"}
+{"seq":524,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2663750,"end_ms":2665890,"text":"Då är de siffror som ligger därinne-","lang":"swe"}
+{"seq":525,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2666190,"end_ms":2673830,"text":"Låst liksom för dem. Ja, eller såhära. Spärrade rad. Sen kan de själva ta bort klarmarkeringen.","lang":"swe"}
+{"seq":526,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2675510,"end_ms":2688810,"text":"Så kan de själva liksom ta bort klarmarkeringen och då kan de ändra. Och så sätter de tillbaka klarmarkering. Då kan de inte ändra. Så det är liksom en spärrfunktion för dem själv. Och sen när de känner sig klar med alla rader, då klickar de på submit.","lang":"swe"}
+{"seq":527,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2688910,"end_ms":2689190,"text":"Ja.","lang":"swe"}
+{"seq":528,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2689830,"end_ms":2693750,"text":"Och sen när Finance plockar upp den och säger: Nu har vi börjat re-review.","lang":"swe"}
+{"seq":529,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2693829,"end_ms":2694450,"text":"Då är den låst.","lang":"swe"}
+{"seq":530,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2694530,"end_ms":2696190,"text":"Då är den låst. Då kan inte de göra något mer.","lang":"swe"}
+{"seq":531,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2696450,"end_ms":2708650,"text":"Då måste de säga till om vi ska unsubmitta den. Men annars tycker jag då, då, för då, det är då det blir fel. Såhär, nej men jag har den här versionen. Nej, men nu har vi godkänt det här. Alltså så.","lang":"swe"}
+{"seq":532,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2709370,"end_ms":2712170,"text":"Så när de har tryckt på submit, då kan de inte göra något mer.","lang":"swe"}
+{"seq":533,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2712220,"end_ms":2712520,"text":"Exakt.","lang":"swe"}
+{"seq":534,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2712610,"end_ms":2719270,"text":"Och skulle de komma på att: Nej, men jag vill ändra här. Då måste de, de måste de meddela Finance så att Finance kan låsa upp.","lang":"swe"}
+{"seq":535,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2719610,"end_ms":2720050,"text":"Ja.","lang":"swe"}
+{"seq":536,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2721590,"end_ms":2722190,"text":"Den raden.","lang":"swe"}
+{"seq":537,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2722470,"end_ms":2723190,"text":"Den raden.","lang":"swe"}
+{"seq":538,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2723430,"end_ms":2724130,"text":"Ja, men typ.","lang":"swe"}
+{"seq":539,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2725050,"end_ms":2728170,"text":"Ja, eller två, tre. De raderna. Inte hela.","lang":"swe"}
+{"seq":540,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2728250,"end_ms":2729770,"text":"Exakt.","lang":"swe"}
+{"seq":541,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2729870,"end_ms":2734110,"text":"Nu ser du här Niklas att den är ändrad procent.","lang":"swe"}
+{"seq":542,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2734450,"end_ms":2734750,"text":"Ja.","lang":"swe"}
+{"seq":543,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2735770,"end_ms":2737429,"text":"Och sen har vi en submit här då.","lang":"swe"}
+{"seq":544,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2738130,"end_ms":2740590,"text":"Tryck på klockan på sin om, om den finns till nu då.","lang":"swe"}
+{"seq":545,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2741910,"end_ms":2742980,"text":"Draft submitted.","lang":"swe"}
+{"seq":546,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2743990,"end_ms":2756410,"text":"Här status changed, changed. Och efter så har jag ändrat de här raderna tydligen.","lang":"swe"}
+{"seq":547,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2757210,"end_ms":2764390,"text":"Det står ju i och för sig där, line item. Det säger ju något om vad du har gjort. Du har ändrat på rader.","lang":"swe"}
+{"seq":548,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2765370,"end_ms":2770110,"text":"Men vi går tillbaka till BCA. Alltså den här.","lang":"swe"}
+{"seq":549,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2773030,"end_ms":2775430,"text":"Det här får han ta och fixa. Mm.","lang":"swe"}
+{"seq":550,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2776750,"end_ms":2777610,"text":"Open green.","lang":"swe"}
+{"seq":551,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2778130,"end_ms":2778450,"text":"Mm.","lang":"swe"}
+{"seq":552,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2779670,"end_ms":2780770,"text":"Åh, engelska.","lang":"swe"}
+{"seq":553,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2781490,"end_ms":2782910,"text":"Fast engelska.","lang":"swe"}
+{"seq":554,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2786610,"end_ms":2787270,"text":"Eh...","lang":"swe"}
+{"seq":555,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2790130,"end_ms":2795190,"text":"Och nu är vi ju Finance admin och hur var det här med de här siffrorna? Nu måste vi kunna titta här.","lang":"swe"}
+{"seq":556,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2799250,"end_ms":2808730,"text":"Ja, här ligger ju fortfarande. Det, den, det var så jag ändrade efter att jag hade submitat. 23, 23. Jo.","lang":"swe"}
+{"seq":557,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2810330,"end_ms":2815870,"text":"Men om jag tar begin nu kanske, får vi se om jag får göra det här nu. Nej, jag kan inte det. Det är något knas.","lang":"swe"}
+{"seq":558,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2816770,"end_ms":2819090,"text":"Received on review.","lang":"swe"}
+{"seq":559,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2821730,"end_ms":2823149,"text":"Så då kan man inte testa vidare.","lang":"swe"}
+{"seq":560,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2823370,"end_ms":2826170,"text":"Nej, inte på den här i alla fall. Vi kan ju testa någon annan kanske.","lang":"swe"}
+{"seq":561,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2829890,"end_ms":2831510,"text":"Skulle kunna bara skjuta ändra.","lang":"swe"}
+{"seq":562,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2832550,"end_ms":2841870,"text":"Mm, exakt. Vi tar någon annan. Vi tar Finance. Tar vi så klart. Finance ju klart, Finance. Submit for review.","lang":"swe"}
+{"seq":563,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2843550,"end_ms":2852550,"text":"In review. Nej, det verkar vara något knas här. Men ni såg att det kom ett litet pling, en liten notifikation att nu har Finance submittat sin.","lang":"swe"}
+{"seq":564,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2852710,"end_ms":2854450,"text":"Ja, absolut.","lang":"swe"}
+{"seq":565,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2854490,"end_ms":2860110,"text":"Det är bra. Mm.","lang":"swe"}
+{"seq":566,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2860630,"end_ms":2872820,"text":"Men hur är det då? Det plinget ja. Ja, vad sa vi om det? Skulle det komma något mer än ett pling? Som du kallar det för? Skulle det komma någon, något mejl? Eller skulle det komma något? Vi körde om ett mejl va?","lang":"swe"}
+{"seq":567,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2872990,"end_ms":2880170,"text":"Ja, alltså när den ändrar status så, så tycker jag att den, då ska den, då ska det komma mejl till Finance.","lang":"swe"}
+{"seq":568,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2881890,"end_ms":2884930,"text":"Ja. Så får det bli.","lang":"swe"}
+{"seq":569,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2888430,"end_ms":2895930,"text":"Annars är frågan, då kommer den väl ligga där då? Så vi kan godkänna den liksom. Alltså, ja, det måste vi nästan få in allas innan.","lang":"swe"}
+{"seq":570,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2897290,"end_ms":2898930,"text":"Men jag tänker att, eller vad då menar du?","lang":"swe"}
+{"seq":571,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2899010,"end_ms":2899550,"text":"Ja, eller...","lang":"swe"}
+{"seq":572,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2899770,"end_ms":2901090,"text":"Och review, tänker du liksom.","lang":"swe"}
+{"seq":573,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2901170,"end_ms":2910270,"text":"Ja, när vi håller på att reviewa den här. Nästa steg är väl att klicka godkänn för våran del då. På BCA till exempel. Approved.","lang":"swe"}
+{"seq":574,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2910370,"end_ms":2921020,"text":"Ja. Men det kan vi göra. Alltså, sen vet vi också att när den är approved från oss så kan den vara, vi kan ju fortfarande köra den fem, tio gånger till innan det är-","lang":"swe"}
+{"seq":575,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2921130,"end_ms":2926010,"text":"Men då kan ju de få ett meddelande att den är approved om vi kommer att hålla på och ändra.","lang":"swe"}
+{"seq":576,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2926070,"end_ms":2931246,"text":"Nej, utan det, det är santDen är ju värre än vi då.","lang":"swe"}
+{"seq":577,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2931366,"end_ms":2934706,"text":"Ja, exakt. Så det vi säger nu är att vi vill ha in några ytterligare steg.","lang":"swe"}
+{"seq":578,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2936306,"end_ms":2938566,"text":"När det är jul vet vi att det är då det.","lang":"swe"}
+{"seq":579,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2938666,"end_ms":2940746,"text":"Ja.","lang":"swe"}
+{"seq":580,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2940776,"end_ms":2941806,"text":"Approved är ju inte förstås det där.","lang":"swe"}
+{"seq":581,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2941946,"end_ms":2944006,"text":"Så den måste ju heta någonting annat än approved.","lang":"swe"}
+{"seq":582,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2944046,"end_ms":2951866,"text":"Men kan vi ha ett steg däremellan, såhär accepted by finance? Det behöver, det är liksom ett steg före approved. Skulle det kunna vara ett alternativ?","lang":"swe"}
+{"seq":583,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2951986,"end_ms":2955566,"text":"Eller accepted, not approved. Heter det tydligt.","lang":"swe"}
+{"seq":584,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2955726,"end_ms":2956186,"text":"Ja.","lang":"swe"}
+{"seq":585,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2956226,"end_ms":2957426,"text":"Ja, fast.","lang":"swe"}
+{"seq":586,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2957946,"end_ms":2958426,"text":"Jag vet inte.","lang":"swe"}
+{"seq":587,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2958546,"end_ms":2965286,"text":"Fast det finns en not approved. Varför inte det? Alltså så, jag bara tänker. Men jag förstår vad du är ute efter. Ja, men precis.","lang":"swe"}
+{"seq":588,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2967286,"end_ms":2972806,"text":"Alltså, eller någonting såhär in progress, någonting. Alltså att den inte är...","lang":"swe"}
+{"seq":589,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2973126,"end_ms":2981446,"text":"Jo, men på nåt, på nåt sätt vill vi ju tala om att nu har vi på finance tittat på den. Vi på finance tycker att den är, eh, den ser bra ut.","lang":"swe"}
+{"seq":590,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2981726,"end_ms":2982286,"text":"Reviewed.","lang":"swe"}
+{"seq":591,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2983006,"end_ms":2984626,"text":"Ja, det skulle vi kunna vara.","lang":"swe"}
+{"seq":592,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2984926,"end_ms":2987846,"text":"Submitted, reviewed. Du måste trycka på okej.","lang":"swe"}
+{"seq":593,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2989546,"end_ms":2990586,"text":"Du var i sista sekund.","lang":"swe"}
+{"seq":594,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2990666,"end_ms":2990946,"text":"Nej.","lang":"swe"}
+{"seq":595,"speaker":"remote","speaker_label":"Speaker 3","start_ms":2991246,"end_ms":2991716,"text":"Nej, du hann inte.","lang":"swe"}
+{"seq":596,"speaker":"remote","speaker_label":"Speaker 2","start_ms":2991766,"end_ms":2996205,"text":"Det hann jag inte. Jag fattade inte. Oh, bra jobbat. Nej, det var inte bra jobbat.","lang":"swe"}
+{"seq":597,"speaker":"remote","speaker_label":"Speaker 1","start_ms":2996906,"end_ms":3000916,"text":"Så blir det med den. Nej, men jag tänker såhär. Men okej, vad blir det då?","lang":"swe"}
+{"seq":598,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3004006,"end_ms":3006686,"text":"Review, det vill inte jag se.","lang":"swe"}
+{"seq":599,"speaker":"remote","speaker_label":"Speaker 1","start_ms":3006766,"end_ms":3008065,"text":"To be...","lang":"swe"}
+{"seq":600,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3008096,"end_ms":3009016,"text":"To be continued.","lang":"swe"}
+{"seq":601,"speaker":"remote","speaker_label":"Speaker 1","start_ms":3010246,"end_ms":3017386,"text":"To be approved. Ja, precis. To be approved eller to be final approved. Eller? Fan vad svårt det var.","lang":"swe"}
+{"seq":602,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3017626,"end_ms":3021726,"text":"Men review är väl bra? Då vet man alltså att finance har gått igenom den.","lang":"swe"}
+{"seq":603,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3022346,"end_ms":3025326,"text":"Fast vad gör de inte tror att den är godkänd eller?","lang":"swe"}
+{"seq":604,"speaker":"remote","speaker_label":"Speaker 1","start_ms":3025386,"end_ms":3026006,"text":"Ja, men precis.","lang":"swe"}
+{"seq":605,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3026026,"end_ms":3027886,"text":"Men det är ju tydligt då att det finns nästa steg.","lang":"swe"}
+{"seq":606,"speaker":"remote","speaker_label":"Speaker 1","start_ms":3030846,"end_ms":3032046,"text":"Waiting to be approved.","lang":"swe"}
+{"seq":607,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3032126,"end_ms":3035686,"text":"Ja, men typ. Ja, ja, men då fattar man det.","lang":"swe"}
+{"seq":608,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3036386,"end_ms":3046686,"text":"Okej, så det, vi har, vi vill lägga till ett steg till. Efter submitted. Submitted gör ju respektive avdelningschef. Då vill vi lägga till ett steg till som heter...","lang":"swe"}
+{"seq":609,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3046746,"end_ms":3048146,"text":"Waiting to be approved.","lang":"swe"}
+{"seq":610,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3049706,"end_ms":3051146,"text":"Hörde ni vad jag sa när jag var för chill?","lang":"swe"}
+{"seq":611,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3051526,"end_ms":3056526,"text":"Waiting to be approved. Är då, är det då vi är liksom finance har tittat igenom?","lang":"swe"}
+{"seq":612,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3057566,"end_ms":3057946,"text":"Ja.","lang":"swe"}
+{"seq":613,"speaker":"remote","speaker_label":"Speaker 1","start_ms":3058026,"end_ms":3059966,"text":"Men så reviewed.","lang":"swe"}
+{"seq":614,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3060066,"end_ms":3063686,"text":"Reviewed and waiting to be approved.","lang":"swe"}
+{"seq":615,"speaker":"remote","speaker_label":"Speaker 1","start_ms":3067306,"end_ms":3071536,"text":"To be continued. Nej. Snacka om göra.","lang":"swe"}
+{"seq":616,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3071766,"end_ms":3075446,"text":"Göra. Hur ska du klara det här? Nej, nu får ni bestämma er. Vad ska den heta?","lang":"swe"}
+{"seq":617,"speaker":"remote","speaker_label":"Speaker 1","start_ms":3075546,"end_ms":3077966,"text":"Ja, men det är inte... Vi kommer kunna ändra på det.","lang":"swe"}
+{"seq":618,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3078026,"end_ms":3081806,"text":"Ja, det kommer vi. Då, då säger vi nu att den är reviewed.","lang":"swe"}
+{"seq":619,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3083506,"end_ms":3085876,"text":"Not, not approved. Reviewed, not approved.","lang":"swe"}
+{"seq":620,"speaker":"remote","speaker_label":"Speaker 1","start_ms":3085886,"end_ms":3092026,"text":"Waiting to be approved. Reviewed, waiting to be approved.","lang":"swe"}
+{"seq":621,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3092646,"end_ms":3092986,"text":"Ja, exakt.","lang":"swe"}
+{"seq":622,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3093006,"end_ms":3093606,"text":"Det är steg tre.","lang":"swe"}
+{"seq":623,"speaker":"remote","speaker_label":"Speaker 1","start_ms":3093686,"end_ms":3094526,"text":"Waiting approval.","lang":"swe"}
+{"seq":624,"speaker":"remote","speaker_label":"Speaker 1","start_ms":3096266,"end_ms":3101336,"text":"Jag tänkte om det var färre ord. Nu får du välja. Ta det bästa av det.","lang":"swe"}
+{"seq":625,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3101386,"end_ms":3106286,"text":"Ta det bästa av det. Så den, det steget ska in mellan submitted och approved.","lang":"swe"}
+{"seq":626,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3107286,"end_ms":3109426,"text":"Sen i december så blir den approved.","lang":"swe"}
+{"seq":627,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3109466,"end_ms":3110086,"text":"By the board.","lang":"swe"}
+{"seq":628,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3110246,"end_ms":3110726,"text":"By the board.","lang":"swe"}
+{"seq":629,"speaker":"remote","speaker_label":"Speaker 1","start_ms":3110806,"end_ms":3111456,"text":"Ja, verkligen.","lang":"swe"}
+{"seq":630,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3112326,"end_ms":3115206,"text":"Och sen, men locked där var väl för länge sen kan jag säga.","lang":"swe"}
+{"seq":631,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3117866,"end_ms":3120116,"text":"Behövs den verkligen? Ska vi ta bort den?","lang":"swe"}
+{"seq":632,"speaker":"remote","speaker_label":"Speaker 1","start_ms":3120136,"end_ms":3120766,"text":"Fast det...","lang":"swe"}
+{"seq":633,"speaker":"remote","speaker_label":"Speaker 1","start_ms":3123066,"end_ms":3123536,"text":"Vad är locked?","lang":"swe"}
+{"seq":634,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3123626,"end_ms":3127626,"text":"Men locked blir den ju när den är approved. Vi behöver ju inte ha en locked.","lang":"swe"}
+{"seq":635,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3128466,"end_ms":3130246,"text":"Nej, vi kan plocka bort locked som steg.","lang":"swe"}
+{"seq":636,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3130426,"end_ms":3132146,"text":"Sen har vi bara fyra fast vi...","lang":"swe"}
+{"seq":637,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3132226,"end_ms":3134226,"text":"Ja, fast vi döker, döper om dem lite.","lang":"swe"}
+{"seq":638,"speaker":"remote","speaker_label":"Speaker 1","start_ms":3134326,"end_ms":3142396,"text":"Locked and approved. För det är ju viktigt att den blir låst. När den hamnar i steget approved.","lang":"swe"}
+{"seq":639,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3142396,"end_ms":3144856,"text":"Precis, men jag tänker inte att det behöver stå och heter det.","lang":"swe"}
+{"seq":640,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3144886,"end_ms":3156406,"text":"Varje gång jag klickar på budget så hoppar den tillbaka till 2026. Jag vill att den ska vara kvar på 27 för det är den jag håller på att jobba med.","lang":"swe"}
+{"seq":641,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3158646,"end_ms":3164986,"text":"Ja, men om vi tar finance här då och då får inte vi in review. Nej, okej.","lang":"swe"}
+{"seq":642,"speaker":"remote","speaker_label":"Speaker 1","start_ms":3166846,"end_ms":3187986,"text":"Men de där stegen skulle man vilja komma tillbaka till lite när vi får se hur det, hur det funkar. Jag bara tänker, eh, där då när man trycker på approved, till exempel efter styrelsemötet, så skulle man ju vilja att hela budgeten med automatik blir låst. Om in, om det är någon rad eller någonting som inte är låst av någon anledning då. Så att det verkligen inte går att ändra.","lang":"swe"}
+{"seq":643,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3188446,"end_ms":3189125,"text":"Exakt.","lang":"swe"}
+{"seq":644,"speaker":"remote","speaker_label":"Speaker 1","start_ms":3189586,"end_ms":3193006,"text":"Nu behöver vi inte stå locked. Eller ja, nej.","lang":"swe"}
+{"seq":645,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3194386,"end_ms":3199666,"text":"Exakt. Man skulle ju, vi vill, skulle vilja testa de här stegen och se hur de, vad som händer då. Är det liksom...","lang":"swe"}
+{"seq":646,"speaker":"remote","speaker_label":"Speaker 1","start_ms":3201116,"end_ms":3220506,"text":"Ja, och då kan det bli så att olika versioner. Jag tänker hur jobbar vi med versioner? För att jag tänker på när vi submitar. Ni vet ju själv att vi har olika versioner, olika styrelsemöten och kanske olika annat sittningar. Så har vi liksom, har vi döpt dem. Så jag tror vi skulle behöva jobba med olika budgetversioner också.","lang":"swe"}
+{"seq":647,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3220536,"end_ms":3223306,"text":"Att det finns någon historik i alla fall där man kan få fram det.","lang":"swe"}
+{"seq":648,"speaker":"remote","speaker_label":"Speaker 1","start_ms":3223366,"end_ms":3245076,"text":"Ja, precis. Men också liksom såhär, okej, det här är om vi har olika delar i det också dessutom då. Det här är elfte november-versionen. Styrelsemötet då. Då vet vi att, så kan man gå in och titta. Och så har man den. Någonstans måste man kunna se vart och exakt var det var då. För nu är det 28 november och då har vi kanske bara haft-","lang":"swe"}
+{"seq":649,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3245246,"end_ms":3260266,"text":"Då är ju frågan hur vi, det där. Exakt. Då är ju frågan såhär, är det, vill vi ta ut en export mellan varje och säga att såhär, här är liksom, den kan vi spara ner som en excel-fil, exporterad excel-fil. Eller vill vi kunna backa tillbaka även här?","lang":"swe"}
+{"seq":650,"speaker":"remote","speaker_label":"Speaker 1","start_ms":3260386,"end_ms":3266506,"text":"Eller backa tillbaka. Om vi kollar på versioner, ja det borde vi kunna visa. Såhär såg det ut då.","lang":"swe"}
+{"seq":651,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3266886,"end_ms":3283406,"text":"Ja, precis. Om man säger såhär, vi kan ju spara, typ exportera, men det sparas i appen och så kan vi ha datum. Sen kan vi gå in i den här typ historiken och så kan vi klicka på version elfte november eller sådär. Och så får man upp hela här i appen.","lang":"swe"}
+{"seq":652,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3283466,"end_ms":3284265,"text":"Såhär såg det ut då.","lang":"swe"}
+{"seq":653,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3284366,"end_ms":3284726,"text":"Ja.","lang":"swe"}
+{"seq":654,"speaker":"remote","speaker_label":"Speaker 1","start_ms":3284766,"end_ms":3285546,"text":"Jag tänker att det-","lang":"swe"}
+{"seq":655,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3285666,"end_ms":3287846,"text":"Det låter ju väldigt bra.","lang":"swe"}
+{"seq":656,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3287946,"end_ms":3289936,"text":"Modernt. Alltså om man inte ska blanda i.","lang":"swe"}
+{"seq":657,"speaker":"remote","speaker_label":"Speaker 1","start_ms":3290066,"end_ms":3296546,"text":"Då måste man då i så fall promta att nu den här, nu spar vi den här versionen. Nu heter den","lang":"swe"}
+{"seq":658,"speaker":"remote","speaker_label":"Speaker 6","start_ms":3296986,"end_ms":3309126,"text":"Så allt som ligger nu i där är den här versionen. Vad nu den heter, om den heter elfte december, november eller version ett eller version två eller version tre.","lang":"swe"}
+{"seq":659,"speaker":"remote","speaker_label":"Speaker 6","start_ms":3313106,"end_ms":3314066,"text":"Är det för avancerat?","lang":"swe"}
+{"seq":660,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3314466,"end_ms":3315806,"text":"Alltså jag har ingen aning.","lang":"swe"}
+{"seq":661,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3315846,"end_ms":3318706,"text":"Jag tycker att det låter bra.","lang":"swe"}
+{"seq":662,"speaker":"remote","speaker_label":"Speaker 6","start_ms":3318726,"end_ms":3319245,"text":"Avancerat.","lang":"swe"}
+{"seq":663,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3319326,"end_ms":3322766,"text":"Ja, det låter ju jättebra. Samtidigt låter det som att...","lang":"swe"}
+{"seq":664,"speaker":"remote","speaker_label":"Speaker 6","start_ms":3322806,"end_ms":3327206,"text":"Ja, men det är ju Snapchat. Det bara, den bara fryser liksom och visar.","lang":"swe"}
+{"seq":665,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3327226,"end_ms":3328386,"text":"Precis, visar.","lang":"swe"}
+{"seq":666,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3328726,"end_ms":3330646,"text":"Och har den, och sen har den liksom någonstans.","lang":"swe"}
+{"seq":667,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3330946,"end_ms":3335906,"text":"Så vi ska liksom, det bör finnas en, en sida här där det finns sparade versioner.","lang":"swe"}
+{"seq":668,"speaker":"remote","speaker_label":"Speaker 7","start_ms":3336406,"end_ms":3338286,"text":"Exakt så. Som vi kan se.","lang":"swe"}
+{"seq":669,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3338426,"end_ms":3349286,"text":"Som vi kan se. Så man kan gå tillbaka. Exakt. Nu vill vi spara ner den här versionen och då ska den finnas lagrad på den sidan av sparade versioner. Ja, så ska det vara.","lang":"swe"}
+{"seq":670,"speaker":"remote","speaker_label":"Speaker 6","start_ms":3350846,"end_ms":3354946,"text":"Ska det vara, ska det vara möjligt att...","lang":"swe"}
+{"seq":671,"speaker":"remote","speaker_label":"Speaker 6","start_ms":3357076,"end_ms":3358406,"text":"Man vill bara kunna gå in och titta.","lang":"swe"}
+{"seq":672,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3358446,"end_ms":3358706,"text":"Ja, ja.","lang":"swe"}
+{"seq":673,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3358866,"end_ms":3359826,"text":"Bara.","lang":"swe"}
+{"seq":674,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3359886,"end_ms":3360356,"text":"Den är inlåst.","lang":"swe"}
+{"seq":675,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3362106,"end_ms":3372946,"text":"För då måste det framgå när man är inne i den också. Att det någonstans står högst upp att det är version och så datum eller någonting. Det är inte en redigerbar.","lang":"swe"}
+{"seq":676,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3374706,"end_ms":3385026,"text":"Och det måste också vara supertydligt att nu sparar jag ner en version. Det är version elfte november. Eh, men när jag går in och jobbar nu så jobbar jag i en öppen version.","lang":"swe"}
+{"seq":677,"speaker":"remote","speaker_label":"Speaker 6","start_ms":3385146,"end_ms":3386286,"text":"Ja.","lang":"swe"}
+{"seq":678,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3387026,"end_ms":3397725,"text":"Så att det är liksom, det måste också vara tydligt för att jag är och jobbar också. Att den här kommer bli version draft just nu. Nej, jag vet inte, men det måste nog...","lang":"swe"}
+{"seq":679,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3399026,"end_ms":3412126,"text":"Den heter då kanske någonting också hela tiden. Svårt det där. Men definitivt om vi spar, ska vi kunna spara med en, någon slags, ja, med ett datum eller en versionsnummer eller sånt.","lang":"swe"}
+{"seq":680,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3412806,"end_ms":3413046,"text":"Ja.","lang":"swe"}
+{"seq":681,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3415506,"end_ms":3415986,"text":"Mycket bra.","lang":"swe"}
+{"seq":682,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3418826,"end_ms":3424446,"text":"Mm, okej. Så det vill vi lägga till som en egen flik, som en...","lang":"swe"}
+{"seq":683,"speaker":"remote","speaker_label":"Speaker 7","start_ms":3425246,"end_ms":3426606,"text":"Senast sparade version.","lang":"swe"}
+{"seq":684,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3426646,"end_ms":3427926,"text":"Senast sparade version.","lang":"swe"}
+{"seq":685,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3430626,"end_ms":3432706,"text":"Som bara är såhär read only.","lang":"swe"}
+{"seq":686,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3437626,"end_ms":3439506,"text":"Vill vi kunna exportera den också?","lang":"swe"}
+{"seq":687,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3439526,"end_ms":3439846,"text":"Ja.","lang":"swe"}
+{"seq":688,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3442046,"end_ms":3447126,"text":"Så att det går att dela den till någon. Det är ju väldigt sista fliken.","lang":"swe"}
+{"seq":689,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3447266,"end_ms":3449786,"text":"Mm, precis. Eh,","lang":"swe"}
+{"seq":690,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3451786,"end_ms":3452766,"text":"orkar ni lite till eller?","lang":"swe"}
+{"seq":691,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3453446,"end_ms":3453866,"text":"Oh ja.","lang":"swe"}
+{"seq":692,"speaker":"remote","speaker_label":"Speaker 6","start_ms":3453926,"end_ms":3455326,"text":"Klockan femton noll noll har jag ett anmälat.","lang":"swe"}
+{"seq":693,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3455406,"end_ms":3480426,"text":"Ja, men vi har bokat till femton noll noll. Eh, när vi tittar nu i fliken som heter personal så är det, här står det ju Manage by finance. När vi nu har pratat om våra fyra sektioner så är ju den här personal en egen sektion. Så jag tänker att vi hoppar över den just nu. Och så hoppar vi till, vad har vi här då? Här ligger budgetarna och här kan man ju göra en download till Excel.","lang":"swe"}
+{"seq":694,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3481906,"end_ms":3482486,"text":"Det gillar vi.","lang":"swe"}
+{"seq":695,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3482746,"end_ms":3483666,"text":"Det gillar vi ju.","lang":"swe"}
+{"seq":696,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3485466,"end_ms":3488026,"text":"Nu har inte jag Excel installerat på den här datorn.","lang":"swe"}
+{"seq":697,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3488566,"end_ms":3488866,"text":"Nej.","lang":"swe"}
+{"seq":698,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3490906,"end_ms":3497046,"text":"Men vänta här nu. Jag har ju laddat upp den här så här borde jag kunna öppna den igenom.","lang":"swe"}
+{"seq":699,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3501786,"end_ms":3504345,"text":"Såhär såg den ut när jag exporterade den då.","lang":"swe"}
+{"seq":700,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3506206,"end_ms":3514646,"text":"Då är det ju bara totalerna för respektive avdelning. Och, och här finns ju mycket att önska av outputen.","lang":"swe"}
+{"seq":701,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3516486,"end_ms":3525026,"text":"Det finns väldigt mycket att önska. Ingenting. Det vi vill ha är ju, visst det är klart att det är fint att se totalerna per, per avdelning.","lang":"swe"}
+{"seq":702,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3526346,"end_ms":3527006,"text":"Och per månad.","lang":"swe"}
+{"seq":703,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3527036,"end_ms":3537926,"text":"Och per månad, absolut. Men vi vill ju se per konto. Vi vill kunna titta på per, eh, rad enligt Main Capital-bryggan, strukturen.","lang":"swe"}
+{"seq":704,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3538086,"end_ms":3538286,"text":"Ja.","lang":"swe"}
+{"seq":705,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3539086,"end_ms":3539926,"text":"Per avdelning.","lang":"swe"}
+{"seq":706,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3540406,"end_ms":3540666,"text":"Ja.","lang":"swe"}
+{"seq":707,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3541526,"end_ms":3554686,"text":"Och vi vill kunna titta på totalerna. Så vi vill liksom dels kunna titta på en månad på ett konto, på en, ett kostnadsställe. Men vi vill ju kunna titta på hela året. Alltså vi vill, det ska liksom...","lang":"swe"}
+{"seq":708,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3555146,"end_ms":3588886,"text":"Men kan man inte bara den, eh... Där vi matade in kostnaderna. Om någon har lagt till fem rader med samma konto för att de ville ha olika descriptions till exempel. Räcker inte det att ha en flik utöver de här för data? Och så, och så är det liksom varje, den minsta detaljnivån blir en rad i Excel, eller? Att det, att det, att det blir en tabell i den tredje fliken där man kan filtrera på. Nu vill jag bara kolla på Main Capital subkategorin","lang":"swe"}
+{"seq":709,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3590426,"end_ms":3592186,"text":"Travel expenses eller vad det nu är.","lang":"swe"}
+{"seq":710,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3592986,"end_ms":3595906,"text":"Du tänker att alla blir som transaktioner som ligger i en lista, eller vadå?","lang":"swe"}
+{"seq":711,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3596026,"end_ms":3596206,"text":"Ja.","lang":"swe"}
+{"seq":712,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3600546,"end_ms":3603826,"text":"Så en rad per transaktion? Alltså januari.","lang":"swe"}
+{"seq":713,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3603986,"end_ms":3611246,"text":"Nej, kanske som den här vyn. Så att du har, eh, så som raden såg ut när du matade in den i...","lang":"swe"}
+{"seq":714,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3611326,"end_ms":3616526,"text":"Ja, som, liksom som hela den här griden. Alltså hela den ser ut fast det är så den kommer ut i Excel.","lang":"swe"}
+{"seq":715,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3616746,"end_ms":3619526,"text":"Ja, så att du får med dig en kommentar till varje...","lang":"swe"}
+{"seq":716,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3620506,"end_ms":3622086,"text":"Ja just det, kommentarerna också.","lang":"swe"}
+{"seq":717,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3622546,"end_ms":3623026,"text":"Nej, jag vet inte.","lang":"swe"}
+{"seq":718,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3624266,"end_ms":3626006,"text":"Nu får vi tänka fritt vad vi vill ha.","lang":"swe"}
+{"seq":719,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3626186,"end_ms":3628206,"text":"Om man vill, om man vill ha all data som...","lang":"swe"}
+{"seq":720,"speaker":"remote","speaker_label":"Speaker 7","start_ms":3629426,"end_ms":3631606,"text":"Ja, men precis, den kan komma ut så som...","lang":"swe"}
+{"seq":721,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3632826,"end_ms":3634586,"text":"Som den ser ut. Mm.","lang":"swe"}
+{"seq":722,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3635466,"end_ms":3652066,"text":"Sen jag vet inte om det ska vara en flik per, vad heter det? Department. Eller om det, om det också ska vara i en kolumn. Så att då filtrerar du bara BCA. Så ser du alla BCAs rader. Då kan du filtrera vidare på konton eller main, main category.","lang":"swe"}
+{"seq":723,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3652146,"end_ms":3655866,"text":"Det kanske är bra om de är på samma.","lang":"swe"}
+{"seq":724,"speaker":"remote","speaker_label":"Speaker 7","start_ms":3657026,"end_ms":3662126,"text":"Så alla rader i samma flik fast du ska kunna filtrera per kostnadsställe?","lang":"swe"}
+{"seq":725,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3663582,"end_ms":3667442,"text":"Och vad är syftet med den här då bara grundnummer? Till Excelen då?","lang":"swe"}
+{"seq":726,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3669022,"end_ms":3671622,"text":"Man kan väl alltid vilja ha något i Excel tänker jag.","lang":"swe"}
+{"seq":727,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3671802,"end_ms":3678362,"text":"Ja, det är det gamla tänket. Är det det som jag menar? Man måste ändå fråga sig.","lang":"swe"}
+{"seq":728,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3678742,"end_ms":3681102,"text":"Absolut, vad är syftet med exporten?","lang":"swe"}
+{"seq":729,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3681182,"end_ms":3689722,"text":"Skicka in rapportfilen och sånt här i, alltså till main? Eller hur kommer den delen gå till? Alltså, det brukar ju vara Excel.","lang":"swe"}
+{"seq":730,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3691002,"end_ms":3692942,"text":"Ja. Och det måste ju...","lang":"swe"}
+{"seq":731,"speaker":"remote","speaker_label":"Speaker 8","start_ms":3693102,"end_ms":3700722,"text":"Då går jag tillbaka till vad vill vi ha? Om det är syftet. För syftet styr ju lite grann output.","lang":"swe"}
+{"seq":732,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3700782,"end_ms":3704721,"text":"Är det tänk på P&L? Eller hur såg den ut?","lang":"swe"}
+{"seq":733,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3704802,"end_ms":3706522,"text":"Ja, den var, den var ganska tom.","lang":"swe"}
+{"seq":734,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3708202,"end_ms":3709742,"text":"Men det, jag tänker.","lang":"swe"}
+{"seq":735,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3711482,"end_ms":3712821,"text":"Här borde man ju ha den då.","lang":"swe"}
+{"seq":736,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3716282,"end_ms":3725122,"text":"Men vill vi inte... Ja, då kanske vi vill ha en. Så jag tänker så som vi lägger in den i rapporter idag.","lang":"swe"}
+{"seq":737,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3727002,"end_ms":3727422,"text":"Ja precis.","lang":"swe"}
+{"seq":738,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3727452,"end_ms":3728422,"text":"Då lägger man in på en konto.","lang":"swe"}
+{"seq":739,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3729842,"end_ms":3730462,"text":"I rapporten?","lang":"swe"}
+{"seq":740,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3730762,"end_ms":3732922,"text":"Mm. Med in rapporten, alltså.","lang":"swe"}
+{"seq":741,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3733502,"end_ms":3738362,"text":"Nej, det är inte per konto. Det är per, alltså lägsta radnivån i rapportmallen.","lang":"swe"}
+{"seq":742,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3739402,"end_ms":3744882,"text":"Är det? Okej. Ja men det får vi kolla på innan jag ska rapportera. Det är också nytt så.","lang":"swe"}
+{"seq":743,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3745542,"end_ms":3746842,"text":"Ja men vadå? Budgeten menar du?","lang":"swe"}
+{"seq":744,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3746942,"end_ms":3751562,"text":"Nej, jag menar... Nej, men nu tänker jag fel. Nu tänker jag på rapport, rapporteringen.","lang":"swe"}
+{"seq":745,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3751642,"end_ms":3757502,"text":"Ja, nej, den är ju något annat. Men jag tänker när vi ska in det här i budgeten, då är det ju liksom vi budgeterar ju på","lang":"swe"}
+{"seq":746,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3759182,"end_ms":3766142,"text":"radnivå. Vi budgeterar ju inte på kontonivå, utan vi budgeterar ju per liksom lägsta nivån i bryggan.","lang":"swe"}
+{"seq":747,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3769162,"end_ms":3772642,"text":"Men vi får den på kontonivå ifrån verktyget nu egentligen.","lang":"swe"}
+{"seq":748,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3773482,"end_ms":3778942,"text":"Jaha ja. Och det vill vi ha för att vi vill ju putta in den i BC på kontonivå.","lang":"swe"}
+{"seq":749,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3779112,"end_ms":3782402,"text":"Just det. Det också. Tack. Bra.","lang":"swe"}
+{"seq":750,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3783052,"end_ms":3788222,"text":"Jo, men det är det som du... Men ja.","lang":"swe"}
+{"seq":751,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3788262,"end_ms":3791662,"text":"Vi kanske behöver få ut den på lite olika sätt då helt enkelt, beroende på.","lang":"swe"}
+{"seq":752,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3791822,"end_ms":3796322,"text":"Exakt. Vi vill ju kunna kanske styra exporten. Nu vill jag exportera den enligt...","lang":"swe"}
+{"seq":753,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3796462,"end_ms":3805142,"text":"Ja men precis, man kan välja export main, export BC, export, alltså och så får du, får du ut den så som du behöver den. Mycket bra.","lang":"swe"}
+{"seq":754,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3805262,"end_ms":3810902,"text":"Och så kan man välja export kostnadsställe. Jaha, bara BCA. Trevligt för att jag ska skicka den till Frida. Eller jag vet inte.","lang":"swe"}
+{"seq":755,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3811542,"end_ms":3815022,"text":"Eller export, export produkter.","lang":"swe"}
+{"seq":756,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3815642,"end_ms":3815862,"text":"Ja.","lang":"swe"}
+{"seq":757,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3817662,"end_ms":3826762,"text":"Ja. Det är ju schysst att ha en mapp på datorn där man ser versionen också. Alltså man ser att det finns en Excel-fil.","lang":"swe"}
+{"seq":758,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3826802,"end_ms":3829522,"text":"Det är ju frick. Det känns ju bra.","lang":"swe"}
+{"seq":759,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3830302,"end_ms":3832022,"text":"Varför ska man sådana?","lang":"swe"}
+{"seq":760,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3832052,"end_ms":3832162,"text":"Nej, det","lang":"swe"}
+{"seq":761,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3833902,"end_ms":3836302,"text":"kan man ju inte. Det går ju inte.","lang":"swe"}
+{"seq":762,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3836342,"end_ms":3841082,"text":"Nej, det är sant. Ja, det är bra. Varför inte? Ja.","lang":"swe"}
+{"seq":763,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3845142,"end_ms":3848862,"text":"Men här är det ju egentligen, precis, här kommer vi till budgeten här.","lang":"swe"}
+{"seq":764,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3849012,"end_ms":3853082,"text":"Det är en andra till och med. Nu står det fiscal year tjugosex. Ja, tjugosju.","lang":"swe"}
+{"seq":765,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3853502,"end_ms":3864142,"text":"Jag vet, men varje gång jag går tillbaka till menyn här så hoppar den tillbaka till tjugosex. Men det är helt rätt. Rubriken står tjugosex och sen är det budget tjugosju. Så det, det, så kan vi inte ha det.","lang":"swe"}
+{"seq":766,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3869402,"end_ms":3870862,"text":"Nej, det där.","lang":"swe"}
+{"seq":767,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3871162,"end_ms":3874682,"text":"Och den där. Och här är ju... Jaha.","lang":"swe"}
+{"seq":768,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3875162,"end_ms":3878742,"text":"Men vet den om, du håller på att spela in det här också? Eller vet den om det du har sagt?","lang":"swe"}
+{"seq":769,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3878902,"end_ms":3881122,"text":"Nej, det vet den inte. Nej.","lang":"swe"}
+{"seq":770,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3881182,"end_ms":3882642,"text":"Man ska bara ta det för ut.","lang":"swe"}
+{"seq":771,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3884442,"end_ms":3884862,"text":"Jaha.","lang":"swe"}
+{"seq":772,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3885242,"end_ms":3893542,"text":"Oj, när vi har sagt här på den här sidan. Jag har försökt tala om att nu pratar vi om kolumner och nu pratar vi om... Ja.","lang":"swe"}
+{"seq":773,"speaker":"remote","speaker_label":"Speaker 3","start_ms":3894822,"end_ms":3896362,"text":"Tufft. Annars får vi ge upp det här.","lang":"swe"}
+{"seq":774,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3897282,"end_ms":3908382,"text":"Nej då. Nej men grejen är att förstår inte Claude utifrån vad vi har sagt. Då får han fråga mig och så får jag förtydliga.","lang":"swe"}
+{"seq":775,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3908662,"end_ms":3912482,"text":"Ja. Vad hände klockan? Var det den där?","lang":"swe"}
+{"seq":776,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3913442,"end_ms":3914362,"text":"Notifikationer.","lang":"swe"}
+{"seq":777,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3914742,"end_ms":3920062,"text":"Nej, det är någon annan klocka. Till vänster, vänster, vänster. Det var alldeles nyss. Det var alldeles, där.","lang":"swe"}
+{"seq":778,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3920082,"end_ms":3924602,"text":"Det här är ju loggen skulle jag säga. Så jag kan inte klicka på den.","lang":"swe"}
+{"seq":779,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3925162,"end_ms":3926702,"text":"Kan vi gå tillbaka till exporten?","lang":"swe"}
+{"seq":780,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3927222,"end_ms":3927342,"text":"Ja.","lang":"swe"}
+{"seq":781,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3927702,"end_ms":3930442,"text":"Jag vill, jag håller på att förlora mig själv här i huvudet.","lang":"swe"}
+{"seq":782,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3931382,"end_ms":3933382,"text":"Förlåt, det var loggen vi var på här.","lang":"swe"}
+{"seq":783,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3933782,"end_ms":3934802,"text":"Okej, okej bra.","lang":"swe"}
+{"seq":784,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3935742,"end_ms":3936802,"text":"Och här kan vi filtrera.","lang":"swe"}
+{"seq":785,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3938902,"end_ms":3941342,"text":"User.","lang":"swe"}
+{"seq":786,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3943692,"end_ms":3944242,"text":"Ja","lang":"swe"}
+{"seq":787,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3950242,"end_ms":3952122,"text":"förlåt Niklas, fortsätt. Export.","lang":"swe"}
+{"seq":788,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3952202,"end_ms":3992962,"text":"Ja, men jag tänker export och bara den här datan i rader. Alltså jag är tillbaka där. Men det, och det kanske det är så att man, att man ska kunna se det någonstans här. Men jag skulle kunna klara mig lika bra på, på det formatet att ta ut det i Excel. Om vi ser någonting när vi sitter och tittar på budgeten mot LE på en specifik rad och så undrar vi vad är det vi har budgeterat på den här raden? För det saknar jag med det gamla sättet. Då behövde vi gå in och liksom leta på varje department. Om datat kommer ut och vi kan bara såhär den mainkategori, mainraden, alla avdelningar.","lang":"swe"}
+{"seq":789,"speaker":"remote","speaker_label":"Speaker 2","start_ms":3993502,"end_ms":3996182,"text":"Alla rader som summerar ihop till den här.","lang":"swe"}
+{"seq":790,"speaker":"remote","speaker_label":"Speaker 5","start_ms":3996462,"end_ms":4002702,"text":"Ja, för då ser du minsta, minsta detaljerade budgetraden där det är. Då kan du också såhär sortera","lang":"swe"}
+{"seq":791,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4004482,"end_ms":4022822,"text":"störst till minst för att se liksom vart är det mer partnern ligger på den här raden? Vart är det budgeterat? Ja, men det är den här department. Nu kanske det borde också gå att göra här, men då blir det mer av, alltså, ja, ska man ha någon stor sammanställnings...","lang":"swe"}
+{"seq":792,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4023830,"end_ms":4027670,"text":"Typ ett worksheet eller någonting här där man kan filtrera.","lang":"swe"}
+{"seq":793,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4027690,"end_ms":4032689,"text":"Ja, för oss. Så att vi kan få en överblick och inte behöva gå in på varje enskild department.","lang":"swe"}
+{"seq":794,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4032710,"end_ms":4045890,"text":"Ja, det håller jag med om. Men det vi egentligen säger då att vi skulle även under, alltså när allt ligger i draft, så skulle vi vilja ha en totalsammanställning här redan i appen och se hur ser totalen-","lang":"swe"}
+{"seq":795,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4046290,"end_ms":4046700,"text":"Drill down.","lang":"swe"}
+{"seq":796,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4046700,"end_ms":4066130,"text":"Drill down total. Hur ser totalen ut nu? Allt, tutti liksom. Alla fyra sektioner och ända ner på liksom radnivå för respektive avdelning. Så att man ska kunna liksom titta på övergripande sektion för sektion, men kunna liksom köra drill down ända ner på radnivå.","lang":"swe"}
+{"seq":797,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4067450,"end_ms":4071530,"text":"Ja, kan man få in det här, då behöver man inte ha det i Excel-rapport.","lang":"swe"}
+{"seq":798,"speaker":"remote","speaker_label":"Speaker 7","start_ms":4071590,"end_ms":4073370,"text":"Nej. Precis.","lang":"swe"}
+{"seq":799,"speaker":"remote","speaker_label":"Speaker 7","start_ms":4075670,"end_ms":4079109,"text":"Det beror på hur mycket styrka och power det kan finnas här i liksom.","lang":"swe"}
+{"seq":800,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4079190,"end_ms":4085510,"text":"Men i den strukturen, i liksom i P&L main-strukturen eller hur ska den visas? Ska den visas så?","lang":"swe"}
+{"seq":801,"speaker":"remote","speaker_label":"Speaker 7","start_ms":4086510,"end_ms":4087460,"text":"Ibland kan det vara så.","lang":"swe"}
+{"seq":802,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4087570,"end_ms":4088789,"text":"Main-bryggan.","lang":"swe"}
+{"seq":803,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4088890,"end_ms":4089550,"text":"Varför?","lang":"swe"}
+{"seq":804,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4091110,"end_ms":4113609,"text":"Varför budgeterar vi femtio procent högre här? Ja, och sen är det kanske en ganska tung post som involverar ganska många avdelningar. Och då istället för, annars så måste vi klicka in på varje då. På BCA och kolla, har de lagt något där? Och sen på nästa. Alltså då skulle man ju vilja bara kunna se rakt upp och ner alla rader och alla månader. Vad är det som ligger?","lang":"swe"}
+{"seq":805,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4114569,"end_ms":4118710,"text":"Precis. Så det vill vi ha. En flik med totalerna, även liksom draft,","lang":"swe"}
+{"seq":806,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4120250,"end_ms":4121550,"text":"där vi ser liksom allt.","lang":"swe"}
+{"seq":807,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4123090,"end_ms":4126149,"text":"Under hela, som summerar det vi gör just nu.","lang":"swe"}
+{"seq":808,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4126430,"end_ms":4127149,"text":"Summerar live.","lang":"swe"}
+{"seq":809,"speaker":"remote","speaker_label":"Speaker 7","start_ms":4127370,"end_ms":4131390,"text":"Exakt. Så fort det ändras på en rad så ska liksom totalen uppdateras också.","lang":"swe"}
+{"seq":810,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4131649,"end_ms":4132220,"text":"Så är det.","lang":"swe"}
+{"seq":811,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4132370,"end_ms":4133950,"text":"Ja, så vill vi ha.","lang":"swe"}
+{"seq":812,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4135729,"end_ms":4136590,"text":"Oj, oj, oj.","lang":"swe"}
+{"seq":813,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4142350,"end_ms":4142630,"text":"Okej.","lang":"swe"}
+{"seq":814,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4144510,"end_ms":4145850,"text":"Är det något mer ni vill lägga till nu?","lang":"swe"}
+{"seq":815,"speaker":"remote","speaker_label":"Speaker 7","start_ms":4148149,"end_ms":4150710,"text":"Nej, vi kanske får ta det vid nästa.","lang":"swe"}
+{"seq":816,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4151290,"end_ms":4157109,"text":"Alltså allt det jag pratar om nu, om man bara får till det hyfsat, då känns det som att då kan de ju börja-","lang":"swe"}
+{"seq":817,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4157850,"end_ms":4158149,"text":"Jobba.","lang":"swe"}
+{"seq":818,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4158569,"end_ms":4175670,"text":"Lägga in övriga kostnader. Ja, alltså nu säger jag inte att vi ska börja nu nu, men det känns som att det är inte, alltså det är inga jättestora ändringar vi pratade om på, när vi var inne på varje avdelnings budget. Och sen känns det som den där du var på rapport,","lang":"swe"}
+{"seq":819,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4177490,"end_ms":4180290,"text":"total P&L, ja, reports.","lang":"swe"}
+{"seq":820,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4181950,"end_ms":4184050,"text":"Det känns ju som att där är det ju mycket kvar.","lang":"swe"}
+{"seq":821,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4184649,"end_ms":4188990,"text":"Mm, här vill man ju, exakt, här vill vi ju ha kunna, liksom precis det vi nyss sa.","lang":"swe"}
+{"seq":822,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4190710,"end_ms":4191569,"text":"Live-uppdatering.","lang":"swe"}
+{"seq":823,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4191580,"end_ms":4195970,"text":"Eller vad är den där då? By cost center. Är det en drill down-funktion på det? Nej.","lang":"swe"}
+{"seq":824,"speaker":"remote","speaker_label":"Speaker 7","start_ms":4196520,"end_ms":4197760,"text":"Ska du klicka?","lang":"swe"}
+{"seq":825,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4197760,"end_ms":4198330,"text":"Klicka och se.","lang":"swe"}
+{"seq":826,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4198390,"end_ms":4201390,"text":"Då kommer jag till BCA. Klickar jag här, då kommer jag till BCAs...","lang":"swe"}
+{"seq":827,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4202330,"end_ms":4204370,"text":"Men man skulle vilja ha total P&L.","lang":"swe"}
+{"seq":828,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4204870,"end_ms":4206090,"text":"En sammanställning.","lang":"swe"}
+{"seq":829,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4206110,"end_ms":4207110,"text":"Main-kategorin.","lang":"swe"}
+{"seq":830,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4207350,"end_ms":4209030,"text":"En levande sammanställning.","lang":"swe"}
+{"seq":831,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4209150,"end_ms":4224990,"text":"Sen vet jag inte vilken nivå. Om du öppnar upp en rad, vill du först se per department där då? Eller vill du se? Ja, det kanske du vill. Och sen trycker man i nästa steg, då ser man alla konton. Och alla descriptions som de har lagt.","lang":"swe"}
+{"seq":832,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4225190,"end_ms":4225670,"text":"Exakt.","lang":"swe"}
+{"seq":833,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4229210,"end_ms":4234030,"text":"Men här var en liten rolig flik. Nu har vi liksom inte ens hunnit hit.","lang":"swe"}
+{"seq":834,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4234730,"end_ms":4235320,"text":"Settings.","lang":"swe"}
+{"seq":835,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4235400,"end_ms":4236670,"text":"Settings, den känns ju intressant.","lang":"swe"}
+{"seq":836,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4239410,"end_ms":4246690,"text":"Fiscal year är väl egentligen, här kan vi välja. Kolla! Kommer senare.","lang":"swe"}
+{"seq":837,"speaker":"remote","speaker_label":"Speaker 7","start_ms":4249530,"end_ms":4253690,"text":"Här borde man kunna ställa in då vilket order den ska öppna upp jämt som standard.","lang":"swe"}
+{"seq":838,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4255770,"end_ms":4261050,"text":"Ja, jag har satt i nummer tjugoåtta här. Global adjustment. Okej.","lang":"swe"}
+{"seq":839,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4261610,"end_ms":4263390,"text":"Oj, det här hinner vi inte på fem minuter.","lang":"swe"}
+{"seq":840,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4264130,"end_ms":4266180,"text":"Vi ska inte create en new fiscal year.","lang":"swe"}
+{"seq":841,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4266190,"end_ms":4267310,"text":"Nej, det ska vi inte.","lang":"swe"}
+{"seq":842,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4267390,"end_ms":4271660,"text":"Men det är nästa år det. Så att jag förstår ju vad du menar.","lang":"swe"}
+{"seq":843,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4272330,"end_ms":4272790,"text":"Exakt.","lang":"swe"}
+{"seq":844,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4276890,"end_ms":4277810,"text":"EL accounts.","lang":"swe"}
+{"seq":845,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4279830,"end_ms":4284670,"text":"Data quality. Vad är det då? Vad spännande! Det här har jag inte ens tittat på. Har aldrig kommit hit.","lang":"swe"}
+{"seq":846,"speaker":"remote","speaker_label":"Speaker 7","start_ms":4284770,"end_ms":4285520,"text":"Jättebra, vi bokar in det.","lang":"swe"}
+{"seq":847,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4285530,"end_ms":4290710,"text":"Men när den säger main här, undrar jag vad den menar. När vi säger main, förstår den att det-","lang":"swe"}
+{"seq":848,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4290790,"end_ms":4294329,"text":"Ja, men det är för att jag har ju gett den en brygga som heter Main capital-bryggan.","lang":"swe"}
+{"seq":849,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4294350,"end_ms":4298230,"text":"Ja, men när jag skriver main så är det som att medan jag använder ordet main.","lang":"swe"}
+{"seq":850,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4299070,"end_ms":4300080,"text":"Main categories.","lang":"swe"}
+{"seq":851,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4300630,"end_ms":4302400,"text":"Jag tänker om det. Jag bara funderar om det.","lang":"swe"}
+{"seq":852,"speaker":"remote","speaker_label":"Speaker 2","start_ms":4302450,"end_ms":4305889,"text":"Ja, men det är för att jag har kallat bryggan för det tror jag. Main categories.","lang":"swe"}
+{"seq":853,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4307250,"end_ms":4308630,"text":"Ja, men då är det stort M.","lang":"swe"}
+{"seq":854,"speaker":"remote","speaker_label":"Speaker 7","start_ms":4311630,"end_ms":4313410,"text":"Jag tänkte jag måste avvika.","lang":"swe"}
+{"seq":855,"speaker":"remote","speaker_label":"Speaker 5","start_ms":4313890,"end_ms":4320390,"text":"Ja, jag ska börja åka också då. Om vi bara stannar här nu då? Super.","lang":"swe"}
