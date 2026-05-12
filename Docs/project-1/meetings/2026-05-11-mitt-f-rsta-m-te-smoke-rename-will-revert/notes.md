@@ -1,1 +1,0 @@
-<h2>Åtgärder</h2><p><br></p><h2>Beslut</h2><p><br></p><h2>Öppna frågor</h2><p><br></p><h2>Viktiga diskussionspunkter</h2><p><br></p><p><br></p><p>Vi behöver jobba tillsammans med RK för att förstå nästa del i projektet. &nbsp;Dan tar lead på det.</p><p><br></p><p>Mikael kommer också Prata med RK.</p>

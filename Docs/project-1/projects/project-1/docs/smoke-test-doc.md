@@ -1,3 +1,3 @@
-_From Claude Code smoke test, 2026-05-12_
+# Smoke Test Doc
 
-First appended block — testing append_to_doc.
+Body replaced via set_doc_body. The previous append block is now gone.
