@@ -29,3 +29,407 @@
 {"seq":42,"speaker":"me","speaker_label":"You","start_ms":31496,"end_ms":32096,"text":"[talare 1 skrattar]","lang":"swe"}
 {"seq":43,"speaker":"me","speaker_label":"You","start_ms":32096,"end_ms":32696,"text":"Ja, det är molt bra","lang":"swe"}
 {"seq":44,"speaker":"me","speaker_label":"You","start_ms":32696,"end_ms":33296,"text":"[outro jingle]","lang":"swe"}
+{"seq":47,"speaker":"remote","speaker_label":"Speaker 1","start_ms":33296,"end_ms":45648,"text":"Ja, det var väl liksom okej, men vad fokuserar vi på i så fall? Ska vi bygga om den här kostury-grejen som är bra för dem rent logistiskt och tidsmässigt, men som inte liksom på något sätt ser utåt någonting?","lang":"swe"}
+{"seq":48,"speaker":"remote","speaker_label":"Speaker 2","start_ms":45648,"end_ms":52968,"text":"Ingenting som styrelsen kommer att reagera på. Men hans huvudsakliga jobb är ju liksom att försöka driva Steris och att jobba på de här","lang":"swe"}
+{"seq":50,"speaker":"remote","speaker_label":"Speaker 1","start_ms":52968,"end_ms":60224,"text":"Destinationssidorna hjälpa säljarna att fylla upp bättre material. Det är väl där han ser liksom där kan skapa störst värde på kortast tid. Så","lang":"swe"}
+{"seq":51,"speaker":"remote","speaker_label":"Speaker 1","start_ms":60224,"end_ms":69304,"text":"Vårt förslag är väl, som vi ska prata mer i detalj om, är väl som börjar med den delen och se om vi kanske kan få ut någonting för halva den tiden","lang":"swe"}
+{"seq":53,"speaker":"me","speaker_label":"You","start_ms":34656,"end_ms":36056,"text":"Mm, mm.","lang":"swe"}
+{"seq":55,"speaker":"remote","speaker_label":"Speaker 1","start_ms":70568,"end_ms":75296,"text":"Och sen skjuta på vissa saker som RK Tur får liksom leva en säsong till till exempel","lang":"swe"}
+{"seq":56,"speaker":"me","speaker_label":"You","start_ms":36056,"end_ms":44976,"text":"Jag tror att hans ängslighet liksom är befogad, eh, givet vad man känner för vibb och [skratt] tankar från styrelsen","lang":"swe"}
+{"seq":57,"speaker":"me","speaker_label":"You","start_ms":44976,"end_ms":55464,"text":"För de, de vet ju att Travelize exekuterar och sitter på liksom last mile deliveryn ut till deras kunder. Alltså gå och bygga hemsidor, göra SEO, sälja deras resor","lang":"swe"}
+{"seq":58,"speaker":"me","speaker_label":"You","start_ms":55464,"end_ms":62304,"text":"Eh, paketera resorna. Allting sånt det sitter ju liksom de redan på i-idag och RK gör inte","lang":"swe"}
+{"seq":59,"speaker":"me","speaker_label":"You","start_ms":62304,"end_ms":67832,"text":"Eh, så hur viktig är hemsidan och, och hur viktig är deras marknadsinsatser?","lang":"swe"}
+{"seq":60,"speaker":"me","speaker_label":"You","start_ms":67832,"end_ms":79536,"text":"När, när man, man väger alla grejer de har framför sig för överlevnad. Eh, det, det är inte säkert att det kommer få så mycket gehör och jag tror att inte Daniel lyssnar så bra till","lang":"swe"}
+{"seq":62,"speaker":"me","speaker_label":"You","start_ms":79536,"end_ms":87240,"text":"Eh, överlag, ehm, som person, eh, för organisationen för att han är där, alltså","lang":"swe"}
+{"seq":63,"speaker":"remote","speaker_label":"Speaker 3","start_ms":75928,"end_ms":80144,"text":"Han är ju, det var typ en tre månader någonting sånt. Han är ju helt ny.","lang":"swe"}
+{"seq":64,"speaker":"me","speaker_label":"You","start_ms":87240,"end_ms":92224,"text":"Ja, men samtidigt så är han ju tyvärr, eh, ganska","lang":"swe"}
+{"seq":66,"speaker":"me","speaker_label":"You","start_ms":92224,"end_ms":106648,"text":"Tafatt. Alltså det händer inte så mycket där. Eh, vi har ändå erbjudit att sätta både AI-verktyg i händerna på honom och börja med liksom massor av olika incentives som inte hade kostat någonting i stort sett, utan som är bara små lågt hängande frukt","lang":"swe"}
+{"seq":67,"speaker":"me","speaker_label":"You","start_ms":106648,"end_ms":110384,"text":"Det kan ta två veckor bara till möte. Så det är inte så att","lang":"swe"}
+{"seq":68,"speaker":"me","speaker_label":"You","start_ms":110384,"end_ms":129160,"text":"Eh, tempot har varit enormt högt för en person som på pappret inte har de facto, eh, någon konkret ansvarsbild. Han har blivit mer en glorifierad IT, eh, liksom bollplank för Emil. Det är ju inte riktigt vad en marknadschef borde hålla på med kanske i vanliga","lang":"swe"}
+{"seq":69,"speaker":"remote","speaker_label":"Speaker 4","start_ms":80744,"end_ms":85728,"text":"Nej, och han pushar ju vårat möte en vecka framåt igen nu för att han skulle börja göra någonting","lang":"swe"}
+{"seq":70,"speaker":"me","speaker_label":"You","start_ms":129160,"end_ms":132864,"text":"Får jag ställa en liten fråga? Vad använder de deras webb","lang":"swe"}
+{"seq":72,"speaker":"remote","speaker_label":"Speaker 5","start_ms":85728,"end_ms":93112,"text":"Framför allt så är det de här, ska man säga, arrangörerna som är inne där och tittar på vilka typer av resor det finns","lang":"swe"}
+{"seq":73,"speaker":"me","speaker_label":"You","start_ms":133464,"end_ms":134224,"text":"[musik]","lang":"swe"}
+{"seq":75,"speaker":"remote","speaker_label":"Speaker 1","start_ms":93112,"end_ms":102736,"text":"Och där och oledde den där och liksom över tanken ska bli lite inspirerad där och sen tar de liksom kontakt genom ett litet formulär och säger att den här vill jag veta mer om","lang":"swe"}
+{"seq":76,"speaker":"remote","speaker_label":"Speaker 1","start_ms":102736,"end_ms":103528,"text":"Ja","lang":"swe"}
+{"seq":77,"speaker":"me","speaker_label":"You","start_ms":134856,"end_ms":136064,"text":"Ja","lang":"swe"}
+{"seq":78,"speaker":"remote","speaker_label":"Speaker 1","start_ms":103528,"end_ms":118208,"text":"Och den är ju väldigt, väldigt gammal och dålig och det finns så mycket enkla wins att göra här liksom att göra den mer säljbar, göra såhär små saker som man faktiskt. Nu har jag faktiskt gjort det själv att man kan ladda ner liksom ett program för hur mycket gamla de vill ha en sån fysisk variant också.","lang":"swe"}
+{"seq":80,"speaker":"remote","speaker_label":"Speaker 1","start_ms":118208,"end_ms":131256,"text":"Och vad det innebär. Men även alltså sök och liksom filtrering. Det finns inga liksom temasidor, det finns ingenting. Det är inget sätt, det är inte paketerat på något sätt så man kan driva trafik och liksom sälja med den. Den känns väldigt basic så.","lang":"swe"}
+{"seq":81,"speaker":"me","speaker_label":"You","start_ms":136664,"end_ms":137456,"text":"[musik]","lang":"swe"}
+{"seq":82,"speaker":"remote","speaker_label":"Speaker 1","start_ms":131256,"end_ms":135952,"text":"Just det, firandet var på templet och det är inte alls i närheten av någon zonamål.","lang":"swe"}
+{"seq":83,"speaker":"remote","speaker_label":"Speaker 6","start_ms":135952,"end_ms":136808,"text":"Hej med dig!","lang":"swe"}
+{"seq":84,"speaker":"me","speaker_label":"You","start_ms":137456,"end_ms":168872,"text":"Ja, de, de har i GoTo 35 000 resor. Eh, och, eh, om man tar deras 200 kunder och liksom försöker average:a ut ungefär hur många resor har de per år. Så, eh, majoriteten av dem ligger liksom mellan, eh, 30 och 40 resor. Och sen så är det några enstaka rackare, eh, tiotal som är uppe på liksom 3-400 resor per år. Men jag tror de har 2 100 resor för 2026, 2027, eh, tillsammans. Alltså 1 100 resor ungefär per år","lang":"swe"}
+{"seq":87,"speaker":"remote","speaker_label":"Speaker 6","start_ms":136808,"end_ms":137568,"text":"Mm","lang":"swe"}
+{"seq":88,"speaker":"remote","speaker_label":"Speaker 6","start_ms":137568,"end_ms":138168,"text":"[klickljud]","lang":"swe"}
+{"seq":89,"speaker":"remote","speaker_label":"Speaker 7","start_ms":138168,"end_ms":142064,"text":"Sen finns det den tanken för han ser att han vill jobba närmare olika","lang":"swe"}
+{"seq":91,"speaker":"remote","speaker_label":"Speaker 1","start_ms":142064,"end_ms":151240,"text":"Turistorganisationer och sådär. För tydligen så får han såhär sexsiffriga belopp utan att säga hur mycket från till exempel Visit Poland och liknande","lang":"swe"}
+{"seq":92,"speaker":"remote","speaker_label":"Speaker 1","start_ms":151240,"end_ms":160128,"text":"Men då måste jag kunna bevisa att de faktiskt genererar trafik dit, att de ser till att resenärer går dit och ser hur många som åker och så, så att han har några siffror på det.","lang":"swe"}
+{"seq":93,"speaker":"remote","speaker_label":"Speaker 1","start_ms":160128,"end_ms":170040,"text":"Så det är väl hans plan också att han vill kunna liksom paketera saker och ting bättre så han kan rikta sig mer mot, jag tror han har typ Riga också någon mer, men att det finns ju fler ställen i Europa som han har kunnat","lang":"swe"}
+{"seq":94,"speaker":"remote","speaker_label":"Speaker 1","start_ms":170040,"end_ms":173040,"text":"Och ganska mycket pengar om man gör på det sättet","lang":"swe"}
+{"seq":95,"speaker":"me","speaker_label":"You","start_ms":170864,"end_ms":173000,"text":"Och det gör de inte i dag, eller?","lang":"swe"}
+{"seq":96,"speaker":"remote","speaker_label":"Speaker 1","start_ms":173040,"end_ms":179304,"text":"Det är inte med alla och han har liksom några som han samarbetar med och det är ändå ganska mycket pengar för att bara","lang":"swe"}
+{"seq":97,"speaker":"remote","speaker_label":"Speaker 1","start_ms":179304,"end_ms":186240,"text":"Ja, så att han vill liksom lyfta dem mer och även kunna liksom visa på siffrorna med det där att här vi gör faktiskt, ni får någonting för pengarna.","lang":"swe"}
+{"seq":98,"speaker":"me","speaker_label":"You","start_ms":173000,"end_ms":174336,"text":"Mm, mm","lang":"swe"}
+{"seq":99,"speaker":"me","speaker_label":"You","start_ms":174336,"end_ms":197944,"text":"Eh, jag har också, eh, suttit, eh, extra där då med Göran i, i torsdags en, en timme extra. Eh, och det visade sig att de hade ju fler resebolag också i portföljen. De äger Åklas Sportresor. Eh, de har några andra som jag inte kommer ihåg nu då. Något sydafrikanskt bolag som också säljer resor i Sydamerika","lang":"swe"}
+{"seq":100,"speaker":"me","speaker_label":"You","start_ms":197944,"end_ms":202320,"text":"Eh, och de tittar på att förvärva två stycken resebolag","lang":"swe"}
+{"seq":101,"speaker":"me","speaker_label":"You","start_ms":202320,"end_ms":211720,"text":"Eh, så en av dialogerna vi hade var liksom att ja men okej, om ni nu har en massa resekontakter och andra bolag som bedriver reseproduktion","lang":"swe"}
+{"seq":102,"speaker":"me","speaker_label":"You","start_ms":211720,"end_ms":218112,"text":"Varför har vi inte kollat på vad de gör då i sina digitaliseringsspår? Liksom hur många använder GoTo av dem?","lang":"swe"}
+{"seq":103,"speaker":"me","speaker_label":"You","start_ms":218112,"end_ms":227032,"text":"Ja troligtvis inte en enda [skratt] alls liksom. Eh, och, och vad har de gjort för någonting för att automatisera sina reseproduktioner och, och liksom så där","lang":"swe"}
+{"seq":104,"speaker":"me","speaker_label":"You","start_ms":227032,"end_ms":251792,"text":"Ehm, så, så en grej vi kommer göra kommande vecka paralle-- eh, veckor parallellt med vårt vanliga arbete, liksom med hemsidor och portal, är att vi kommer få förhoppningsvis access då till de här andra bolagen och få titta lite grann på deras verktygslåda, liksom vad de använder för någonting. Hur har de valt att göra och varför? Hur många är de för att bedriva liksom, eh, se-- alltså resem produktionen?","lang":"swe"}
+{"seq":105,"speaker":"remote","speaker_label":"Speaker 1","start_ms":186240,"end_ms":186840,"text":"[outro jingle]","lang":"swe"}
+{"seq":106,"speaker":"me","speaker_label":"You","start_ms":251792,"end_ms":263880,"text":"Eh, så vi kommer att äga rum ett möte på måndag, eh, för att få lite mer insyn. Men där har ju vi, har ju vi då stängt ute egentligen Emil och Daniel. De är inte med i det här forumet alls","lang":"swe"}
+{"seq":107,"speaker":"me","speaker_label":"You","start_ms":263880,"end_ms":273024,"text":"Eh, det var lite av en gamble liksom att jag sa att jag tycker helt enkelt att vi exkluderar de eh, som är beställare ganska enskilt för RK","lang":"swe"}
+{"seq":108,"speaker":"me","speaker_label":"You","start_ms":273024,"end_ms":279960,"text":"Och lyfter blicken och pratar med, med dem som sitter på hela pusselbitarna eller liksom hela kartan","lang":"swe"}
+{"seq":109,"speaker":"me","speaker_label":"You","start_ms":279960,"end_ms":283856,"text":"Eh, så det kommer jag gå och gå av stapeln på måndag morgon någon gång","lang":"swe"}
+{"seq":110,"speaker":"me","speaker_label":"You","start_ms":283856,"end_ms":284968,"text":"Eh","lang":"swe"}
+{"seq":111,"speaker":"me","speaker_label":"You","start_ms":284968,"end_ms":294304,"text":"Sen tittade jag också lite grann på deras go-to-situation, för den är en enorm blocker för jättemycket saker. Även när de artigen kommer in nu","lang":"swe"}
+{"seq":112,"speaker":"me","speaker_label":"You","start_ms":294304,"end_ms":305560,"text":"Eh, så blir det liksom såhär. Ska de integrera till det här systemet så måste de beställa saker av Cheng. Det kommer kosta, eh, 150.000, eh, till för att få de grejerna gjorda","lang":"swe"}
+{"seq":113,"speaker":"me","speaker_label":"You","start_ms":305560,"end_ms":315120,"text":"Eh, och egentligen kanske de bara borde implementera ett resespecifikt CRM, eh, för trehundratusen och be done with och migrera sin data från GoTo","lang":"swe"}
+{"seq":114,"speaker":"me","speaker_label":"You","start_ms":315120,"end_ms":322344,"text":"Det kanske inte ens är en fråga om att bygga någonting längre. Eh, för det, det är ganska mycket idiotiska pengar som","lang":"swe"}
+{"seq":115,"speaker":"me","speaker_label":"You","start_ms":322344,"end_ms":325696,"text":"Skipplas in i go to utan det motiveras","lang":"swe"}
+{"seq":116,"speaker":"me","speaker_label":"You","start_ms":325696,"end_ms":341496,"text":"Alla integrationer de ska bygga i custom. Alla-- Och så visar sig att det finns liksom färdiga grejer i Microsoft-miljön som redan löser resproduktion. Vilket, ja, eh, man kan fråga sig varför de överhuvudtaget investerat 15 mille i GoTo","lang":"swe"}
+{"seq":117,"speaker":"remote","speaker_label":"Speaker 1","start_ms":186840,"end_ms":187440,"text":"[musik]","lang":"swe"}
+{"seq":118,"speaker":"me","speaker_label":"You","start_ms":341496,"end_ms":344432,"text":"Ehm, det är bit av en","lang":"swe"}
+{"seq":119,"speaker":"me","speaker_label":"You","start_ms":344432,"end_ms":345352,"text":"Jo","lang":"swe"}
+{"seq":121,"speaker":"me","speaker_label":"You","start_ms":345984,"end_ms":349560,"text":"Ja, Mikael, du har ju varit med och pratat med dem från början där, Nila och","lang":"swe"}
+{"seq":125,"speaker":"remote","speaker_label":"Speaker 8","start_ms":188040,"end_ms":195680,"text":"Men stämmer den bilden, Dan? Alltså jag tycker ju ändå GoTo's allotment lösning och","lang":"swe"}
+{"seq":126,"speaker":"remote","speaker_label":"Speaker 8","start_ms":195680,"end_ms":200664,"text":"Rationshantering av, eh, reseofferter och så vidare","lang":"swe"}
+{"seq":128,"speaker":"remote","speaker_label":"Speaker 8","start_ms":200664,"end_ms":202480,"text":"Det känns som en","lang":"swe"}
+{"seq":129,"speaker":"remote","speaker_label":"Speaker 6","start_ms":202480,"end_ms":203752,"text":"Jag ska se om jag","lang":"swe"}
+{"seq":130,"speaker":"me","speaker_label":"You","start_ms":351424,"end_ms":353080,"text":"Det har ett uppdrag att","lang":"swe"}
+{"seq":131,"speaker":"remote","speaker_label":"Speaker 9","start_ms":203752,"end_ms":204800,"text":"Vad sa du?","lang":"swe"}
+{"seq":132,"speaker":"remote","speaker_label":"Speaker 9","start_ms":204800,"end_ms":205400,"text":"[skratt]","lang":"swe"}
+{"seq":134,"speaker":"remote","speaker_label":"Speaker 9","start_ms":206000,"end_ms":206728,"text":"[bakgrundsröster]","lang":"swe"}
+{"seq":135,"speaker":"remote","speaker_label":"Speaker 9","start_ms":206728,"end_ms":207456,"text":"Ja","lang":"swe"}
+{"seq":136,"speaker":"remote","speaker_label":"Speaker 9","start_ms":207456,"end_ms":208056,"text":"[mumlar]","lang":"swe"}
+{"seq":137,"speaker":"remote","speaker_label":"Speaker 9","start_ms":208056,"end_ms":208816,"text":"[bakgrundsröster]","lang":"swe"}
+{"seq":138,"speaker":"remote","speaker_label":"Speaker 9","start_ms":208816,"end_ms":209416,"text":"[skratt]","lang":"swe"}
+{"seq":139,"speaker":"me","speaker_label":"You","start_ms":353080,"end_ms":390320,"text":"Det har ett uppblåst värde för versionshantering av resor. Ja, i ett vanligt offertsystem eller när du bygger resor i andra lösningar så är det klart som fan att du kan få offert ett, två, tre, fyra, fem, sex, sju, åtta, nio, tio av samma post. Det är ju standard CRM-operation. Det är inte unikt på något vis. Så, eh, det värdet skulle jag säga är jäkligt lågt. Sen har ju de då alla sina integrationer. De har ju dem byggt custom medans det finns liksom färdiga som redan har allting till Amadeus, eh, alla andra såna här resklienter, bus operations, liksom hela världens liksom kontaktnät har ju inte GoTo.","lang":"swe"}
+{"seq":140,"speaker":"remote","speaker_label":"Speaker 9","start_ms":209416,"end_ms":210144,"text":"[skratt]","lang":"swe"}
+{"seq":141,"speaker":"me","speaker_label":"You","start_ms":390320,"end_ms":404808,"text":"Men det, det finns ett tiotal CRM som redan har bara plug and play. Hej, eh, jag vill ha en AI-agent här som kan prata med min datakälla och dessutom vill jag kunna komma åt Amadeus från den här AI-chatten. Okej, redan paketerat","lang":"swe"}
+{"seq":142,"speaker":"remote","speaker_label":"Speaker 6","start_ms":210144,"end_ms":211640,"text":"[ohörbart]","lang":"swe"}
+{"seq":144,"speaker":"remote","speaker_label":"Speaker 8","start_ms":211640,"end_ms":217296,"text":"Ja, jag chattar lite här med vår förstudie i bakgrunden också","lang":"swe"}
+{"seq":146,"speaker":"remote","speaker_label":"Speaker 8","start_ms":217296,"end_ms":219976,"text":"Krassidentifierade viv","lang":"swe"}
+{"seq":147,"speaker":"remote","speaker_label":"Speaker 8","start_ms":219976,"end_ms":224736,"text":"Liksom utmaningen med RKS erbjudande som en mellanhand av","lang":"swe"}
+{"seq":148,"speaker":"remote","speaker_label":"Speaker 8","start_ms":224736,"end_ms":228504,"text":"Det är ju vertikal integrationen som kommer liksom vinna i längden","lang":"swe"}
+{"seq":149,"speaker":"me","speaker_label":"You","start_ms":406040,"end_ms":406864,"text":"Mm.","lang":"swe"}
+{"seq":151,"speaker":"remote","speaker_label":"Speaker 10","start_ms":229104,"end_ms":230344,"text":"Svårt","lang":"swe"}
+{"seq":153,"speaker":"remote","speaker_label":"Speaker 8","start_ms":230344,"end_ms":240160,"text":"Frågan är om man nu liksom är på ett ärligt sätt eh, i mandat av att Göran är intresserad liksom gå hårdare på den linjen då?","lang":"swe"}
+{"seq":154,"speaker":"me","speaker_label":"You","start_ms":407464,"end_ms":408992,"text":"Ja alltså","lang":"swe"}
+{"seq":156,"speaker":"me","speaker_label":"You","start_ms":408992,"end_ms":418424,"text":"Om man ser till vertikal integration där som RK har som största utmaning är att de kontrollerar inte det viktigaste i hela ekvationen och det är försäljningen av resorna","lang":"swe"}
+{"seq":159,"speaker":"me","speaker_label":"You","start_ms":418424,"end_ms":430032,"text":"Alltså du lämnar över en producerad resa och kan inte peka på chauffören och säga: \"Kör den, sälj den\", eh, liksom, \"led resan perfekt\". Du, ja XP, du, du kan inte göra det","lang":"swe"}
+{"seq":160,"speaker":"remote","speaker_label":"Speaker 8","start_ms":241960,"end_ms":242624,"text":"Nej","lang":"swe"}
+{"seq":161,"speaker":"me","speaker_label":"You","start_ms":430032,"end_ms":430824,"text":"[bakgrundsröster]","lang":"swe"}
+{"seq":163,"speaker":"remote","speaker_label":"Speaker 8","start_ms":242624,"end_ms":243416,"text":"Ja","lang":"swe"}
+{"seq":165,"speaker":"me","speaker_label":"You","start_ms":431424,"end_ms":445464,"text":"Nej, nej. Alltså såhär, vi kan bli hur vertikala som helst, men då måste de äga, eh, leverantörer. I sådana fall så måste de bli bussbolag liksom, eller bli flygbolag eller bli, eh, då behöver de ju göra en Rolls Royce flygbolag","lang":"swe"}
+{"seq":167,"speaker":"remote","speaker_label":"Speaker 8","start_ms":244016,"end_ms":249768,"text":"Ja, när, när liksom är det nu de är mogna för den, den, det samtalet?","lang":"swe"}
+{"seq":168,"speaker":"remote","speaker_label":"Speaker 11","start_ms":249768,"end_ms":252064,"text":"Alltså någonstans behöver vi ju","lang":"swe"}
+{"seq":169,"speaker":"remote","speaker_label":"Speaker 12","start_ms":252064,"end_ms":255128,"text":"Vi behöver ju tro på deras eh","lang":"swe"}
+{"seq":171,"speaker":"me","speaker_label":"You","start_ms":446696,"end_ms":447744,"text":"Det blev bra","lang":"swe"}
+{"seq":172,"speaker":"remote","speaker_label":"Speaker 8","start_ms":255128,"end_ms":259824,"text":"Ja, förehavande liksom. Varför finns de? Vad är tjänsten?","lang":"swe"}
+{"seq":173,"speaker":"me","speaker_label":"You","start_ms":447744,"end_ms":452952,"text":"Vi behöver också kunna leva upp till en komma tre miljoner tillvärt av FTI-timmar som de har köpt","lang":"swe"}
+{"seq":175,"speaker":"remote","speaker_label":"Speaker 8","start_ms":259824,"end_ms":262440,"text":"Jo men jag menar ju på att liksom","lang":"swe"}
+{"seq":176,"speaker":"remote","speaker_label":"Speaker 8","start_ms":262440,"end_ms":264096,"text":"Om vi agerar","lang":"swe"}
+{"seq":177,"speaker":"remote","speaker_label":"Speaker 8","start_ms":264096,"end_ms":270968,"text":"Ja, agerar vi under en vd som vill lappa och laga i en bristande affärsmodell","lang":"swe"}
+{"seq":178,"speaker":"remote","speaker_label":"Speaker 8","start_ms":270968,"end_ms":273680,"text":"Då får vi kritik av styrelsen sen","lang":"swe"}
+{"seq":179,"speaker":"remote","speaker_label":"Speaker 13","start_ms":273680,"end_ms":274760,"text":"Ja","lang":"swe"}
+{"seq":180,"speaker":"remote","speaker_label":"Speaker 8","start_ms":274760,"end_ms":281440,"text":"Så att om, om Göran och dem är öppna för att vi öppet kritiserar Herkots verksamhet nu så kanske vi ska göra det","lang":"swe"}
+{"seq":183,"speaker":"me","speaker_label":"You","start_ms":453552,"end_ms":461544,"text":"Han, han sa ju uttryckligen det där: Vi måste höra ert perspektiv igen. Vi, vi måste ta ett annat, eh, annat tag om det här","lang":"swe"}
+{"seq":186,"speaker":"remote","speaker_label":"Speaker 8","start_ms":282704,"end_ms":293832,"text":"Då, då kan man ju se det lite som att de vill ha vår, vår insatsidé kan ju vara att vi, vi scoutar liksom digitaliseringsmöjligheter och liksom","lang":"swe"}
+{"seq":187,"speaker":"remote","speaker_label":"Speaker 8","start_ms":293832,"end_ms":300288,"text":"Pain points och allt det här nu och presenterar på ett sätt som liksom","lang":"swe"}
+{"seq":188,"speaker":"remote","speaker_label":"Speaker 8","start_ms":300288,"end_ms":304696,"text":"Ja, vi lägger fram korten som en opartisk part på den här vänstern","lang":"swe"}
+{"seq":189,"speaker":"remote","speaker_label":"Speaker 6","start_ms":304696,"end_ms":305680,"text":"Ja","lang":"swe"}
+{"seq":190,"speaker":"remote","speaker_label":"Speaker 8","start_ms":305680,"end_ms":309352,"text":"Liksom såhär kan det faktiskt gå till för att leverera","lang":"swe"}
+{"seq":193,"speaker":"remote","speaker_label":"Speaker 1","start_ms":309352,"end_ms":322560,"text":"Jag trodde att du sa. Alltså jag vet inte vem av någon av er som sa det under dagen sa det, men att det fanns en plan att gå in och köpa upp turbusbolagen allt eftersom de läggs ner och sakta bygga upp sitt eget","lang":"swe"}
+{"seq":194,"speaker":"me","speaker_label":"You","start_ms":463976,"end_ms":470848,"text":"Ja, Daniel och Emil tycker ju det är intressant. Eh, men Göran är ju inställd liksom såhär","lang":"swe"}
+{"seq":195,"speaker":"me","speaker_label":"You","start_ms":470848,"end_ms":475256,"text":"Nej, eh, vi vill inte vara där, eh, liksom","lang":"swe"}
+{"seq":197,"speaker":"me","speaker_label":"You","start_ms":475256,"end_ms":477744,"text":"Det är ju jättesvårt med det där egentligen","lang":"swe"}
+{"seq":198,"speaker":"me","speaker_label":"You","start_ms":477744,"end_ms":479656,"text":"Du vet, man är ju, menar","lang":"swe"}
+{"seq":199,"speaker":"me","speaker_label":"You","start_ms":479656,"end_ms":480256,"text":"[musik]","lang":"swe"}
+{"seq":201,"speaker":"remote","speaker_label":"Speaker 1","start_ms":323160,"end_ms":323760,"text":"[host]","lang":"swe"}
+{"seq":202,"speaker":"me","speaker_label":"You","start_ms":480856,"end_ms":482768,"text":"Intresseningt faktum","lang":"swe"}
+{"seq":203,"speaker":"me","speaker_label":"You","start_ms":482768,"end_ms":498600,"text":"Men så, så Emil och Daniel, de tycker ju liksom vår förstudie pekar på det här med vertikalitet och det kommer vara många bussbolag som går i pension. Det finns ingen naturlig liksom ärvtagare som ska liksom in där och ta över","lang":"swe"}
+{"seq":204,"speaker":"me","speaker_label":"You","start_ms":498600,"end_ms":508480,"text":"Eh, och då kan det ju vara en jättebra grej att kanske köpa ett bussbolag som är liksom på väg att dö. Det är någon 67-åring som känner: Ja, men det är dags att ge upp","lang":"swe"}
+{"seq":205,"speaker":"me","speaker_label":"You","start_ms":508480,"end_ms":509688,"text":"Ehm","lang":"swe"}
+{"seq":206,"speaker":"me","speaker_label":"You","start_ms":509688,"end_ms":522608,"text":"Men, men det har ju fortfarande inte riktigt haft något gehör från styrelsen och givet vad Göran sa senast, liksom att de har flera andra resebolag och flera andra erbjudanden. Det kanske är så att LK:s erbjudande är passér","lang":"swe"}
+{"seq":208,"speaker":"me","speaker_label":"You","start_ms":522608,"end_ms":559048,"text":"Eh, men att delar av det de gör kan, och absorberas in i någonting som redan existerar också. Eh, eller att de tittar på att aggressivt förvärva någonting som lös-löst de här sista procenten av leverans. Till exempel Travelize och Artigan, eh, som nu då finns som aktörer. Men Travelize, det har de väl lite liksom konstaterat att det inte går. Och ska man tro Artiganägaren när vi satt där med honom så sa han blankt nej, eh, i, i mötet. Men det kanske är någonting som, om Elko skulle verkligen sätta press på att: \"Vet du vad? Vi kommer hjälpa dig att flytta över våra kunder, eh, till dig aktivt.\" Kanske de skulle kunna hitta någon deal. Men","lang":"swe"}
+{"seq":209,"speaker":"remote","speaker_label":"Speaker 6","start_ms":324360,"end_ms":325632,"text":"[skratt]","lang":"swe"}
+{"seq":210,"speaker":"me","speaker_label":"You","start_ms":559048,"end_ms":573280,"text":"Eh, ja, eh, jag tror du Mikael touchar på det jag också känner att vi, vi kommer nog behöva ändra approach och kanske gå lite mer, eh, brutal. Eh, vad ska man säga? Effektivisering, lyfta blicken","lang":"swe"}
+{"seq":211,"speaker":"remote","speaker_label":"Speaker 6","start_ms":325632,"end_ms":326232,"text":"[klick]","lang":"swe"}
+{"seq":212,"speaker":"me","speaker_label":"You","start_ms":573280,"end_ms":574552,"text":"Ja, läget","lang":"swe"}
+{"seq":213,"speaker":"remote","speaker_label":"Speaker 6","start_ms":326232,"end_ms":326992,"text":"Ja","lang":"swe"}
+{"seq":215,"speaker":"remote","speaker_label":"Speaker 14","start_ms":326992,"end_ms":329448,"text":"Kan jag bara dela det jag fick fram här då?","lang":"swe"}
+{"seq":216,"speaker":"me","speaker_label":"You","start_ms":575152,"end_ms":576008,"text":"Mm.","lang":"swe"}
+{"seq":219,"speaker":"remote","speaker_label":"Speaker 8","start_ms":329448,"end_ms":361024,"text":"Jag, jag primade såhär. Vi har gjort en förstudie för RK i inledningen av vårt samarbete. Då går den in och läser den och så säger jag såhär: \"Det har skett en förändring i styrelsen hos RK då man börjar ifrågasätta RK:s varande. Ser vi signaler på detta i förstudien? Är rollen av en grossist och mellanhand utspelad nu när man kan knyta samman säljandet av en resa direkt med leverantören av resans ingående artiklar, såsom boende, guider, flyg och busse?\" Och så svarar Claude: \"Ja, signalerna finns tydliga i förstudien om, om än mjukare formulerat än styrelsens nu uppenbara skarpare ifrågasättande.\"","lang":"swe"}
+{"seq":221,"speaker":"remote","speaker_label":"Speaker 8","start_ms":361024,"end_ms":365976,"text":"Här är var rapporten faktiskt diagnostiserade. Och så pratar vi om att","lang":"swe"}
+{"seq":223,"speaker":"remote","speaker_label":"Speaker 8","start_ms":365976,"end_ms":369904,"text":"Plattformarna kannibaliserar på direktavtalen, det vill säga","lang":"swe"}
+{"seq":224,"speaker":"remote","speaker_label":"Speaker 8","start_ms":369904,"end_ms":373800,"text":"Booking, hotels och de här. Eh, man kan köpa","lang":"swe"}
+{"seq":226,"speaker":"remote","speaker_label":"Speaker 8","start_ms":373800,"end_ms":387616,"text":"Boende direkt via dem och behöver inga mellanhänder. Eh, marginalfördelen är urholkad. Standardiserat utbud förlorar mest. Konkurrenter som vertikal integrerar krossar. Här drog jag ju lite nummeranalys i förstudien på R, på Rolfs","lang":"swe"}
+{"seq":229,"speaker":"remote","speaker_label":"Speaker 8","start_ms":387616,"end_ms":395640,"text":"Direkta plattformskonkurrenter på Erkos hemmaplan. Det här är liksom digitala plattformar som hjälper till med vertikal integration då","lang":"swe"}
+{"seq":230,"speaker":"remote","speaker_label":"Speaker 15","start_ms":395640,"end_ms":396816,"text":"Ehm","lang":"swe"}
+{"seq":232,"speaker":"remote","speaker_label":"Speaker 8","start_ms":396816,"end_ms":399208,"text":"Den, den liksom med","lang":"swe"}
+{"seq":235,"speaker":"remote","speaker_label":"Speaker 8","start_ms":399208,"end_ms":416576,"text":"Den rapporten säger aldrig rakt ut att mellanhandsrollen är död, men dess rekommendation förutsätter att den är det om Airgo inget gör så att säga. Vi behöver skaffa kontroll över bokningssystemet, flytta uppåt i värdekedjan, det säger vi redan. Vi behöver hjälpa arrangören att sänka CAC:en, customer acquisition cost","lang":"swe"}
+{"seq":236,"speaker":"remote","speaker_label":"Speaker 6","start_ms":416576,"end_ms":417816,"text":"Ja","lang":"swe"}
+{"seq":239,"speaker":"remote","speaker_label":"Speaker 8","start_ms":417816,"end_ms":427792,"text":"Och sen säger jag såhär, kör en bredare omvärldsanalys för att se om det finns förändringar på marknaden i form av plattformar eller aktörer som supporterar eller utnyttjar vertikal integration","lang":"swe"}
+{"seq":243,"speaker":"remote","speaker_label":"Speaker 8","start_ms":427792,"end_ms":431080,"text":"Sen drar den i gång här i fem minuter och så säger den såhär","lang":"swe"}
+{"seq":244,"speaker":"remote","speaker_label":"Speaker 8","start_ms":431080,"end_ms":438336,"text":"Här är den viktigaste fynden från omvärldsanalysen och de pekar tydligt på var styrelsens oro är välgrundad.","lang":"swe"}
+{"seq":246,"speaker":"remote","speaker_label":"Speaker 8","start_ms":438336,"end_ms":442200,"text":"Stärks eller försvagas mellanhandsrollen var ju utmaningen då","lang":"swe"}
+{"seq":251,"speaker":"remote","speaker_label":"Speaker 8","start_ms":442200,"end_ms":456848,"text":"Paradoxalt, traditionella mellanhänder växer just nu, men de strukturella krafterna äter dem inifrån. Det samtidiga hot, OTA, B2V-konsolidering uppifrån, AI-agenter från sidan, vertikalintegrerade arrangörer underifrån.","lang":"swe"}
+{"seq":252,"speaker":"remote","speaker_label":"Speaker 8","start_ms":456848,"end_ms":462408,"text":"Ingen lyckad spelare står still som ren wholesaler 1.0","lang":"swe"}
+{"seq":253,"speaker":"remote","speaker_label":"Speaker 8","start_ms":462408,"end_ms":469408,"text":"Viktigaste nya signaler från förstudien efter Touristic, Europas tredje största arrangör, gick i konkurs","lang":"swe"}
+{"seq":256,"speaker":"remote","speaker_label":"Speaker 8","start_ms":469408,"end_ms":479512,"text":"Och fler följde. Great Little Escapes, Jetline, Mix Travels. Alla var oberoende mellanhänder utan vertikal kontroll. Marknaden straffade exakt den position Airco har i dag","lang":"swe"}
+{"seq":259,"speaker":"remote","speaker_label":"Speaker 8","start_ms":479512,"end_ms":488336,"text":"Vertikalintegrerade vinner spektakulärt TUI Group rekordresultat, eh fyrahundrasextio hotell, sjuhundra i pipen","lang":"swe"}
+{"seq":260,"speaker":"remote","speaker_label":"Speaker 8","start_ms":488336,"end_ms":497480,"text":"Ett eget ekosystemstrategi där AI lönar sig. Roll, flyg och buss. 1374 procent i tillväxt mellan de här åren","lang":"swe"}
+{"seq":261,"speaker":"remote","speaker_label":"Speaker 8","start_ms":497480,"end_ms":504160,"text":"Omsatte 1,2 miljarder. Prognos 1,8 2026. Gasellvinnare kategorin stora bolag","lang":"swe"}
+{"seq":262,"speaker":"remote","speaker_label":"Speaker 8","start_ms":504160,"end_ms":507928,"text":"De här, ni har ju liksom busserbjudandet och allt då","lang":"swe"}
+{"seq":263,"speaker":"remote","speaker_label":"Speaker 8","start_ms":507928,"end_ms":512048,"text":"Eh, Ditor köpte hela hotellplankoncernen.","lang":"swe"}
+{"seq":264,"speaker":"remote","speaker_label":"Speaker 8","start_ms":512048,"end_ms":515592,"text":"Ja, F, tis techbolag NXI","lang":"swe"}
+{"seq":265,"speaker":"remote","speaker_label":"Speaker 16","start_ms":515592,"end_ms":517952,"text":"Konsoliderar uppåt aggressivt","lang":"swe"}
+{"seq":266,"speaker":"remote","speaker_label":"Speaker 8","start_ms":517952,"end_ms":522008,"text":"Bed Banks själva, de flyr helt ren wholesale","lang":"swe"}
+{"seq":267,"speaker":"remote","speaker_label":"Speaker 8","start_ms":522008,"end_ms":526448,"text":"Äh, de bygger i stället en agent, ett API-yta","lang":"swe"}
+{"seq":269,"speaker":"remote","speaker_label":"Speaker 8","start_ms":526448,"end_ms":528072,"text":"Hotel Bed Stop","lang":"swe"}
+{"seq":270,"speaker":"remote","speaker_label":"Speaker 6","start_ms":528072,"end_ms":529056,"text":"Ja","lang":"swe"}
+{"seq":271,"speaker":"remote","speaker_label":"Speaker 8","start_ms":529056,"end_ms":533592,"text":"Förändra identitet från att vara grossist till att bli en distributionsteknik.","lang":"swe"}
+{"seq":272,"speaker":"remote","speaker_label":"Speaker 8","start_ms":533592,"end_ms":538544,"text":"Det är ju en sån här text som vi hade kunnat nyttja då för","lang":"swe"}
+{"seq":273,"speaker":"remote","speaker_label":"Speaker 8","start_ms":538544,"end_ms":544456,"text":"För uppköp och liksom, eh, affärsuppgörelser","lang":"swe"}
+{"seq":277,"speaker":"remote","speaker_label":"Speaker 8","start_ms":544456,"end_ms":550496,"text":"Alltså säljarna liksom finns inte längre utan man använder en sån här säljkanal då","lang":"swe"}
+{"seq":278,"speaker":"remote","speaker_label":"Speaker 11","start_ms":550496,"end_ms":552088,"text":"Och köpte pilar.","lang":"swe"}
+{"seq":279,"speaker":"remote","speaker_label":"Speaker 6","start_ms":552088,"end_ms":552944,"text":"Ja","lang":"swe"}
+{"seq":280,"speaker":"remote","speaker_label":"Speaker 6","start_ms":552944,"end_ms":553736,"text":"Ja","lang":"swe"}
+{"seq":281,"speaker":"me","speaker_label":"You","start_ms":594248,"end_ms":608320,"text":"I stort och hel, eh, exempelvis om vi skulle automatisera allt vad LKR som grossist i en AI-lösning till exempel, som var närmare kunderna. Det är ju exempel en sådan ompositionering som skulle kunna vara","lang":"swe"}
+{"seq":282,"speaker":"remote","speaker_label":"Speaker 6","start_ms":553736,"end_ms":554528,"text":"[hostar]","lang":"swe"}
+{"seq":283,"speaker":"me","speaker_label":"You","start_ms":608320,"end_ms":609784,"text":"är möjligt","lang":"swe"}
+{"seq":287,"speaker":"remote","speaker_label":"Speaker 8","start_ms":554528,"end_ms":560824,"text":"Ja, så de här plattformarna jackar ju hotellägarna upp sig på då","lang":"swe"}
+{"seq":292,"speaker":"remote","speaker_label":"Speaker 8","start_ms":560824,"end_ms":569392,"text":"Och sen kommer vi som en broker mot dem liksom. Så vi kommer med kunder som vill köpa hotell och hotellen är ihopkopplade på de här då","lang":"swe"}
+{"seq":294,"speaker":"remote","speaker_label":"Speaker 8","start_ms":569392,"end_ms":575176,"text":"Så då får du, det är de här som liksom driver bidding och allting automatiserat. Ja","lang":"swe"}
+{"seq":295,"speaker":"remote","speaker_label":"Speaker 8","start_ms":575176,"end_ms":582336,"text":"Ja, webbets, eh, är en konkurrentplattform då, eh, på det här sättet","lang":"swe"}
+{"seq":296,"speaker":"remote","speaker_label":"Speaker 8","start_ms":582336,"end_ms":592984,"text":"Eh, sen har du AI distribution från Big Tech Booking, alla de här lanserar agentiska AI-flöden. Och det här driver ju det här att jag kan själv då göra skräddarsydda resor liksom, eh","lang":"swe"}
+{"seq":297,"speaker":"remote","speaker_label":"Speaker 8","start_ms":592984,"end_ms":595120,"text":"Men det är klart att","lang":"swe"}
+{"seq":299,"speaker":"remote","speaker_label":"Speaker 8","start_ms":595120,"end_ms":604968,"text":"Målgruppen är pensionärer och de som vill ha en, de vill ju ha en väldigt lejtrad upplevelse. Det att du, du i princip har någon som håller dig i handen från att du kommer till en parkering i Falkenberg","lang":"swe"}
+{"seq":301,"speaker":"remote","speaker_label":"Speaker 8","start_ms":604968,"end_ms":612608,"text":"Så vi i förstudien pratade vi väldigt mycket om det där att reseledaren är ju the killer feature i de här resorna","lang":"swe"}
+{"seq":302,"speaker":"remote","speaker_label":"Speaker 8","start_ms":612608,"end_ms":615000,"text":"Att du får den där den här","lang":"swe"}
+{"seq":305,"speaker":"remote","speaker_label":"Speaker 8","start_ms":615000,"end_ms":623248,"text":"Min pappa pratar ju extremt mycket om det, liksom den här personliga relationen under en hel resa för man klarar inte av att ta sig utanför dörren själv i princip","lang":"swe"}
+{"seq":306,"speaker":"me","speaker_label":"You","start_ms":617048,"end_ms":618448,"text":"Nej, o-o-och då","lang":"swe"}
+{"seq":307,"speaker":"remote","speaker_label":"Speaker 6","start_ms":623248,"end_ms":624296,"text":"Ja","lang":"swe"}
+{"seq":308,"speaker":"remote","speaker_label":"Speaker 6","start_ms":624296,"end_ms":625152,"text":"Eh","lang":"swe"}
+{"seq":309,"speaker":"remote","speaker_label":"Speaker 6","start_ms":625152,"end_ms":626040,"text":"Ja","lang":"swe"}
+{"seq":310,"speaker":"me","speaker_label":"You","start_ms":618448,"end_ms":621480,"text":"Då skjuter jag in igen. RK är inte den vi","lang":"swe"}
+{"seq":311,"speaker":"remote","speaker_label":"Speaker 8","start_ms":626040,"end_ms":629680,"text":"Nej, och det, det var liksom en sån","lang":"swe"}
+{"seq":312,"speaker":"remote","speaker_label":"Speaker 8","start_ms":629680,"end_ms":631880,"text":"Ja där och liksom","lang":"swe"}
+{"seq":314,"speaker":"remote","speaker_label":"Speaker 8","start_ms":631880,"end_ms":639200,"text":"Haft en po-- egentligen skulle liksom poolen ute i Sverige av bussbolag och det, det skulle ju omformas till att det är reseledare","lang":"swe"}
+{"seq":315,"speaker":"remote","speaker_label":"Speaker 8","start_ms":639200,"end_ms":645528,"text":"Ja, det var egentligen busschaufförer och reseledare. Precis det Rolf egentligen gör då. Det är dem man anställde på något sätt.","lang":"swe"}
+{"seq":316,"speaker":"remote","speaker_label":"Speaker 6","start_ms":645528,"end_ms":647504,"text":"Och sen? Och sen","lang":"swe"}
+{"seq":317,"speaker":"remote","speaker_label":"Speaker 8","start_ms":647504,"end_ms":649864,"text":"Sen har du något mackor på det där","lang":"swe"}
+{"seq":318,"speaker":"remote","speaker_label":"Speaker 8","start_ms":649864,"end_ms":650464,"text":"Ja","lang":"swe"}
+{"seq":321,"speaker":"remote","speaker_label":"Speaker 1","start_ms":650464,"end_ms":664344,"text":"Så du menar egentligen att antingen så dör bussbolagen ut därför att ingen tar över och det finns inga kunder. Eller alternativt någon tar över dem och det kommer en ny generation som inte kommer att vilja jobba med RK utan kommer att kunna göra det här själva. Ja","lang":"swe"}
+{"seq":323,"speaker":"remote","speaker_label":"Speaker 6","start_ms":664944,"end_ms":667336,"text":"Eh, lite så","lang":"swe"}
+{"seq":324,"speaker":"me","speaker_label":"You","start_ms":623280,"end_ms":624040,"text":"[outro jingle]","lang":"swe"}
+{"seq":325,"speaker":"me","speaker_label":"You","start_ms":624040,"end_ms":624832,"text":"Ja","lang":"swe"}
+{"seq":326,"speaker":"me","speaker_label":"You","start_ms":624832,"end_ms":625432,"text":"[röster i bakgrunden]","lang":"swe"}
+{"seq":327,"speaker":"me","speaker_label":"You","start_ms":625432,"end_ms":627120,"text":"Men om det är kortare nu","lang":"swe"}
+{"seq":328,"speaker":"me","speaker_label":"You","start_ms":627120,"end_ms":627880,"text":"[outro jingle]","lang":"swe"}
+{"seq":329,"speaker":"me","speaker_label":"You","start_ms":627880,"end_ms":628640,"text":"[tystnad]","lang":"swe"}
+{"seq":330,"speaker":"me","speaker_label":"You","start_ms":628640,"end_ms":629432,"text":"[musik]","lang":"swe"}
+{"seq":331,"speaker":"me","speaker_label":"You","start_ms":629432,"end_ms":630064,"text":"Ja","lang":"swe"}
+{"seq":333,"speaker":"me","speaker_label":"You","start_ms":630664,"end_ms":631392,"text":"Ja","lang":"swe"}
+{"seq":335,"speaker":"me","speaker_label":"You","start_ms":631992,"end_ms":632592,"text":"[musik]","lang":"swe"}
+{"seq":337,"speaker":"remote","speaker_label":"Speaker 6","start_ms":667336,"end_ms":667936,"text":"[outro jingle]","lang":"swe"}
+{"seq":338,"speaker":"remote","speaker_label":"Speaker 6","start_ms":667936,"end_ms":668728,"text":"[outro jingle]","lang":"swe"}
+{"seq":339,"speaker":"me","speaker_label":"You","start_ms":633192,"end_ms":633792,"text":"[talare 1]","lang":"swe"}
+{"seq":342,"speaker":"me","speaker_label":"You","start_ms":634992,"end_ms":635592,"text":"[skrammel]","lang":"swe"}
+{"seq":344,"speaker":"remote","speaker_label":"Speaker 6","start_ms":668728,"end_ms":669904,"text":"Ja, ja","lang":"swe"}
+{"seq":345,"speaker":"me","speaker_label":"You","start_ms":636192,"end_ms":636792,"text":"Hej!","lang":"swe"}
+{"seq":346,"speaker":"me","speaker_label":"You","start_ms":636792,"end_ms":637392,"text":"Mm.","lang":"swe"}
+{"seq":347,"speaker":"me","speaker_label":"You","start_ms":637392,"end_ms":637992,"text":"Mm.","lang":"swe"}
+{"seq":350,"speaker":"remote","speaker_label":"Speaker 6","start_ms":669904,"end_ms":670504,"text":"[klick]","lang":"swe"}
+{"seq":351,"speaker":"me","speaker_label":"You","start_ms":639192,"end_ms":641168,"text":"Hur värdefull är chauffören då?","lang":"swe"}
+{"seq":353,"speaker":"me","speaker_label":"You","start_ms":641800,"end_ms":643040,"text":"[tal och bakgrundsljud]","lang":"swe"}
+{"seq":354,"speaker":"remote","speaker_label":"Speaker 17","start_ms":670504,"end_ms":671360,"text":"Ja","lang":"swe"}
+{"seq":356,"speaker":"me","speaker_label":"You","start_ms":643640,"end_ms":644336,"text":"Ja","lang":"swe"}
+{"seq":357,"speaker":"remote","speaker_label":"Speaker 8","start_ms":671360,"end_ms":679608,"text":"Eh, de är ju en stämningshöjare chaufförerna också. De möter ju när du kliver på, det är god stämning. Alltså både","lang":"swe"}
+{"seq":358,"speaker":"remote","speaker_label":"Speaker 8","start_ms":679608,"end_ms":686000,"text":"Min, min förutfattade bild av det här är ju liksom att det finns en dynamik i att chauffören är man","lang":"swe"}
+{"seq":359,"speaker":"remote","speaker_label":"Speaker 8","start_ms":686000,"end_ms":694632,"text":"Och är reseledande kvinna. Och det är caterat till båda könen i, i upplevelsen. Och så har man olika jargonger med de här liksom","lang":"swe"}
+{"seq":360,"speaker":"remote","speaker_label":"Speaker 18","start_ms":694632,"end_ms":696032,"text":"När du åker då?","lang":"swe"}
+{"seq":361,"speaker":"remote","speaker_label":"Speaker 18","start_ms":696032,"end_ms":697368,"text":"Ja, lite så","lang":"swe"}
+{"seq":362,"speaker":"remote","speaker_label":"Speaker 18","start_ms":697368,"end_ms":697968,"text":"[klickljud]","lang":"swe"}
+{"seq":364,"speaker":"remote","speaker_label":"Speaker 8","start_ms":697968,"end_ms":708648,"text":"Eh, det är tryggt också såhär återköpsfrekvensen. Man vet att det är liksom den här lokala bonn som kör bussen. Nu träffar vi Ingemar här igen. Det var ju gött liksom","lang":"swe"}
+{"seq":365,"speaker":"me","speaker_label":"You","start_ms":644968,"end_ms":645792,"text":"[tal utan mikrofon]","lang":"swe"}
+{"seq":366,"speaker":"remote","speaker_label":"Speaker 8","start_ms":708648,"end_ms":709344,"text":"[skratt]","lang":"swe"}
+{"seq":367,"speaker":"me","speaker_label":"You","start_ms":645792,"end_ms":646392,"text":"[outro jingle]","lang":"swe"}
+{"seq":368,"speaker":"remote","speaker_label":"Speaker 18","start_ms":709344,"end_ms":717272,"text":"Ja, jag vet. Men då, då släpper ju Ingemar på sin son och så sonen är lika rolig han. Eller ja, dottern då","lang":"swe"}
+{"seq":369,"speaker":"remote","speaker_label":"Speaker 6","start_ms":717272,"end_ms":718224,"text":"Och se","lang":"swe"}
+{"seq":370,"speaker":"remote","speaker_label":"Speaker 6","start_ms":718224,"end_ms":718984,"text":"[musik]","lang":"swe"}
+{"seq":371,"speaker":"me","speaker_label":"You","start_ms":646392,"end_ms":648176,"text":"Det är för dig, ja","lang":"swe"}
+{"seq":372,"speaker":"me","speaker_label":"You","start_ms":648176,"end_ms":653256,"text":"Det är inte framgångsre-- det är ett framgångsrecept för RK att det är","lang":"swe"}
+{"seq":374,"speaker":"me","speaker_label":"You","start_ms":653256,"end_ms":666080,"text":"Det är ju jättetrevligt för resenärerna och för den enskilda aktören. Men det är ju inte en skalbar, garanterad process eller replicerbar, eh, liksom end-to-end försäljningsprocess","lang":"swe"}
+{"seq":375,"speaker":"me","speaker_label":"You","start_ms":666080,"end_ms":666840,"text":"[outro jingle]","lang":"swe"}
+{"seq":376,"speaker":"me","speaker_label":"You","start_ms":666840,"end_ms":672976,"text":"Ja men alltså såhär, du kan inte kontrollera Ingemar. Han kanske bara i år så tog jag och frugan och bara checka ut","lang":"swe"}
+{"seq":377,"speaker":"remote","speaker_label":"Speaker 6","start_ms":719584,"end_ms":720408,"text":"Ja","lang":"swe"}
+{"seq":378,"speaker":"me","speaker_label":"You","start_ms":672976,"end_ms":674952,"text":"Kommer jag tillbaka till BC nästa år?","lang":"swe"}
+{"seq":379,"speaker":"me","speaker_label":"You","start_ms":674952,"end_ms":675776,"text":"Mm","lang":"swe"}
+{"seq":381,"speaker":"remote","speaker_label":"Speaker 8","start_ms":720408,"end_ms":725904,"text":"Ja, det är väl kanske där Rolfs liksom, de har ju på något sätt knäckt den här nöten då att de","lang":"swe"}
+{"seq":382,"speaker":"remote","speaker_label":"Speaker 8","start_ms":725904,"end_ms":734760,"text":"Eh, de erbjuder typ liksom ett för dem som vill vara reseledare, för dem som vill vara busschaufför, så erbjuder de en, eh, liksom en","lang":"swe"}
+{"seq":384,"speaker":"remote","speaker_label":"Speaker 8","start_ms":734760,"end_ms":741760,"text":"Ett format dit man är välkommen att ansluta sig och så får du en Rolfs-strejpad buss liksom och du får gig","lang":"swe"}
+{"seq":385,"speaker":"remote","speaker_label":"Speaker 8","start_ms":741760,"end_ms":744088,"text":"Och du får resepaket","lang":"swe"}
+{"seq":386,"speaker":"remote","speaker_label":"Speaker 6","start_ms":744088,"end_ms":745168,"text":"Ja","lang":"swe"}
+{"seq":387,"speaker":"remote","speaker_label":"Speaker 6","start_ms":745168,"end_ms":745960,"text":"[musik]","lang":"swe"}
+{"seq":389,"speaker":"me","speaker_label":"You","start_ms":677008,"end_ms":683944,"text":"Det är som ICA. Du kan starta din egna matvarubutik, men det kanske är bättre att ta på ett franchise och få hjälp med hela liksom","lang":"swe"}
+{"seq":390,"speaker":"me","speaker_label":"You","start_ms":683944,"end_ms":684768,"text":"Det är alla","lang":"swe"}
+{"seq":391,"speaker":"remote","speaker_label":"Speaker 8","start_ms":746560,"end_ms":751672,"text":"Exakt. Ja, så ja, det är ju egentligen är det ju typ såhär","lang":"swe"}
+{"seq":392,"speaker":"remote","speaker_label":"Speaker 8","start_ms":751672,"end_ms":757104,"text":"Om core value proposition i den här grejen är liksom min pappa då liksom 75","lang":"swe"}
+{"seq":393,"speaker":"remote","speaker_label":"Speaker 8","start_ms":757104,"end_ms":760264,"text":"De vill ha en concierge-upplevelse hela vägen","lang":"swe"}
+{"seq":394,"speaker":"remote","speaker_label":"Speaker 8","start_ms":760264,"end_ms":765696,"text":"Ja, då det enda sättet han kan få det är via rollkonceptet och att du har en resledare","lang":"swe"}
+{"seq":395,"speaker":"remote","speaker_label":"Speaker 8","start_ms":765696,"end_ms":768760,"text":"Och Rolfs är där och de gör det bra","lang":"swe"}
+{"seq":397,"speaker":"remote","speaker_label":"Speaker 6","start_ms":768760,"end_ms":770320,"text":"V-vad?","lang":"swe"}
+{"seq":398,"speaker":"me","speaker_label":"You","start_ms":685400,"end_ms":686000,"text":"Ja","lang":"swe"}
+{"seq":399,"speaker":"remote","speaker_label":"Speaker 8","start_ms":770320,"end_ms":775976,"text":"Då, då tycker jag ju såhär, vi får ju gå head to head mot Rolfs. Det är någonstans där jag räknar att hamna","lang":"swe"}
+{"seq":400,"speaker":"remote","speaker_label":"Speaker 8","start_ms":775976,"end_ms":784192,"text":"Och i så fall är det ju att vi ska hjälpa dem att bygga upp en bättre digital plattform än vad de som på något sätt","lang":"swe"}
+{"seq":401,"speaker":"remote","speaker_label":"Speaker 6","start_ms":784192,"end_ms":785048,"text":"Ja","lang":"swe"}
+{"seq":402,"speaker":"remote","speaker_label":"Speaker 8","start_ms":785048,"end_ms":793424,"text":"Och när jag menar Rolfs då menar jag just då låser man in sig på att det värde erbjudandet är reseledaren och busschauffören, den lokala aktören","lang":"swe"}
+{"seq":403,"speaker":"remote","speaker_label":"Speaker 8","start_ms":793424,"end_ms":801928,"text":"Ändrar vi det värdeerbjudandet, då, då blir ju resebolaget något helt annat. Då kan man börja konkurrera med TUI-grejer och annat liksom","lang":"swe"}
+{"seq":405,"speaker":"remote","speaker_label":"Speaker 8","start_ms":801928,"end_ms":810528,"text":"Så att det är också viktigt att såhär, vad är egentligen värdeerbjudandet som aldrig får ruckas? För då byter du väl identitet liksom.","lang":"swe"}
+{"seq":406,"speaker":"remote","speaker_label":"Speaker 6","start_ms":810528,"end_ms":811992,"text":"Eh, ja","lang":"swe"}
+{"seq":407,"speaker":"me","speaker_label":"You","start_ms":686600,"end_ms":687360,"text":"Ja, det","lang":"swe"}
+{"seq":409,"speaker":"remote","speaker_label":"Speaker 8","start_ms":811992,"end_ms":825008,"text":"Ja men den är, det är ju en jävla nöt liksom hela den här situationen. Och det, jag tycker bara det är spännande att signalerna vi såg börjar ju komma upp här nu till ytan och asfalten krackelerar liksom","lang":"swe"}
+{"seq":410,"speaker":"remote","speaker_label":"Speaker 6","start_ms":825008,"end_ms":826792,"text":"Mm. Ja","lang":"swe"}
+{"seq":412,"speaker":"remote","speaker_label":"Speaker 19","start_ms":826792,"end_ms":829824,"text":"Och säger de att vi pratar med i torsdags om det här?","lang":"swe"}
+{"seq":413,"speaker":"remote","speaker_label":"Speaker 1","start_ms":829824,"end_ms":833272,"text":"framtiden då? Och då var det liksom någon vi får nå i avgörda","lang":"swe"}
+{"seq":414,"speaker":"me","speaker_label":"You","start_ms":688560,"end_ms":690120,"text":"Eh, då måste man ha","lang":"swe"}
+{"seq":416,"speaker":"remote","speaker_label":"Speaker 6","start_ms":833272,"end_ms":834416,"text":"Ja.","lang":"swe"}
+{"seq":418,"speaker":"me","speaker_label":"You","start_ms":690752,"end_ms":694968,"text":"De som var här, de bygger ju, det, det var ju Travelize-grundaren som var här","lang":"swe"}
+{"seq":419,"speaker":"remote","speaker_label":"Speaker 20","start_ms":835080,"end_ms":837280,"text":"Jag menar att det väl folk som eh","lang":"swe"}
+{"seq":420,"speaker":"remote","speaker_label":"Speaker 6","start_ms":837280,"end_ms":839096,"text":"Eh, från Perco också","lang":"swe"}
+{"seq":421,"speaker":"me","speaker_label":"You","start_ms":694968,"end_ms":697456,"text":"Det var bara en mil att göra","lang":"swe"}
+{"seq":423,"speaker":"me","speaker_label":"You","start_ms":697456,"end_ms":699336,"text":"[talare 1]","lang":"swe"}
+{"seq":424,"speaker":"me","speaker_label":"You","start_ms":699336,"end_ms":702336,"text":"Men gör han det, det är ju mäktigt.","lang":"swe"}
+{"seq":427,"speaker":"me","speaker_label":"You","start_ms":703536,"end_ms":704136,"text":"[outro jingle]","lang":"swe"}
+{"seq":428,"speaker":"me","speaker_label":"You","start_ms":704136,"end_ms":705056,"text":"Ja, det är det.","lang":"swe"}
+{"seq":429,"speaker":"me","speaker_label":"You","start_ms":705056,"end_ms":713720,"text":"Men, men liksom det som var här, han som var här då var ju, det är ju Travelize-grundaren. Han har startat ett nytt bolag. Han kliver ur pension för att starta ett nytt Travelize","lang":"swe"}
+{"seq":430,"speaker":"remote","speaker_label":"Speaker 6","start_ms":839696,"end_ms":840328,"text":"[klick]","lang":"swe"}
+{"seq":431,"speaker":"me","speaker_label":"You","start_ms":713720,"end_ms":717680,"text":"Eh, och först var meningen att han skulle jobba med rederier och kryssningar","lang":"swe"}
+{"seq":432,"speaker":"remote","speaker_label":"Speaker 6","start_ms":840328,"end_ms":841280,"text":"Mm","lang":"swe"}
+{"seq":433,"speaker":"me","speaker_label":"You","start_ms":717680,"end_ms":720168,"text":"Ehm, och eh","lang":"swe"}
+{"seq":434,"speaker":"remote","speaker_label":"Speaker 6","start_ms":841280,"end_ms":841880,"text":"[klick]","lang":"swe"}
+{"seq":435,"speaker":"me","speaker_label":"You","start_ms":720168,"end_ms":753920,"text":"Eh, sen så ett år in så kände han bara nej, fuck it, jag kommer höra av mig till bussbolagen igen. Eh, och då fick han ju kontakt med de största bussbolagen som RK jobbar med, Resemakan och de här. Och de kommer ju flytta då från Travelice till hans nya plattform. Så RK är ju i en rävsack där de måste också, eh, liksom då bygga en integration mot den här konkurrenten som också säger vi går AI först. Vi kommer att ha agenter som kan hjälpa dem besvara saker om sina resor och liksom de kommer att ha sin kundportalsupplevelse och försäljningshjälp och stöd och","lang":"swe"}
+{"seq":436,"speaker":"me","speaker_label":"You","start_ms":753920,"end_ms":759544,"text":"Eh, så de går ju rakt på slutkunden och, och ger dem exakt det verktyg Travelize är igen fast bättre","lang":"swe"}
+{"seq":437,"speaker":"me","speaker_label":"You","start_ms":759544,"end_ms":763472,"text":"Det är ju egentligen vad RKO ville positionera sig för också","lang":"swe"}
+{"seq":439,"speaker":"me","speaker_label":"You","start_ms":763472,"end_ms":765640,"text":"Men började med kundportal och hemsidan","lang":"swe"}
+{"seq":440,"speaker":"remote","speaker_label":"Speaker 6","start_ms":842480,"end_ms":843144,"text":"Ja","lang":"swe"}
+{"seq":441,"speaker":"remote","speaker_label":"Speaker 6","start_ms":843144,"end_ms":844224,"text":"Och","lang":"swe"}
+{"seq":442,"speaker":"remote","speaker_label":"Speaker 6","start_ms":844224,"end_ms":845496,"text":"Exakt","lang":"swe"}
+{"seq":443,"speaker":"remote","speaker_label":"Speaker 6","start_ms":845496,"end_ms":846736,"text":"Denna","lang":"swe"}
+{"seq":444,"speaker":"remote","speaker_label":"Speaker 4","start_ms":846736,"end_ms":853416,"text":"Men innefattade den här portal nya, den, den liksom den konkurrerar med vad ni tänkte med kundportalen?","lang":"swe"}
+{"seq":445,"speaker":"me","speaker_label":"You","start_ms":765640,"end_ms":780192,"text":"Nej men alltså, eh, det konkurrerar med vad RK är. Eh, för att flytta kunderna till deras nya plattform. De har den där AI-agenten, de kan få hjälp och kundsupport, de får hjälp med försäljningen, de får hjälp med marknadsföring, vilket är exakt","lang":"swe"}
+{"seq":446,"speaker":"me","speaker_label":"You","start_ms":780192,"end_ms":793080,"text":"Vad LK hoppas göra och de har redan tagit deras största kunder. De är ju ett jättehot. Eh, för nu måste LK liksom för att göra Resemakaren glad, då måste de integrera, eh, det här nya systemet mot GoTo","lang":"swe"}
+{"seq":447,"speaker":"me","speaker_label":"You","start_ms":793080,"end_ms":814576,"text":"Eh, det är ju på något vis att kapitulera till dem. Och det finns ju ingenting som stoppar den här nya aktören för att göra, från att göra reseproduktion med AI, eh, eller använda piggybacka på Googles API:er för att bygga resor. Och det var ju en av hoten som de identifierade när de satt här att du, du ge, du kommer inte ge mig några garantier att du inte tänker låta kunderna bygga egna resor","lang":"swe"}
+{"seq":450,"speaker":"remote","speaker_label":"Speaker 6","start_ms":853416,"end_ms":854560,"text":"[hostar]","lang":"swe"}
+{"seq":451,"speaker":"me","speaker_label":"You","start_ms":815872,"end_ms":831256,"text":"Med Resemaken, om vi tar dem bara för att avsluta det. Resemaken bygger redan resor själva och har redan anställt två personer för att göra det internt. Så de behöver inte RK. Eh, och nu, nu köper de ändå 200 resor per år av RK. Om det då inte finns en integration mellan RK:s grejer och deras","lang":"swe"}
+{"seq":452,"speaker":"me","speaker_label":"You","start_ms":831256,"end_ms":834224,"text":"Det finns en stor risk att de packar alla fyrahundra resor själva","lang":"swe"}
+{"seq":453,"speaker":"remote","speaker_label":"Speaker 1","start_ms":854560,"end_ms":871096,"text":"Och jag hörde någonstans, jag tror det var Daniel sa också att det är inte jätteovanligt att de här buskförare kör lite på samma saker. De har inte jättestor, alltså det finns inte jättestor efterfrågan på nu ska vi göra nya grejer hela tiden liksom skapa nytt, utan ja men det vi hade förra året gick ju bra, vi kör det igen.","lang":"swe"}
+{"seq":455,"speaker":"remote","speaker_label":"Speaker 6","start_ms":871096,"end_ms":875024,"text":"Så det finns var är det vad jag har då? Röd och","lang":"swe"}
+{"seq":456,"speaker":"remote","speaker_label":"Speaker 8","start_ms":875024,"end_ms":881224,"text":"Säkert en bussterminal. Är vi, är vi överens om de här tre nivåerna? Eh","lang":"swe"}
+{"seq":458,"speaker":"remote","speaker_label":"Speaker 8","start_ms":881224,"end_ms":885600,"text":"Alltså då, då ser vi upp mot slutresenären","lang":"swe"}
+{"seq":459,"speaker":"remote","speaker_label":"Speaker 8","start_ms":885600,"end_ms":892984,"text":"Du har, du har liksom produktion som handlar om att jobba ner mot leverantörer, flyg","lang":"swe"}
+{"seq":462,"speaker":"remote","speaker_label":"Speaker 8","start_ms":892984,"end_ms":898288,"text":"Boende, eh, plocka ihop artiklar som utgörde någonting som du kan sälja","lang":"swe"}
+{"seq":463,"speaker":"remote","speaker_label":"Speaker 6","start_ms":898288,"end_ms":899176,"text":"Och","lang":"swe"}
+{"seq":464,"speaker":"remote","speaker_label":"Speaker 8","start_ms":899176,"end_ms":903040,"text":"Och då är det så att den här nya aktören, den kommer in","lang":"swe"}
+{"seq":465,"speaker":"remote","speaker_label":"Speaker 8","start_ms":903040,"end_ms":906456,"text":"Ny aktör kommer in på denna positionen här","lang":"swe"}
+{"seq":467,"speaker":"remote","speaker_label":"Speaker 8","start_ms":906456,"end_ms":908400,"text":"För resesmakerna då eller?","lang":"swe"}
+{"seq":468,"speaker":"remote","speaker_label":"Speaker 8","start_ms":908400,"end_ms":909192,"text":"[skratt]","lang":"swe"}
+{"seq":469,"speaker":"me","speaker_label":"You","start_ms":837256,"end_ms":839392,"text":"[背景人声]","lang":"swe"}
+{"seq":470,"speaker":"remote","speaker_label":"Speaker 6","start_ms":909192,"end_ms":910016,"text":"[röst]","lang":"swe"}
+{"seq":471,"speaker":"me","speaker_label":"You","start_ms":839392,"end_ms":840952,"text":"Artian heter han","lang":"swe"}
+{"seq":472,"speaker":"remote","speaker_label":"Speaker 8","start_ms":910016,"end_ms":911608,"text":"Artiga, så","lang":"swe"}
+{"seq":473,"speaker":"me","speaker_label":"You","start_ms":840952,"end_ms":842000,"text":"[ljud från mikrofon]","lang":"swe"}
+{"seq":474,"speaker":"remote","speaker_label":"Speaker 8","start_ms":911608,"end_ms":917488,"text":"Ja, och men hur, vad har de för så att säga produktionslösning, Artigan?","lang":"swe"}
+{"seq":475,"speaker":"me","speaker_label":"You","start_ms":842000,"end_ms":847976,"text":"Nej, inte just nu någonting alls, utan det är kunderna själva som flyttar från RKO är de som packar femtio/femtio","lang":"swe"}
+{"seq":476,"speaker":"me","speaker_label":"You","start_ms":847976,"end_ms":853696,"text":"Som gör egen reseproduktion och ibland jobbar man även. Det är de som har flyttat upp","lang":"swe"}
+{"seq":478,"speaker":"remote","speaker_label":"Speaker 8","start_ms":917488,"end_ms":919496,"text":"Så Resemaken","lang":"swe"}
+{"seq":479,"speaker":"remote","speaker_label":"Speaker 8","start_ms":919496,"end_ms":921504,"text":"De använder artiga","lang":"swe"}
+{"seq":480,"speaker":"me","speaker_label":"You","start_ms":854296,"end_ms":855024,"text":"[outro jingle]","lang":"swe"}
+{"seq":483,"speaker":"remote","speaker_label":"Speaker 8","start_ms":921504,"end_ms":925336,"text":"Och sen har de in-house produktion","lang":"swe"}
+{"seq":485,"speaker":"remote","speaker_label":"Speaker 8","start_ms":925336,"end_ms":930096,"text":"Kan man säga. Eller så har de RK:s produkt","lang":"swe"}
+{"seq":487,"speaker":"remote","speaker_label":"Speaker 6","start_ms":930096,"end_ms":931048,"text":"Liksom","lang":"swe"}
+{"seq":489,"speaker":"remote","speaker_label":"Speaker 8","start_ms":931048,"end_ms":934240,"text":"Och de här går ner till leverantörer då?","lang":"swe"}
+{"seq":490,"speaker":"remote","speaker_label":"Speaker 8","start_ms":934240,"end_ms":935000,"text":"Ja","lang":"swe"}
+{"seq":493,"speaker":"me","speaker_label":"You","start_ms":858312,"end_ms":878944,"text":"Och så säger då Erko här, eller så säger Artigan här: \"Du får prata med Erko och säga till att vi får tillgång till alla dina resor i GoTo så att vi kan hjälpa dig med paketeringen och marknadsföringen och försäljningen.\" Så varje, så varje gång Erko producerar någonting så kommer de inte ha något behov av kundportalen för de kommer hämta det direkt från GoTo nu","lang":"swe"}
+{"seq":495,"speaker":"remote","speaker_label":"Speaker 8","start_ms":936200,"end_ms":946880,"text":"Mm, och här är ju då, här är det ju manuellt så att säga. RK-Prod jobbar med leverantörer manuellt. Det stansas, det samtalas, det mejlas. Det här är ju helt hål i huvudet ju","lang":"swe"}
+{"seq":496,"speaker":"me","speaker_label":"You","start_ms":879544,"end_ms":880336,"text":"[outro jingle]","lang":"swe"}
+{"seq":497,"speaker":"remote","speaker_label":"Speaker 6","start_ms":946880,"end_ms":949464,"text":"Och det, det, det här","lang":"swe"}
+{"seq":498,"speaker":"remote","speaker_label":"Speaker 8","start_ms":949464,"end_ms":953008,"text":"På den här ytan som du har då","lang":"swe"}
+{"seq":499,"speaker":"remote","speaker_label":"Speaker 6","start_ms":953008,"end_ms":954088,"text":"[bakgrundsljud]","lang":"swe"}
+{"seq":500,"speaker":"remote","speaker_label":"Speaker 8","start_ms":954088,"end_ms":961120,"text":"Det är det här du har bedbanklösningarna, eh, webbeds och hotelbeds då. Så bedbank","lang":"swe"}
+{"seq":501,"speaker":"remote","speaker_label":"Speaker 6","start_ms":961120,"end_ms":962168,"text":"Dom","lang":"swe"}
+{"seq":502,"speaker":"remote","speaker_label":"Speaker 8","start_ms":962168,"end_ms":965968,"text":"De går ju ner med a-a-automation","lang":"swe"}
+{"seq":503,"speaker":"remote","speaker_label":"Speaker 8","start_ms":965968,"end_ms":973064,"text":"Mot leverantörer och är som en bruker på de här, vilket gör att liksom artigen borde så att säga","lang":"swe"}
+{"seq":504,"speaker":"remote","speaker_label":"Speaker 8","start_ms":973064,"end_ms":974304,"text":"Om det finns","lang":"swe"}
+{"seq":505,"speaker":"remote","speaker_label":"Speaker 8","start_ms":974304,"end_ms":980504,"text":"Resebehov in mot Arktigen så borde de använda bed banks för att göra deals här nere","lang":"swe"}
+{"seq":506,"speaker":"remote","speaker_label":"Speaker 8","start_ms":980504,"end_ms":981104,"text":"[musik]","lang":"swe"}
+{"seq":507,"speaker":"me","speaker_label":"You","start_ms":880336,"end_ms":886152,"text":"Och, och som Göran sa, han ser eh, fem möjligheter men också ett stort hot","lang":"swe"}
+{"seq":508,"speaker":"remote","speaker_label":"Speaker 6","start_ms":981104,"end_ms":981960,"text":"Ja","lang":"swe"}
+{"seq":509,"speaker":"me","speaker_label":"You","start_ms":886152,"end_ms":889312,"text":"Det, det är ju det som var min, min","lang":"swe"}
+{"seq":510,"speaker":"me","speaker_label":"You","start_ms":889312,"end_ms":894360,"text":"Din fråga var, frågan är: Kan vem som helst bli en expert?","lang":"swe"}
+{"seq":511,"speaker":"me","speaker_label":"You","start_ms":894360,"end_ms":902704,"text":"Alltså många kommer nog inte försöka givet att Google annonserar att de kommer att göra reseproduktion, eh, liksom byggt in i Google","lang":"swe"}
+{"seq":512,"speaker":"remote","speaker_label":"Speaker 6","start_ms":981960,"end_ms":982624,"text":"[hostar]","lang":"swe"}
+{"seq":513,"speaker":"me","speaker_label":"You","start_ms":902704,"end_ms":908808,"text":"Så mycket B2C kommer att försvinna för äldre in i även där","lang":"swe"}
+{"seq":514,"speaker":"me","speaker_label":"You","start_ms":908808,"end_ms":913984,"text":"Men det kan ju inte vara, för det är det som är vad jag känner","lang":"swe"}
+{"seq":516,"speaker":"me","speaker_label":"You","start_ms":915224,"end_ms":915824,"text":"[musik]","lang":"swe"}
+{"seq":517,"speaker":"me","speaker_label":"You","start_ms":915824,"end_ms":917768,"text":"Producera en resa som går av","lang":"swe"}
+{"seq":518,"speaker":"me","speaker_label":"You","start_ms":917768,"end_ms":918368,"text":"Mm","lang":"swe"}
+{"seq":519,"speaker":"me","speaker_label":"You","start_ms":918368,"end_ms":920920,"text":"Ja, och de kan ha liksom","lang":"swe"}
+{"seq":520,"speaker":"me","speaker_label":"You","start_ms":920920,"end_ms":922512,"text":"[talare 1]","lang":"swe"}
+{"seq":521,"speaker":"me","speaker_label":"You","start_ms":922512,"end_ms":923112,"text":"Det","lang":"swe"}
+{"seq":523,"speaker":"me","speaker_label":"You","start_ms":923712,"end_ms":924696,"text":"Ja det ja, helt klart","lang":"swe"}
+{"seq":525,"speaker":"me","speaker_label":"You","start_ms":925296,"end_ms":925896,"text":"[outro jingle]","lang":"swe"}
+{"seq":526,"speaker":"me","speaker_label":"You","start_ms":925896,"end_ms":930784,"text":"Men alltihop vad Google kommer göra. Det kan vem som helst utan kostnad bara","lang":"swe"}
+{"seq":527,"speaker":"me","speaker_label":"You","start_ms":930784,"end_ms":939128,"text":"Det ska skalera liksom. Folk inte hänger på random hotell och bara. En idé är lite vi, öh, kommer till Booking eller Airbnb och Google och vad det är","lang":"swe"}
+{"seq":528,"speaker":"me","speaker_label":"You","start_ms":939128,"end_ms":941424,"text":"Det finns ju att vara ett","lang":"swe"}
+{"seq":529,"speaker":"me","speaker_label":"You","start_ms":941424,"end_ms":942024,"text":"Okej.","lang":"swe"}
+{"seq":530,"speaker":"me","speaker_label":"You","start_ms":942024,"end_ms":942752,"text":"Ja, det är","lang":"swe"}
+{"seq":531,"speaker":"me","speaker_label":"You","start_ms":942752,"end_ms":943352,"text":"[outro jingle]","lang":"swe"}
+{"seq":533,"speaker":"me","speaker_label":"You","start_ms":943952,"end_ms":945064,"text":"[talare 1]","lang":"swe"}
+{"seq":534,"speaker":"me","speaker_label":"You","start_ms":945064,"end_ms":945664,"text":"Ja det är det","lang":"swe"}
+{"seq":535,"speaker":"me","speaker_label":"You","start_ms":945664,"end_ms":947672,"text":"Ja, luckan var inte","lang":"swe"}
+{"seq":536,"speaker":"me","speaker_label":"You","start_ms":947672,"end_ms":948272,"text":"[talare 1 skrattar]","lang":"swe"}
+{"seq":538,"speaker":"me","speaker_label":"You","start_ms":948872,"end_ms":949472,"text":"[skratt]","lang":"swe"}
+{"seq":539,"speaker":"me","speaker_label":"You","start_ms":949472,"end_ms":950072,"text":"[outro jingle]","lang":"swe"}
+{"seq":540,"speaker":"me","speaker_label":"You","start_ms":950072,"end_ms":950928,"text":"Eh","lang":"swe"}
+{"seq":541,"speaker":"me","speaker_label":"You","start_ms":950928,"end_ms":951848,"text":"Eh, och, och","lang":"swe"}
+{"seq":543,"speaker":"me","speaker_label":"You","start_ms":951848,"end_ms":956992,"text":"Eh, alltså det, det paradoxen med RKR","lang":"swe"}
+{"seq":545,"speaker":"me","speaker_label":"You","start_ms":956992,"end_ms":974168,"text":"De kanske kan få ner priserna, men de indirekt för att tjäna pengar höjer ju liksom marginalen av sin egna tjänster jämte mot liksom kunden. Det, det är egentligen bara de här två levererna de har, vapnen de har. De kan försöka förhandla ner priserna med sina leverantörer och höja marginal liksom för sin egna tjänst","lang":"swe"}
+{"seq":546,"speaker":"me","speaker_label":"You","start_ms":974168,"end_ms":986608,"text":"Och det kunderna köper är ju alltmer utmanat av kunden som säger: \"Ni skapar ingen guldkant\". Så de där extra pengarna för att vi ska anställa någon och liksom prata direkt med leverantörerna, eh, det är inte, det är liksom inte värt det","lang":"swe"}
+{"seq":547,"speaker":"me","speaker_label":"You","start_ms":986608,"end_ms":993544,"text":"Det finns inget där det, det finns inget där det i det projektet vi står för. De tar ju, de tar ju hela risken","lang":"swe"}
+{"seq":548,"speaker":"me","speaker_label":"You","start_ms":993544,"end_ms":995616,"text":"[ohörbart]","lang":"swe"}
+{"seq":549,"speaker":"me","speaker_label":"You","start_ms":995616,"end_ms":996216,"text":"[outro jingle]","lang":"swe"}
+{"seq":550,"speaker":"me","speaker_label":"You","start_ms":996216,"end_ms":997328,"text":"Ja","lang":"swe"}
+{"seq":551,"speaker":"me","speaker_label":"You","start_ms":997328,"end_ms":997928,"text":"[skrattar]","lang":"swe"}
+{"seq":552,"speaker":"me","speaker_label":"You","start_ms":997928,"end_ms":998528,"text":"[tystnad]","lang":"swe"}
+{"seq":553,"speaker":"me","speaker_label":"You","start_ms":998528,"end_ms":999128,"text":"[outro jingle]","lang":"swe"}
+{"seq":554,"speaker":"me","speaker_label":"You","start_ms":999128,"end_ms":999728,"text":"[musik]","lang":"swe"}
+{"seq":555,"speaker":"me","speaker_label":"You","start_ms":999728,"end_ms":1000328,"text":"[tystnad]","lang":"swe"}
+{"seq":556,"speaker":"me","speaker_label":"You","start_ms":1000328,"end_ms":1000928,"text":"[outro jingle]","lang":"swe"}
+{"seq":558,"speaker":"me","speaker_label":"You","start_ms":1001528,"end_ms":1002128,"text":"Absolut, det gör vi","lang":"swe"}
+{"seq":559,"speaker":"me","speaker_label":"You","start_ms":1002128,"end_ms":1002728,"text":"[skratt]","lang":"swe"}
+{"seq":560,"speaker":"me","speaker_label":"You","start_ms":1002728,"end_ms":1003328,"text":"Ja","lang":"swe"}
+{"seq":561,"speaker":"me","speaker_label":"You","start_ms":1003328,"end_ms":1010904,"text":"Eftersom och då vill ju de kontrollera att det inte är lika stor risk och då måste ju de vara med och beblanda sig med försäljningen av marknadstörning","lang":"swe"}
+{"seq":562,"speaker":"me","speaker_label":"You","start_ms":1010904,"end_ms":1018352,"text":"Och det är där Artygon och Travelife nu sitter uppe på deras kunder och redan gör det åt hundra. Men nu frågan, vad är värdet av","lang":"swe"}
+{"seq":564,"speaker":"me","speaker_label":"You","start_ms":1018952,"end_ms":1019552,"text":"[outro jingle]","lang":"swe"}
+{"seq":565,"speaker":"me","speaker_label":"You","start_ms":1019552,"end_ms":1020728,"text":"Det är skjutit rätt","lang":"swe"}
+{"seq":566,"speaker":"me","speaker_label":"You","start_ms":1020728,"end_ms":1021328,"text":"Bra","lang":"swe"}
+{"seq":567,"speaker":"me","speaker_label":"You","start_ms":1021328,"end_ms":1021928,"text":"[talare 1 skrattar]","lang":"swe"}
+{"seq":568,"speaker":"me","speaker_label":"You","start_ms":1021928,"end_ms":1022816,"text":"[talare 1 skrattar]","lang":"swe"}
+{"seq":569,"speaker":"me","speaker_label":"You","start_ms":1022816,"end_ms":1023416,"text":"[outro jingle]","lang":"swe"}
+{"seq":570,"speaker":"me","speaker_label":"You","start_ms":1023416,"end_ms":1025744,"text":"Kamreter, kårar, där ni","lang":"swe"}
+{"seq":572,"speaker":"me","speaker_label":"You","start_ms":1026344,"end_ms":1026944,"text":"Ja","lang":"swe"}
+{"seq":573,"speaker":"me","speaker_label":"You","start_ms":1026944,"end_ms":1027928,"text":"兄弟们有没有","lang":"swe"}
+{"seq":575,"speaker":"me","speaker_label":"You","start_ms":1028528,"end_ms":1029256,"text":"[talare 1]","lang":"swe"}
+{"seq":576,"speaker":"me","speaker_label":"You","start_ms":1029256,"end_ms":1031904,"text":"Jag hade gärna, jag hade gärna stilt upp mig","lang":"swe"}
+{"seq":577,"speaker":"me","speaker_label":"You","start_ms":1031904,"end_ms":1034072,"text":"Det är Thailand vi, vi kommer inte","lang":"swe"}
+{"seq":578,"speaker":"me","speaker_label":"You","start_ms":1034072,"end_ms":1034672,"text":"[outro jingle]","lang":"swe"}
+{"seq":579,"speaker":"me","speaker_label":"You","start_ms":1034672,"end_ms":1035432,"text":"Ja, ja","lang":"swe"}
+{"seq":580,"speaker":"me","speaker_label":"You","start_ms":1035432,"end_ms":1038048,"text":"Och och det är ett värde för mig. Jag får en","lang":"swe"}
+{"seq":582,"speaker":"me","speaker_label":"You","start_ms":1038648,"end_ms":1040624,"text":"Var, var i leden?","lang":"swe"}
+{"seq":583,"speaker":"me","speaker_label":"You","start_ms":1040624,"end_ms":1045608,"text":"Det smäller ju hos EDK. Ja, de sitter ju på nästan all risk","lang":"swe"}
+{"seq":584,"speaker":"me","speaker_label":"You","start_ms":1045608,"end_ms":1047968,"text":"Och det kanske är vi som väljer på äpplet","lang":"swe"}
+{"seq":585,"speaker":"me","speaker_label":"You","start_ms":1047968,"end_ms":1053240,"text":"Jo men att, ja att de sitter på den risken är ju också deras största problem","lang":"swe"}
+{"seq":586,"speaker":"me","speaker_label":"You","start_ms":1053240,"end_ms":1070032,"text":"Så att de kan, ja, ja. Samtidigt. Det är deras styrka men också största problem. Ja, för de kan ju inte kontrollera flödet. För att om de då har en, alltså som Rolfs flyg och buss då, de har en framförhållning med sina chaufförer och reseledare på ett år. Då vet de att deras resor om tolv månader kommer att gå","lang":"swe"}

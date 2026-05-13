@@ -1,6 +1,7 @@
 id = "37a4a6c7-fb30-41bb-ba77-ad33a5267967"
 title = "Möte #3"
 started_at = 1778655708
+ended_at = 1778658181
 participants = []
 project_id = "1d27b3d1-197b-412c-a5be-01f8ccafe9c4"
 primary_language = "sv"
