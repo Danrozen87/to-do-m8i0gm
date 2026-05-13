@@ -1,0 +1,31 @@
+{"seq":0,"speaker":"me","speaker_label":"You","start_ms":0,"end_ms":2464,"text":"Kyrkan har börjat med dina int","lang":"swe"}
+{"seq":1,"speaker":"me","speaker_label":"You","start_ms":2464,"end_ms":3832,"text":"Nej, det är dumt","lang":"swe"}
+{"seq":3,"speaker":"me","speaker_label":"You","start_ms":4496,"end_ms":5320,"text":"Ja, det märker jag","lang":"swe"}
+{"seq":8,"speaker":"me","speaker_label":"You","start_ms":7720,"end_ms":8768,"text":"Du, du menar inte","lang":"swe"}
+{"seq":11,"speaker":"me","speaker_label":"You","start_ms":9968,"end_ms":10568,"text":"Mm.","lang":"swe"}
+{"seq":12,"speaker":"me","speaker_label":"You","start_ms":10568,"end_ms":11168,"text":"De blir","lang":"swe"}
+{"seq":13,"speaker":"me","speaker_label":"You","start_ms":11168,"end_ms":11768,"text":"[tal och bakgrundsljud]","lang":"swe"}
+{"seq":15,"speaker":"me","speaker_label":"You","start_ms":12368,"end_ms":13800,"text":"Som jag inte","lang":"swe"}
+{"seq":16,"speaker":"me","speaker_label":"You","start_ms":13800,"end_ms":14400,"text":"Ja, det är bra","lang":"swe"}
+{"seq":18,"speaker":"me","speaker_label":"You","start_ms":14400,"end_ms":15064,"text":"[bakgrundsljud]","lang":"swe"}
+{"seq":19,"speaker":"remote","speaker_label":"Speaker 1","start_ms":600,"end_ms":1360,"text":"Okej","lang":"swe"}
+{"seq":20,"speaker":"me","speaker_label":"You","start_ms":15064,"end_ms":15760,"text":"Hej!","lang":"swe"}
+{"seq":21,"speaker":"me","speaker_label":"You","start_ms":15760,"end_ms":16616,"text":"Det är på det sättet","lang":"swe"}
+{"seq":22,"speaker":"me","speaker_label":"You","start_ms":16616,"end_ms":17216,"text":"[talare 1 pratar]","lang":"swe"}
+{"seq":24,"speaker":"me","speaker_label":"You","start_ms":17816,"end_ms":18416,"text":"Ja","lang":"swe"}
+{"seq":25,"speaker":"me","speaker_label":"You","start_ms":18416,"end_ms":19272,"text":"Så kan vi börja","lang":"swe"}
+{"seq":27,"speaker":"me","speaker_label":"You","start_ms":19872,"end_ms":20472,"text":"[outro jingle]","lang":"swe"}
+{"seq":28,"speaker":"me","speaker_label":"You","start_ms":20472,"end_ms":21072,"text":"[outro jingle]","lang":"swe"}
+{"seq":29,"speaker":"me","speaker_label":"You","start_ms":21072,"end_ms":21672,"text":"Ja","lang":"swe"}
+{"seq":30,"speaker":"me","speaker_label":"You","start_ms":21672,"end_ms":22528,"text":"[bakgrundsmusik]","lang":"swe"}
+{"seq":31,"speaker":"me","speaker_label":"You","start_ms":22528,"end_ms":23128,"text":"[talare 1]","lang":"swe"}
+{"seq":32,"speaker":"me","speaker_label":"You","start_ms":23128,"end_ms":24464,"text":"[mumlar]","lang":"swe"}
+{"seq":33,"speaker":"me","speaker_label":"You","start_ms":24464,"end_ms":25064,"text":"[talare 1]","lang":"swe"}
+{"seq":34,"speaker":"me","speaker_label":"You","start_ms":25064,"end_ms":25664,"text":"Mm.","lang":"swe"}
+{"seq":35,"speaker":"me","speaker_label":"You","start_ms":25664,"end_ms":26264,"text":"Det är min mening","lang":"swe"}
+{"seq":37,"speaker":"me","speaker_label":"You","start_ms":26864,"end_ms":28296,"text":"Så har de den här turlyckan","lang":"swe"}
+{"seq":38,"speaker":"me","speaker_label":"You","start_ms":28296,"end_ms":29696,"text":"[bakgrundsröster]","lang":"swe"}
+{"seq":41,"speaker":"me","speaker_label":"You","start_ms":30896,"end_ms":31496,"text":"Mm","lang":"swe"}
+{"seq":42,"speaker":"me","speaker_label":"You","start_ms":31496,"end_ms":32096,"text":"[talare 1 skrattar]","lang":"swe"}
+{"seq":43,"speaker":"me","speaker_label":"You","start_ms":32096,"end_ms":32696,"text":"Ja, det är molt bra","lang":"swe"}
+{"seq":44,"speaker":"me","speaker_label":"You","start_ms":32696,"end_ms":33296,"text":"[outro jingle]","lang":"swe"}
