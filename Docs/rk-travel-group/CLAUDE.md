@@ -7,7 +7,7 @@ Detta repo speglar Mote-projektet "RK Travel Group". Allt under `_kund/`, `tasks
 
 ## Aktiva uppgifter
 
-_Inga aktiva uppgifter._
+- A working session reviewing a finance/budget app: structure, naming, workflow, version control, and UX bugs.
 
 ## Senaste möten
 
