@@ -1,37 +1,37 @@
-# Budget app review: meeting summary
+# Budgetapp-genomgång: mötessammanfattning
 
-**Source meeting:** *Fyra separata budgetsektioner för projektet* (~72 min, Swedish)
-**Meeting ID:** `3dbbafa0-5f1d-44e0-8993-0d3207aae20f`
-**Project:** RK Travel Group
+**Källmöte:** *Fyra separata budgetsektioner för projektet* (~72 min, svenska)
+**Mötes-ID:** `3dbbafa0-5f1d-44e0-8993-0d3207aae20f`
+**Projekt:** RK Travel Group
 
-A working session reviewing a finance/budget app: structure, naming, workflow, version control, and UX bugs.
+Ett arbetspass där teamet gick igenom en ekonomi- och budgetapp: struktur, namngivning, arbetsflöde, versionshantering och UX-buggar.
 
 ---
 
-## Big decisions
+## Stora beslut
 
-- Split the budget into **four sections**: revenue, COGS, personnel costs, other costs (each owned by a different stakeholder). Drill-down by section / product / department.
-- Rename **"baseline" → "budget proposal"**, **"draft" → "budget draft"**.
-- Insert a new **"waiting to be approved"** status between *submitted* and *approved*; drop the separate "locked" step (approval becomes the lock).
-- The app's language should be **English throughout**; translate remaining Swedish UI.
-- Add **version snapshots** (e.g. "eleventh November version") with Excel export per version.
+- Dela upp budgeten i **fyra sektioner**: intäkter, COGS, personalkostnader och övriga kostnader (varje sektion ägs av olika intressenter). Drill-down per sektion, produkt eller avdelning.
+- Döp om **"baseline" → "budget proposal"** och **"draft" → "budget draft"**.
+- Lägg till en ny status **"waiting to be approved"** mellan *submitted* och *approved*; ta bort det separata "locked"-steget (approval blir låsningen).
+- Appens språk ska vara **engelska genomgående**; det svenska som finns kvar i UI:et ska översättas.
+- Lägg till **versions-snapshots** (t.ex. "version elfte november") med Excel-export per version.
 
-## Open questions worth flagging
+## Öppna frågor värda att flagga
 
-- How to allocate **COGS to specific products** when some costs are product-specific and others are general.
-- Whether **travel costs** belong under personnel costs or other costs, and how to display them.
-- How to handle **row-level locking**: who locks, who unlocks, what's reversible.
-- How to handle **notifications** for the new "waiting to be approved" step.
-- How **version numbers and dates** should be displayed to avoid confusion between drafts and finals.
+- Hur **COGS ska fördelas på specifika produkter** när vissa kostnader är produktspecifika och andra generella.
+- Om **resekostnader** hör hemma under personalkostnader eller övriga kostnader, och hur de ska visas.
+- Hur **låsning på radnivå** ska fungera: vem låser, vem låser upp, vad är reversibelt.
+- Hur **notifikationer** ska hanteras för det nya "waiting to be approved"-steget.
+- Hur **versionsnummer och datum** ska visas för att undvika förväxling mellan utkast och slutversioner.
 
-## Operational gripes (UX / bugs)
+## Operativa anmärkningar (UX och buggar)
 
-- **Wrong fiscal year** shown on dashboard (2026 vs 2027); needs to be synced everywhere.
-- **Cost centers not clickable** (19 active, but no navigation).
-- **Audit log** has timestamps + user IDs but no descriptive entries; bad for traceability.
-- **Copy-row** should duplicate the marked row without extra prompts.
-- **Add-line** should behave like Excel: quick row insertion.
-- **No undo** (Ctrl-Z) for accidental edits/deletions.
-- **App freezes** on large datasets; performance concern.
-- A blue notification box in the budget tab still needs translation to English.
-- A "global adjustment" setting is set to 28 with no clear purpose; needs clarification.
+- **Fel räkenskapsår** visas på dashboarden (2026 mot 2027); måste synkas överallt.
+- **Cost centers är inte klickbara** (19 aktiva, men ingen navigering).
+- **Audit-loggen** har tidsstämplar och user-id:n men inga beskrivande poster; dåligt för spårbarheten.
+- **Copy-row** ska kopiera den markerade raden utan extra frågor.
+- **Add-line** ska bete sig som Excel: snabb radinmatning.
+- **Inget undo** (Ctrl-Z) för oavsiktliga ändringar eller raderingar.
+- **Appen fryser** vid stora dataset; prestandaproblem.
+- En blå notifikationsruta i budget-fliken behöver fortfarande översättas till engelska.
+- En "global adjustment"-inställning är satt till 28 utan tydligt syfte; behöver klargöras.
