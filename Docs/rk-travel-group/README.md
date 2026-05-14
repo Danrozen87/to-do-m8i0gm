@@ -3,7 +3,6 @@
 
 **Senast uppdaterad**: 2026-05-14
 **Status**: 🟢 Aktivt
-**Område**: Weapp
 <!-- mote:end:header -->
 
 <!-- mote:begin:notes -->
