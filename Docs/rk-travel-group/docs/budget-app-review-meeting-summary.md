@@ -35,7 +35,3 @@ A working session reviewing a finance/budget app: structure, naming, workflow, v
 - **App freezes** on large datasets; performance concern.
 - A blue notification box in the budget tab still needs translation to English.
 - A "global adjustment" setting is set to 28 with no clear purpose; needs clarification.
-
----
-
-*Generated from the meeting's auto-summary on 2026-05-13.*
