@@ -1,9 +1,26 @@
 [
-  "areas/weapp.toml",
-  "meetings/2026-05-13-m-te-3/meta.toml",
-  "meetings/2026-05-13-m-te-3/summary.md",
-  "meetings/2026-05-13-m-te-3/transcript.ndjson",
-  "projects/rk-travel-group/docs/budget-app-review-meeting-summary.md",
-  "projects/rk-travel-group/meta.toml",
-  "projects/rk-travel-group/notes.md"
+  {
+    "path": "CLAUDE.md",
+    "user_owned": false
+  },
+  {
+    "path": "README.md",
+    "user_owned": false
+  },
+  {
+    "path": "_kund/moten/2026-05-13-mote-3.md",
+    "user_owned": false
+  },
+  {
+    "path": "_kund/projektoversikt.md",
+    "user_owned": false
+  },
+  {
+    "path": "docs/budget-app-review-meeting-summary.md",
+    "user_owned": false
+  },
+  {
+    "path": "tasks.md",
+    "user_owned": false
+  }
 ]
