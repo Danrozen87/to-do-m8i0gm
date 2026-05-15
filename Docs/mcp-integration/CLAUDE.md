@@ -11,5 +11,5 @@ _Inga aktiva uppgifter._
 
 ## Senaste möten
 
-- 2026-05-13 — Möte #3
+- 2026-05-13 — Meeting #1
 <!-- mote:end:context -->
