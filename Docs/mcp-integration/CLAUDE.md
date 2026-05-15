@@ -11,5 +11,5 @@ _Inga aktiva uppgifter._
 
 ## Senaste möten
 
-- 2026-05-13 — Meeting #1
+- 2026-05-13 — MCP Meeting 13/5
 <!-- mote:end:context -->
