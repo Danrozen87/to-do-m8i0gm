@@ -3,7 +3,7 @@
 
 Detta repo speglar Mote-projektet "RK Travel Group". Allt under `_kund/`, `tasks.md`, `docs/` är automatiskt synkat från Mote. Filer (eller block) utanför Mote-markerade `<!-- mote:* -->` taggar är användarkuraterade och får inte skrivas över av agenter.
 
-**Senast genererad**: 2026-05-14
+**Senast genererad**: 2026-05-15
 
 ## Aktiva uppgifter
 

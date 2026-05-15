@@ -1,9 +1,8 @@
 <!-- mote:begin:header -->
 # RK Travel Group
 
-**Senast uppdaterad**: 2026-05-14
+**Senast uppdaterad**: 2026-05-15
 **Status**: 🟢 Aktivt
-**Område**: Weapp
 <!-- mote:end:header -->
 
 <!-- mote:begin:notes -->
