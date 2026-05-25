@@ -1,0 +1,330 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Vitec Mäklare Connect — Översikt</title>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<style>
+  :root {
+    --ink: #111;
+    --paper: #fff;
+    --line: #d9d9d9;
+    --soft: #f5f5f5;
+    --mute: #5a5a5a;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.55;
+    margin: 0;
+    padding: 0;
+  }
+  main {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 48px 32px 96px;
+  }
+  header {
+    border-bottom: 1px solid var(--ink);
+    padding-bottom: 16px;
+    margin-bottom: 32px;
+  }
+  h1 {
+    font-size: 22px;
+    margin: 0 0 4px;
+    letter-spacing: -0.01em;
+  }
+  header p {
+    margin: 0;
+    color: var(--mute);
+    font-size: 13px;
+  }
+  h2 {
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin: 40px 0 12px;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 6px;
+  }
+  h3 {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--mute);
+    margin: 20px 0 8px;
+  }
+  p { margin: 8px 0; }
+  ul { margin: 8px 0; padding-left: 20px; }
+  li { margin: 4px 0; }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 12px 0;
+    font-size: 13px;
+  }
+  th, td {
+    text-align: left;
+    padding: 8px 10px;
+    border-bottom: 1px solid var(--line);
+    vertical-align: top;
+  }
+  th {
+    font-weight: 600;
+    background: var(--soft);
+    border-bottom: 1px solid var(--ink);
+  }
+  code, pre {
+    font-family: "SF Mono", Menlo, Consolas, monospace;
+    font-size: 12.5px;
+  }
+  pre {
+    background: var(--soft);
+    border: 1px solid var(--line);
+    padding: 12px 14px;
+    overflow-x: auto;
+    margin: 8px 0;
+  }
+  code { background: var(--soft); padding: 1px 5px; }
+  pre code { background: transparent; padding: 0; }
+  .grid-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+  .card {
+    border: 1px solid var(--line);
+    padding: 14px 16px;
+    background: var(--paper);
+  }
+  .card h3 { margin-top: 0; }
+  .mermaid {
+    background: var(--soft);
+    border: 1px solid var(--line);
+    padding: 18px;
+    margin: 8px 0;
+    text-align: center;
+  }
+  .badge {
+    display: inline-block;
+    border: 1px solid var(--ink);
+    padding: 1px 8px;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin-right: 6px;
+  }
+  footer {
+    margin-top: 56px;
+    padding-top: 16px;
+    border-top: 1px solid var(--line);
+    color: var(--mute);
+    font-size: 12px;
+  }
+  .muted { color: var(--mute); }
+  @media (max-width: 640px) {
+    .grid-2 { grid-template-columns: 1fr; }
+    main { padding: 32px 18px 64px; }
+  }
+</style>
+</head>
+<body>
+<main>
+
+<header>
+  <h1>Vitec Mäklare Connect — Översikt</h1>
+  <p>Teknisk one-pager · data, mognad, värde för mäklare</p>
+</header>
+
+<section>
+  <h2>Sammanfattning</h2>
+  <p>
+    Vitec Express är det vanligaste mäklarsystemet i Sverige. <strong>Connect</strong> är deras REST-API
+    som ger åtkomst till samma data och affärslogik som mäklarna ser i sitt dagliga verktyg —
+    objekt, kontakter, spekulanter, visningar, bud och sökprofiler.
+  </p>
+  <p>
+    <span class="badge">Moget</span>
+    <span class="badge">REST · JSON</span>
+    <span class="badge">Basic Auth</span>
+    <span class="badge">Webhooks</span>
+    Åtkomst kräver partneravtal med Vitec. Det finns en QA-miljö, men inga öppna testkonton.
+  </p>
+</section>
+
+<section>
+  <h2>Vilken data finns?</h2>
+  <div class="mermaid">
+flowchart LR
+  C["Connect API"] --> O["Objekt<br/>Villa · Bostadsrätt · Tomt · Fritidshus · Projekt"]
+  C --> K["Kontakter<br/>Personer · Företag · Dödsbon"]
+  C --> S["Spekulanter<br/>Koppling kontakt och objekt"]
+  C --> SP["Sökprofiler<br/>Vad spekulanten letar efter"]
+  C --> V["Visningar<br/>Tidsluckor · Deltagare · Uppföljning"]
+  C --> B["Bud<br/>Historik per objekt och kontakt"]
+  C --> M["Möten och leads<br/>Källa per uppdrag"]
+  C --> A["Annonsering<br/>Bilder · Texter · GDPR-samtycke"]
+  C --> N["Notifieringar<br/>Webhook vid förändring"]
+  </div>
+</section>
+
+<section>
+  <h2>Spekulantens resa i datan</h2>
+  <div class="mermaid">
+flowchart TD
+  L["Lead kommer in<br/>webb, visning, kallt"] --> P["Skapa kontakt<br/>POST Contacts/UpdatePerson"]
+  L --> I["Skapa intresse<br/>POST Interest/SendInterestAndContactOnEstate"]
+  I --> SP["Sökprofil<br/>område, pris, rum"]
+  P --> SPEK["Roll: Spekulant<br/>kopplad till objekt"]
+  SPEK --> VIS["Visning<br/>GET Viewing / PUT ViewingParticipant"]
+  VIS --> BUD["Bud lagt<br/>POST CRM/Bid"]
+  BUD --> STAT["Status uppdateras<br/>Speculator_Status"]
+  STAT --> AVS["Avslut eller åter i pipeline"]
+  </div>
+</section>
+
+<section>
+  <h2>Mognad i korthet</h2>
+  <table>
+    <tr><th>Område</th><th>Status</th></tr>
+    <tr><td>API-stil</td><td>REST, versionerat (v1), JSON och XML</td></tr>
+    <tr><td>Specifikation</td><td>OpenAPI/Swagger på <code>/swagger/docs/v1</code> (bakom inloggning)</td></tr>
+    <tr><td>Bredd</td><td>Bostäder, CRM, annons, BI, rapporter, AML</td></tr>
+    <tr><td>Skriva data</td><td>Ja — skapa och uppdatera objekt, kontakter, intressen, bud</td></tr>
+    <tr><td>Realtid</td><td>Webhook-prenumerationer (sätts upp manuellt av Vitec)</td></tr>
+    <tr><td>Miljöer</td><td>Produktion och QA (<code>connect.qa01.maklare.vitec.net</code>)</td></tr>
+    <tr><td>Onboarding</td><td>Partnerregistrering + manuell godkännande av Vitec</td></tr>
+    <tr><td>Öppna testkonton</td><td>Nej</td></tr>
+  </table>
+</section>
+
+<section>
+  <h2>Så ser ett anrop ut</h2>
+  <h3>Hämta lista över objekt</h3>
+<pre><code>POST /Estate/GetEstateList
+Authorization: Basic &lt;base64(användare:lösen)&gt;
+Content-Type: application/json
+
+{
+  "customerId": "&lt;mäklarbyrå-id&gt;",
+  "statuses": [{ "id": "&lt;status-id&gt;" }],
+  "typeOfDate": 0
+}</code></pre>
+
+  <h3>Registrera ett intresse från webbformulär</h3>
+<pre><code>POST /Interest/SendInterestAndContactOnEstate
+
+{
+  "updatePerson": {
+    "firstName": "Anna",
+    "lastName": "Andersson",
+    "email": { "emailAddress": "anna@exempel.se" },
+    "cellPhone": "0701234567"
+  },
+  "estateId": "&lt;objekt-id&gt;"
+}</code></pre>
+  <p class="muted">Vitec gör automatisk dubblettkontroll innan kontakten skapas.</p>
+</section>
+
+<section>
+  <h2>Värdefulla användningsområden för svenska mäklare</h2>
+
+  <div class="grid-2">
+    <div class="card">
+      <h3>Smartare matchning</h3>
+      <p>
+        Matcha sökprofiler mot nya objekt automatiskt och skicka rätt tips till
+        rätt spekulant — utan manuellt arbete.
+      </p>
+    </div>
+    <div class="card">
+      <h3>Pipeline per objekt</h3>
+      <p>
+        Visa varje spekulants status i tratten — registrerat intresse, visat,
+        budat, vunnit eller försvunnit — för bättre överblick på säljmöten.
+      </p>
+    </div>
+    <div class="card">
+      <h3>Uppföljning efter visning</h3>
+      <p>
+        Lista alla deltagare från senaste visning som ännu inte lagt bud, med
+        kontaktuppgifter och rätt GDPR-status — färdigt för en ringrunda.
+      </p>
+    </div>
+    <div class="card">
+      <h3>Lead-attribution</h3>
+      <p>
+        Se vilka kanaler som faktiskt levererar köpare — webb, Hemnet, visning,
+        rekommendation — och styr marknadsbudgeten dit det funkar.
+      </p>
+    </div>
+    <div class="card">
+      <h3>Bostadshistorik per person</h3>
+      <p>
+        Bygg en CRM-vy som visar alla tidigare bud, visningar och kontakter med
+        samma person över åren. Ger argument för återkontakt.
+      </p>
+    </div>
+    <div class="card">
+      <h3>Realtidsuppdatering på webben</h3>
+      <p>
+        Använd webhook-prenumerationer för att hålla mäklarens egna sajt synkad
+        utan att pollerar API:et i onödan.
+      </p>
+    </div>
+    <div class="card">
+      <h3>GDPR-överblick</h3>
+      <p>
+        Visa tydligt vilka spekulanter har giltigt samtycke för marknadsföring,
+        vilka går ut snart, och vilka som måste tas bort.
+      </p>
+    </div>
+    <div class="card">
+      <h3>Återkommande spekulanter</h3>
+      <p>
+        Identifiera spekulanter som synts på flera objekt utan att vinna — ofta
+        de mest köpvilliga om man hittar rätt match nästa gång.
+      </p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Att verifiera innan bygge</h2>
+  <ul>
+    <li>Få partneråtkomst och dra OpenAPI-spec från <code>/swagger/docs/v1</code>.</li>
+    <li>Klargör exakt hur listan av spekulanter per objekt hämtas (resurs eller expansion).</li>
+    <li>Be Vitec om fullständig lista på vilka händelser webhook-systemet kan prenumerera på.</li>
+    <li>Pin:a rate limits och svarstider innan synksystem designas.</li>
+  </ul>
+</section>
+
+<footer>
+  Källor: connect.maklare.vitec.net · vitec-maklarsystem.com · publik integration på GitHub (sini6a/ctrl-vitec-integration).
+</footer>
+
+</main>
+<script>
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: "base",
+    themeVariables: {
+      background: "#f5f5f5",
+      primaryColor: "#ffffff",
+      primaryTextColor: "#111111",
+      primaryBorderColor: "#111111",
+      lineColor: "#111111",
+      secondaryColor: "#ffffff",
+      tertiaryColor: "#ffffff",
+      fontFamily: "-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif",
+      fontSize: "13px"
+    },
+    flowchart: { curve: "basis", htmlLabels: true, useMaxWidth: true }
+  });
+</script>
+</body>
+</html>
